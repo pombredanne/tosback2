@@ -161,8 +161,9 @@ You represent that you have read and understood them.</p>
 </li>
 <li> Yelp Deals and Yelp Advertising <p>If you purchase a Yelp Deal or Gift Certificate, the terms of your purchase will be governed by the Yelp General Terms for Deals and Certificates.
 Please review them before you make each purchase since they may change from time to time.
-In the event of any conflict between the Yelp General Terms for Deals and Certificates and these Terms, the Yelp General Terms for Deals and Certificates will prevail.</p> Similarly, if you create a business owner's account on the Site or purchase advertising from Yelp, the Yelp Advertising Agreement will apply.
-In the event of any conflict between the Yelp Advertising Agreement and these Terms, the Yelp Advertising Agreement will prevail.
+In the event of any conflict between the Yelp General Terms for Deals and Certificates and these Terms, the Yelp General Terms for Deals and Certificates will prevail.</p>
+<p>Similarly, if you create a business owner's account on the Site or purchase advertising from Yelp, the Yelp Advertising Agreement will apply.
+In the event of any conflict between the Yelp Advertising Agreement and these Terms, the Yelp Advertising Agreement will prevail.</p>
 </li>
 <li> Suggestions and Improvements <p>By sending us any ideas, suggestions, documents or proposals (<b>"Feedback"</b>), you agree that (i) your Feedback does not contain the confidential or proprietary information of third parties, (ii) we are under no obligation of confidentiality, express or implied, with respect to the Feedback, (iii) we may have something similar to the Feedback already under consideration or in development, and (iv) you grant us an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute and sublicense the Feedback, and you irrevocably waive, and cause to be waived, against Yelp and its users any claims and assertions of any moral rights contained in such Feedback.</p>
 </li>
@@ -253,5 +254,5 @@ Any attempted assignment by you shall violate these Terms and be void.
 </ol>
 </li>
 </ol>
-<p>
-</p> Copyright © 2015 Yelp Inc., 140 New Montgomery, San Francisco, CA 94105, U.S.A.
+<p> Copyright © 2016 Yelp Inc., 140 New Montgomery, San Francisco, CA 94105, U.S.A.
+</p> 

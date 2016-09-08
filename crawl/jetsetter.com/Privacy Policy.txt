@@ -1,7 +1,7 @@
  <p>
 <strong>Privacy Notice</strong>
 </p>
-<strong>Quick Links</strong> Marketing E-mail Opt-Out Web Analytics Opt-Out Targeted Advertising Opt-Out Your California Privacy Rights Safe Harbor Privacy Policy <br>
+<strong>Quick Links</strong> Marketing E-mail Opt-Out Web Analytics Opt-Out Targeted Advertising Opt-Out Your California Privacy Rights <br>
 <br>
 <p>Smarter Travel Media LLC and its subsidiaries and affiliates, including JetSetter Inc., dba Jetsetter  (collectively, “Jetsetter”), respect your concerns about privacy.
  This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information.
@@ -192,12 +192,12 @@ Visitors who wish to opt-out of this website analysis tool may do so by clicking
 <p>If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@jetsetter.com.  You also may write to us at:<br>
 Smarter Travel Media LLC<br>
 Attn: Jetsetter.com<br>
-500 Rutherford Avenue<br>
-Charlestown, MA 02129<br>
+226 Causeway St<br>
+Boston, MA 02114<br>
 617-886-5555<br>
 617-886-5501 (fax)<br>privacy@jetsetter.com
 </p>
 <p>
 <strong>Effective Date:  April 22, 2013</strong>
 </p>
-<p> </p> 
+<p> </p>

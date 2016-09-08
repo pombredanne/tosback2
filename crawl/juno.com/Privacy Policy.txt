@@ -1,5 +1,5 @@
  Help | FAQs <br>
-<br> Sign in to your Email <p>Main Menu</p> Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Copyright Parental Consent Privacy Acceptable Use Terms of Service <p> PRIVACY POLICY </p>
+<br> Sign in to your Email <p>Main Menu</p> Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Terms of Service <p> PRIVACY POLICY </p>
 <b>Last Updated: March 20, 2013</b>
 <br>
 <br>
@@ -283,9 +283,9 @@ If you have any questions about this Policy please contact us at:
 <br>
 <br>
 Juno Legal Department<br>
-21301 Burbank Boulevard<br>
+21255 Burbank Boulevard, Suite 400 <br>
 Woodland Hills, CA 91367 <br>
-or<br>security@support.juno.com.<br>
+or<br>privacy@support.juno.com.<br>
 <br>
 <b>VII.
 International Users</b>
@@ -324,7 +324,6 @@ About United Online
 Our Services
 |
 Advertisers |
-Affiliates |
 Investors |
 Press |
 Privacy Policy |
@@ -333,7 +332,7 @@ Your Privacy Rights
 About Ads
 |
 Terms of Service
-<br> United Online Classmates | MyPoints | NetZero | Juno | MySite <p> © 1995-2015 Juno Online Services, Inc.
+<br> United Online NetZero | Juno | MySite <p> © 1995-2016 Juno Online Services, Inc.
 Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
 </p>
 <br>

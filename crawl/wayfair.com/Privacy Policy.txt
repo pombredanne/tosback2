@@ -7,7 +7,6 @@
 <li> Wayfair Giveaway Sweepstakes Official Rules </li>
 <li> Wayfair Gift Card Terms and Conditions </li>
 <li> Becoming a Supplier </li>
-<li> Becoming An Advertiser with GetItNearMe™ </li>
 <li> Send Us Your Suggestions </li>
 <li> Contact Us </li>
 <li> How Will My Order Ship? </li>
@@ -20,31 +19,31 @@
 </ul>
 </ul>
 <p>Privacy Policy</p>
+<p>Last Updated: August 18, 2016</p>
 <p> This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &amp.
 Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
 </p>
 <p>Before submitting information to the Service, please review this Privacy Policy carefully.
 By using or accessing the Service, you accept the practices described in this Privacy Policy.
 If you prefer that we not collect and process information about you, please do not provide it to us and do not access the Service.</p>
-<p>We do not knowingly collect any Personal Information from children under 13.
-Where any such information is inadvertently collected, we will delete the information as soon as possible.
+<p>We do not knowingly collect any Personal Information from children under 13 without prior verifiable parental consent.
+If Wayfair learns that a child under the age of 13 has submitted Personal Information (defined below) online without parental consent, we will take all reasonable measures to delete the information as soon as possible and to not use such information for any purpose, except where necessary to protect the safety of the child or others as required or allowed by law.
 If you believe a child under 13 has provided us with Personal Information, please contact us here.
 </p>
 <p> Information We Collect
 </p>
-<p> We collect the information that you share with us, including:
+<p> We collect the following information, including:
 </p>
 <ul>
 <li>
-<strong>Personal Information:</strong> "Personal Information" is information that can personally identify you, such as your name, email address and telephone number.
+<strong>Personal Information You Share With Us:</strong> "Personal Information" is information that can personally identify you, such as your name, email address and telephone number.
 We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service.
 Personal Information that we collect depends on how you use the Service.
 Providing your Personal Information to us is your choice.
 If you choose not to provide us with certain Personal Information, you may not be able to take advantage of certain features of the Service.
 and </li>
 <li>
-<strong>General Information:</strong> When you visit the Service, we may collect various categories of general non-personal information ("General Information").
-General Information includes browser information, operating system information, device information, TCP-IP address and the date, time, length of stay and specific pages accessed during your visits to the Service.
+<strong>Information We Collect Automatically:</strong> When you visit the Service, we may automatically collect identifier and other technical information, such as your browser information, operating system information, device information, TCP-IP address and the date, time, length of stay and specific pages accessed during your visits to the Service (“Online Information”).
 </li>
 </ul>
 <p> Registering for the Service
@@ -63,13 +62,13 @@ You may also permanently delete your account by contacting us here.
 <p> Online Identification Tools
 </p>
 <p> Like many website providers, we use your IP address to help diagnose problems with our server and provide a better web experience.
-Your IP address is used to help identify you and your shopping cart and gather General Information.
+Your IP address is used to help identify you and your shopping cart and gather Online Information.
 </p>
 <p> We use web beacons (a.k.a.
 clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends.
-Web beacons collect General Information, such as the type of browser that you use and your IP address.
+Web beacons collect Online Information, such as the type of browser that you use and your IP address.
 Web beacons may be used alone or in conjunction with cookies.
-when web beacons are used with cookies, they may link General Information to Personal Information.
+when web beacons are used with cookies, they may link Online Information to other Personal Information that you have provided to us.
 Web beacons usually are not visible to you.
 </p>
 <p> We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service.
@@ -82,10 +81,29 @@ A "flash cookie," also known as a "local storage object," is not stored in your 
 You may disable flash cookies via your Flash Player preferences or by using third-party software.
 We do not and cannot use cookies to gather other information that may be stored on your hard drive.
 </p>
-<p> Third-party advertisers also help us display tailored content to our customers and serve advertising on our behalf.
-These advertisers may also utilize cookies and/or web beacons to collect General Information about your activities on the Service, to target advertising based upon your interests and to measure effectiveness of the Service.
-Our systems do not currently recognize browser "Do Not Track" signals, but if you wish to not have General Information used for the purpose of serving you targeted ads, you may be able to opt-out by visiting http://www.youradchoices.com or similar online resources about behavioral advertising.
-Please note that opting out prevents targeted advertising but does not prevent all advertising.
+<p> Third-party advertising management partners may help us display tailored content to our customers’ interests and serve interest-based advertising on our behalf.
+Wayfair and our advertising management partners may use cookies, web beacons and other tools to collect Online Information about your activities on the Service, to deliver advertising on the Service or elsewhere on the Internet based upon your interests that may be more relevant to you and to measure effectiveness of our marketing efforts and the Service.
+In particular, Wayfair may use Google Analytics to monitor activity on the Site and assist with advertising.
+To learn how Google Analytics collects and processes data, please visit: “How Google uses data when you use our partners’ sites or apps” located at  www.google.com/policies/privacy/partners.
+</p>
+<p> You may "opt out" of receiving some interest-based advertisements by following the instructions at www.aboutads.info/choices or www.networkadvertising.org/choices/.
+(An "opt-out cookie" will be placed on your computer indicating that you do not want to receive interest-based advertisements.
+If you delete cookies on your computer, you will need to opt-out again.) You may opt out of certain interest-based advertisements that use Wayfair.com's cookie by clicking here.
+You may opt out of certain interest-based advertisements that use AllModern.com's cookie by clicking here.
+You may opt out of certain interest-based advertisements that use JossandMain.com's cookie by clicking here.
+You may opt out of certain interest-based advertisements that use BirchLane.com's cookie by clicking here.
+To learn more about cookies in general, including how to manage and delete cookies, visit www.allaboutcookies.org.
+</p>
+<p> Opting out of receiving interest-based advertisements through the links above does not mean you will no longer see digital advertisements from Wayfair or our ad management partners.
+rather, opting out means that most of the digital advertisements that you do see will not be based on your particular interests.
+In addition, certain data collection tools on the Service (including cookies) still may collect information about your use of the Service, such as for analytics and fraud prevention.
+</p>
+<p> How We Respond to Do Not Track Signals
+</p>
+<p> Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked.
+If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser's user.
+Not all browsers offer a DNT option and DNT signals are not yet uniform.
+For this reason, many digital service operators, including Wayfair, do not recognize or respond to DNT signals.
 </p>
 <p> Third Party Features
 </p>
@@ -113,7 +131,7 @@ We encourage you to review and understand the privacy practices of third-party w
 <p> Except as specified in this Privacy Policy, Wayfair does not rent, sell, trade or disclose your Personal Information to third parties without your prior consent.
 Wayfair may, however, use, process and disclose Personal Information to:
 </p>
-<ol>
+<ul>
 <li>send information to customers about orders;</li>
 <li>fulfill your orders;</li>
 <li>process and collect your payments;</li>
@@ -127,10 +145,10 @@ Wayfair may, however, use, process and disclose Personal Information to:
 <li>prevent fraud and other prohibited or illegal activities.
 and</li>
 <li>comply with potential requests of law enforcement or data protection agencies.</li>
-</ol>
-<p> When possible, General Information may be combined and/or linked to Personal Information, in accordance with the purposes specified above.
+</ul>
+<p> When possible, Online Information may be combined and/or linked to other Personal Information that you provided to us, in accordance with the purposes specified above.
 </p>
-<p> We may use your General Information and deidentified Personal Information to prepare anonymized, aggregated data about our users ("Anonymized Data").
+<p> We may use your deidentified Personal Information and Online Information to prepare anonymized, aggregated data about our users ("Anonymized Data").
 We may provide third parties with Anonymized Data in describing the Service to prospective partners, advertisers and other third parties, and for all other lawful purposes.
 As communicated to third parties, the Anonymized Data does not include any information permitting the recipient to identify, locate or contact you.
 </p>
@@ -141,7 +159,7 @@ These third-party service providers have access to Personal Information needed t
 </p>
 <p> Acquisition of Wayfair
 </p>
-<p> Information about customers is considered an asset of Wayfair and, as such, may be transferred to another company as part of a merger or acquisition.
+<p> In the event that a store, division or part or all of Wayfair (or the assets of a Wayfair entity) is bought, sold or otherwise transferred, or is in the process of a potential transaction, customer information will likely be shared for evaluation purposes and included among the transferred business assets.
 </p>
 <p> Information Sharing for Marketing Purposes
 </p>
@@ -188,10 +206,17 @@ Please note that if you use more than one name or e-mail address when communicat
 </p>
 <p> Information for Visitors From California and Outside of the United States
 </p>
-<p> California Residents
+<p> Your California Privacy Rights
 </p>
-<p> California law permits individuals who provide Wayfair with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes.
-To request this information, please contact us here.
+<p> This privacy policy describes how we may share your information, including for marketing purposes.
+California residents are entitled to request and obtain from Wayfair once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information.
+To request this information and for any other questions about our privacy practices and compliance with California law, please contact us here.
+</p>
+<p> Right to Removal of Posted Information--California Minors
+</p>
+<p> If you are under 18 years of age, reside in California, and have a registered account with Wayfair, you have the right to request removal of unwanted information that you publicly post on the Service.
+To request removal of such information, you can contact Wayfair as provided below.
+Upon receiving such a request, Wayfair will make sure that the information is not publicly available on the Service, but the information may not be completely or comprehensively removed from our systems and databases.
 </p>
 <p> Visitors from Outside of the United States
 </p>
@@ -234,7 +259,7 @@ If you object to any modification, your sole recourse is to stop using the Servi
 You can also send us physical mail to:</p>
 <p> Wayfair LLC<br> Attention: Legal Department<br> 4 Copley Place, Floor 7<br> Boston, MA 02116</p>
 <p>Terms of Use</p>
-<p>Last Updated: March 22, 2013</p>
+<p>Last Updated: August 18, 2016</p>
 <p>Welcome to Wayfair!</p>
 <p> Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &amp.
 Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us") provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "<strong>Sites</strong>") subject to your compliance with these Terms of Use.
@@ -247,7 +272,7 @@ We recommend that you print out a copy of these Terms of Use for your records.
 If you do not agree to these Terms of Use or if you are not legally competent to agree to them, then you may not use the Sites.
 </p>
 <p> Please note that these Terms of Use contain provisions that govern the resolution of claims between Wayfair and you.
-Please see the Indemnity, Disclaimer of Warranties, Limitation of Liability and Legal Disputes sections for complete details.
+Please see the Legal Disputes section for complete details.
 </p>
 <p> Privacy &amp.
 Security
@@ -293,12 +318,12 @@ Any User Content or other material, information or ideas that you submit to or p
 <p> By submitting User Content, you represent and warrant to Wayfair that: (i) your User Content does not violate any copyright, trademark, trade secret, patent or other intellectual property right, any right of privacy or publicity of any third party or any applicable law, rule or regulation, (ii) you own or have the legal right to use and authorize Wayfair to use your User Content, including written consent to use of any product or the name, voice, likeness or any other applicable personal rights of each identifiable person featured or referenced in your User Content and (iii) your User Content does not violate Wayfair's <i>Acceptable Use Policy</i> set forth below.
 </p>
 <p> As between you and Wayfair, you will retain all of your ownership rights in and to your User Content.
-By submitting User Content to Wayfair, you hereby grant to Wayfair a perpetual, worldwide, non-exclusive, irrevocable, royalty-free, sublicensable (through multiple tiers) and transferable right and license to use, reproduce, distribute, edit, modify, translate, reformat, prepare derivative works based upon, display publicly, perform publicly and otherwise exploit (including but not limited to over the Internet, broadcast television or any other uses or media) your User Content, in whole or in part, including future rights that Wayfair (or its successor) may otherwise become entitled to that do not yet exist, as well as new uses, media, means and forms of exploitation throughout the universe exploiting current or future technology yet to be developed to the maximum extent permitted by applicable law.
+By submitting User Content to Wayfair, you hereby grant to Wayfair a perpetual, worldwide, non-exclusive, irrevocable, royalty-free, sublicensable (through multiple tiers) and transferable right and license to use, reproduce, distribute, edit, modify, translate, reformat, prepare derivative works based upon, display publicly, perform publicly and otherwise exploit (including but not limited to over the Internet, broadcast television or any other uses or media) your User Content, in whole or in part, including future rights that Wayfair (or its successor) may otherwise become entitled to that do not yet exist, as well as new uses, media, means and forms of exploitation throughout the universe exploiting current or future technology yet to be developed.
 You also hereby grant each user of the Sites a non-exclusive license to access your User Content through the Sites and to use, access, watch, reproduce, distribute, transmit, forward, display and perform such User Content in whole or in part, to the extent permitted by the Sites under these Terms of Use.
 </p>
 <p> Wayfair does not endorse any User Content or any opinion, recommendation, or advice expressed therein.
 Wayfair reserves the right but is not obligated to monitor User Content or other content sent to or through the Sites.
-<strong>Wayfair has the right to refuse, remove or delete any User Content and/or to terminate any user's access to the Sites if Wayfair determines, in its sole and absolute discretion, that such User Content or user violates or has violated these Terms of Use.</strong> Wayfair takes no responsibility for and expressly disclaims any and all liability in connection with User Content.
+<strong>Wayfair has the right to refuse, remove or delete any User Content and/or to terminate any user's access to the Sites if Wayfair determines, in its sole and absolute discretion, that such User Content or user violates or has violated these Terms of Use.</strong> Wayfair takes no responsibility for User Content.
 </p>
 <p> Acceptable Use Policy
 </p>
@@ -331,10 +356,17 @@ Errors will be corrected when discovered and Wayfair reserves the right to revok
 Certain orders constitute improper use of the Sites and the Wayfair Rewards Program described below.
 Wayfair reserves the right, at its sole discretion, to refuse or cancel any order for any reason.
 Your account may also be restricted or terminated for any reason, at Wayfair's sole discretion.
+Items purchased pursuant to a quantity discount may be re-priced upon cancellation.
+</p>
+<p> About Our Prices
+</p>
+<p> Where a product listing on our Site references a higher price, typically denoted by a strikethrough (e.g.
+"$549"), such higher price represents the retail price suggested by the manufacturer or supplier.
+In the absence of a price suggested by the manufacturer or supplier, this price represents the highest price at which we offered or sold the product at some point in the past.
+The "Sale" tag on a product listing on our Site signifies that we are selling the product at a discount from a price in the previous 90 days.
 </p>
 <p> Wayfair Rewards Program </p>
 <p> The Wayfair Rewards Program (the "<strong>Rewards Program</strong>") is exclusively for users of the Sites who have registered for the Rewards Program in accordance with the directions set forth below and on the Sites.
-When you make a qualifying purchase at any of the Sites designated as participating sites by Wayfair from time to time (the "<strong>Participating Sites</strong>"), you will have the opportunity to earn Wayfair "<strong>Rewards Dollars</strong>" equal to three percent (3%) of the net amount paid for the qualifying purchase.
 Rewards Dollars may be applied to future purchases at the Participating Sites in accordance with these Terms of Use.
 Please click here for complete Rewards Program details, as may be in effect from time to time and which are incorporated herein by reference.
 </p>
@@ -347,10 +379,13 @@ You are responsible for viewing and abiding by the privacy statements and terms 
 </p>
 <p> Mobile Devices and Mobile Applications
 </p>
-<p> If you use a mobile device to access pages of the Sites optimized for viewing via a mobile device, opt in to receive SMS (text messages) from Wayfair (as/when available) or using a mobile application the following additional terms and conditions ("<strong>Mobile Terms</strong>") also apply to you.
+<p> If you use a mobile device to access pages of the Sites optimized for mobile-viewing, opt in to receive SMS (text messages) from Wayfair (as/when available), or use a mobile application, the following additional terms and conditions ("<strong>Mobile Terms</strong>") also apply to you.
 Your access to the Sites via your mobile device or use of a mobile application confirms your agreement to these Mobile Terms, as well as the rest of the Terms of Use.
 </p>
-<p> You agree that you are solely responsible for all message and data charges that apply to use of your mobile device to access the Sites or use of a mobile application.
+<p> By opting in, you agree to receive promotional SMS text messages on your mobile device.
+Your consent is not required as a condition of purchasing any goods or services from Wayfair.
+By agreeing to receive SMS messages from Wayfair, you certify that you are over 18 years of age and (a) you are the mobile account holder or (b) you have the account holder’s permission to enroll the designated mobile phone number and can incur any mobile message or data charges.
+You agree that you are solely responsible for all message and data charges that apply to use of your mobile device to access the Sites or use of a mobile application.
 All such charges are billed by and payable to your mobile service provider.
 Please contact your participating mobile service provider for pricing plans, participation status and details.
 You understand that wireless through Wi-Fi or a participating mobile service provider may not be available in all areas at all times and may be affected by product, software, coverage or other service changes made by your mobile service provider or otherwise.
@@ -365,47 +400,26 @@ Please call us prior to ordering if you have any questions regarding the safety 
 <p> Pursuant to California Civil Code Section 1789.3, Wayfair provides users of the Sites with the following notice: You may report complaints to the Consumer Information Division of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at 800-952-5210.
 </p>
 <p> Communications with Wayfair</p>
-<p> For all communications made to or with Wayfair, including but not limited to feedback, questions, comments, suggestions and the like: (i)&amp;npsp;you will have no right to confidentiality in your communications and Wayfair will have no obligation to protect your communications from disclosure.
+<p> For all communications made to or with Wayfair, including but not limited to feedback, questions, comments, suggestions and the like: (i) you will have no right to confidentiality in your communications and Wayfair will have no obligation to protect your communications from disclosure.
 (ii) Wayfair will be free to reproduce, use, disclose and distribute your communications to others without limitation.
 and (iii) Wayfair will be free to use any ideas, concepts, know-how, content or techniques contained in your communications for any purpose whatsoever, including, but not limited to, the development, production and marketing of products and services that incorporate such information.
-</p>
-<p> Indemnity
-</p>
-<p> You agree to indemnify and hold Wayfair and its agents and licensors harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of (i) your use of the Sites, including any User Content you submit, post to or transmit through the Sites, (ii) your violation of these Terms of Use or (iii) your violation of any rights of another user.
-</p>
-<p> Disclaimer of Warranties
-</p>
-<p> Wayfair intends for the information and data contained in the Sites to be accurate and reliable but since the information and data have been compiled from a variety of sources, they are provided 'AS IS' and "AS AVAILABLE".
-You expressly agree that your use of the Sites and any information contained therein is at your sole risk.
-Accordingly, to the extent permitted by applicable law, Wayfair EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, ACCURACY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.
-Some jurisdictions do not allow the disclaimer of warranties so such disclaimers may not apply to you.
-</p>
-<p> Limitation of Liability
-</p>
-<p> IN NO EVENT WILL Wayfair OR ITS OFFICERS, MANAGERS, MEMBERS, EMPLOYEES, AGENTS, SUCCESSORS, SUBSIDIARIES, DISTRIBUTORS, AFFILIATES OR THIRD PARTIES PROVIDING INFORMATION ON THIS SITE OR VIA OTHER CHANNELS, INCLUDING BUT NOT LIMITED TO PHONE AND EMAIL, BE LIABLE TO ANY USER OF THE SITES OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE) ARISING OUT OF THE USE OR INABILITY TO USE THE SITES OR ANY INFORMATION CONTAINED THEREIN, INCLUDING USER CONTENT, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE, EVEN IF Wayfair HAS BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.
-</p>
-<p> You hereby acknowledge that the preceding limitation on liability will apply to all content, merchandise and services available through the Sites or other channels.
-Because some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, in such jurisdictions liability is limited to the fullest extent permitted by law.
-</p>
-<p> Regardless of the previous paragraphs, if Wayfair is found to be liable, our liability to you or to any third party is limited to the greater of (a) the amount in dispute not to exceed the total amount which you paid to us in the twelve (12) months prior to the action giving rise to the liability or (b) $100.
 </p>
 <p> Legal Disputes
 </p>
 <p> YOU AND Wayfair AGREE TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM.
 OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS ACCESS TO DISCOVERY, ALSO MAY BE UNAVAILABLE OR LIMITED IN ARBITRATION.
 </p>
-<p> Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, '<strong>Wayfair</strong>') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, "<strong>Covered Disputes</strong>") will be settled by binding arbitration in Suffolk County, Commonwealth of Massachusetts administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules, in effect on the date thereof.
+<p> Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, '<strong>Wayfair</strong>') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, "<strong>Covered Disputes</strong>") will be settled by binding arbitration administered by the American Arbitration Association (AAA).
 Prior to initiating any arbitration, the initiating party will give the other party at least 60-days' advanced written notice of its intent to file for arbitration.
-Wayfair will provide such notice by e-mail to your e-mail address on file with Wayfair and you must provide such notice by e-mail to [legal@wayfair.com].
+Wayfair will provide such notice by e-mail to your e-mail address on file with Wayfair and you must provide such notice by e-mail to legal@wayfair.com.
 </p>
 <p> During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes.
 Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration.
 The arbitrator will have the power to grant whatever relief would be available in court under law or in equity and any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction.
-The arbitrator will not, however, have the power to award punitive or exemplary damages, the right to which each party hereby waives, and the arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review.
+Arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review.
 Wayfair and you agree that any Covered Dispute hereunder will be submitted to arbitration on an individual basis only.
 Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis.
-If any provision of the agreement to arbitrate in this section is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced (but in no case will there be a class, representative or private attorney general arbitration).
-Regardless of any statute or law to the contrary, notice on any claim arising from or related to these Terms of Use must be made within one (1) year after such claim arose or be forever barred.
+If any provision of the agreement to arbitrate in this section is found illegal or unenforceable, the remaining arbitration terms shall continue to be fully valid, binding, and enforceable (but in no case will there be a class, representative or private attorney general arbitration).
 For purposes of this section, these Terms of Use and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C.
 sec.
 1-16 (FAA).
@@ -456,7 +470,7 @@ By downloading or using any software from the Sites, you represent and warrant t
 <p> General Information
 </p>
 <p> No waiver of any provision or any breach of this Agreement will constitute a waiver of any other provisions or any other or further breach.
-In the event that any provision of this Agreement will be illegal or otherwise unenforceable, such provision will be severed, and the balance of the Agreement will continue in full force and effect.
+In the event that any provision of this Agreement is determined to be illegal or unenforceable, the balance of the Agreement shall continue to be fully valid, binding, and enforceable.
 These Terms of Use set forth the entire Agreement between you and Wayfair with respect to use of the Sites and supersede any prior agreements between you and Wayfair relating to such subject matter.
 The Terms are not assignable, transferable or sublicensable by you except with Wayfair's prior written consent.
 No waiver by either party of any breach or default hereunder will be deemed to be a waiver of any preceding or subsequent breach or default.
@@ -476,7 +490,7 @@ The parties agree that all correspondence relating to these Terms of Use must be
 (please reference "Questions about the Sites").
 </p>
 <p>Wayfair's Copyright Policy</p>
-<p>Last Updated: March 22, 2013</p>
+<p>Last Updated: July 20, 2015</p>
 <p> This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com, www.BirchLane.com, and their related domains (collectively, the "<strong>Site</strong>").
 </p>
 <p> The Digital Millennium Copyright Act of 1998 (the "<strong>DMCA</strong>") provides recourse for a copyright owner who believes that material appearing on the Internet infringes his, her or its rights under U.S.
@@ -545,7 +559,11 @@ Unless the copyright owner files an action seeking a court order against Wayfair
 Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorneys' fees.
 </p>
 <p>Wayfair Rewards Program Terms</p>
-<p> The Wayfair Rewards Program ("<strong>Rewards Program</strong>") is subject to the following Program-Specific Terms, as well as the General Terms.
+<p>
+The Wayfair Rewards Program (the "<strong>Rewards Program</strong>") is exclusively for users of the Sites who have registered for the Rewards Program in accordance with the directions set forth below and on the Sites.
+Rewards Dollars may be applied to future purchases at the Sites in accordance with the terms set forth below and our Terms of Use.
+Please click here for the Program Terms for the Wayfair Card Benefits Program (the "Program Terms"), as may be in effect from time to time and which are incorporated herein by reference.
+Enrollment in the Rewards Program is automatic with registration at any of the Sites.
 </p>
 <p> Participating Sites
 </p>
@@ -553,53 +571,92 @@ Please note that if you materially misrepresent that the disabled or removed con
 <li>Wayfair.com</li>
 <li>WayfairSupply.com</li>
 <li>AllModern.com</li>
+<li>JossandMain.com</li>
+<li>BirchLane.com</li>
+<li>DwellStudio.com</li>
 </ul>
-<p> Program-Specific Membership Benefits &amp.
-Restrictions A Member that makes a Qualifying Purchase (defined below) may earn "Rewards Dollars" equal to three percent (3%) of the Net Amount (defined below) paid for that purchase.
-Enrollment in the Rewards Program is automatic after the Effective Date (set forth above) with registration at any of the Participating Sites.
-</p> Rewards Rewards Dollars Earned 3% of Net Amount Shipping Fees for Qualifying Purchases: • Free for orders over $49 <br>• $4.99 Flat Rate for orders $49 and under Redemption Period Three months from date on which Rewards-Eligible Purchase is made Membership Fee None <p>"<strong>Rewards-Eligible Purchase</strong>" means a purchase placed online or over the phone of one or more products from a Participating Site that is paid in full.
-The purchase of gift cards and/or gift certificates is excluded from this definition.
+<p> Membership Benefits
+</p> Rewards Rewards Dollars Earned <p>Members may earn a specified "Rewards Dollars" from</p>
+<p>a) Wayfair Card Rewards Program</p>
+<p>b) Referral Program</p>
+<p>c) Product Review Program</p> Redemption Period Three months from date on which Rewards-eligible purchase is made Membership Fee None <p> Wayfair Card Benefits Program
 </p>
-<p>"<strong>Net Amount</strong>" means the cash amount paid (in U.S.
-Dollars) by the Member for the product(s) purchased in the Qualifying Purchase after applying discounts or other credits or deductions.
-</p>
-<ul>
-<li>Rewards Dollars are earned only on future purchases from a Participating Site.
-Rewards Dollars are not awarded for purchases made before the Effective Date (set forth above).</li>
-<li>Rewards Dollars are not redeemable for cash.</li>
-<li>Rewards Dollars are not awarded for purchases of gift cards and/or gift cards, purchases paid for in whole with Rewards Dollars or purchases made through any of Wayfair's partners' sites.
-The balance of a Purchase paid for in part with Rewards Dollars is eligible for Rewards Dollar earning.</li>
-<li>If the Net Amount of a Rewards-Eligible Purchase changes for any reason (e.g., return), the number of Rewards Dollars awarded for the Rewards-Eligible Purchase will be adjusted to reflect the modified Net Amount.</li>
-<li>Rewards Dollars will be credited to a Member's account within approximately two (2) business days after the closing of each Rewards-Eligible Purchase.
-Rewards Dollars awarded are rounded down to the nearest cent.</li>
-</ul>
-<p>
-<strong>Redemption of Rewards Dollars</strong> Rewards Dollars can be only redeemed and applied as a credit against a purchase from a Participating Site.
-Rewards Dollars cannot be used to purchase gift cards or gift certificates.
+<p>The Wayfair Card Benefits Program is designed to reward customers for making purchases on their Wayfair Card.
+Refer to the Program Terms for eligibility requirements for the Wayfair Card Benefits Program and for other applicable terms.
+Terms used but not defined herein will have the meaning ascribed to such terms in the Program Terms.</p>
+<p>Eligible Wayfair Card cardholders have the ability to earn Points on net new purchases made on the Wayfair Card that can be redeemed for Rewards Dollars later.
+Certain products may be ineligible for earning points.</p>
+<p>"Net New Purchases" means purchases of goods and/or services at the Sites made by you or any Authorized User on your Account minus any returns, refunds, discounts by using Rewards Dollars, credit adjustments, or promotions, rounded to the nearest dollar.
+Points awarded for purchases that are returned or refunded or otherwise adjusted will be deducted from your Point total.
+Such deductions may result in a negative Points balance, in which case, any Points you earn will be applied to reduce that balance and you will not be able to redeem Points until you again have a positive balance.
+Points will not be awarded for the Rewards Dollars you redeem.</p>
+<p>Wayfair reserves the right to increase or decrease the amount of Points earned on Net New Purchases at any time.
+We may from time to time make special offers for you to earn additional Points on specific purchases.
+The terms and conditions for such special offers (such as which purchases qualify and the number of additional Points you may earn) will be disclosed at the time of offer.
+Please check those terms and conditions carefully, as there may be important conditions or limitations (such as blackout periods, point limitations or exclusions).
+Availability of any special offer is subject to change without notice.
+Please refer to Program Terms for more information on earning points, and redeeming points for Rewards Dollars.</p>
+<p>You are currently eligible to redeem $6 in Rewards Dollars at checkout for every 200 Points you have accumulated.
+Wayfair reserves the right to increase or decrease the number of Points required to redeem Rewards Dollars.
+In addition, these amounts may vary by customer or by promotion.
+Currently, a minimum of 200 or more Points will be required to redeem for Rewards Dollars at checkout.
+You may redeem your points for the maximum amount of Rewards Dollars for which you are eligible that are of equal or lesser value to the total cost of product and shipping at the time of purchase.
+To redeem points, select “Redeem” under "Wayfair Card Rewards" at checkout.
+The corresponding Rewards Dollars amount will display in the Order Total.
+The redeemed points will be deducted from My Wayfair Card Rewards on your "Account Balance" page in "My Account".
+Customers can redeem points when making a purchase using any payment method, including a Wayfair Card.</p>
+<p>Referral Program</p>
+<p>Wayfair's Referral Program is designed to reward existing members ("Sponsors") with Rewards Dollars for referring new members ("Recipients") to Wayfair.
+All Wayfair brands (Wayfair, Joss &amp.
+Main, AllModern, Birch Lane, DwellStudio, Wayfair Supply) are participating in this program and Sponsors can use their Rewards Dollars across all brands.
+However, Recipients can only apply their discount to the brand the Sponsor referred them to.
+Referral credit amounts may differ by site.
+Sponsors can refer as many friends as he or she would like, but will only receive Rewards Dollars for up to 10 successful referrals per month.
+If a Recipient's qualifying order is cancelled, Rewards Dollars will be voided.
+Previous purchases are not eligible for Rewards Dollars and Rewards Dollars cannot be applied retroactively.
+Invitations must be sent to individual recipients.
+Any attempt to distribute in bulk is grounds for immediate termination of the Sponsor's account and deactivation of their personal referral link.
+Distribution of Rewards bonuses is subject to moderation in cases of suspected fraud.</p>
+<p>Business and Trade Referral Program</p>
+<p>Sponsors will only receive their Rewards Dollars after their Recipient has used their unique promo code and their order has shipped.
+Sponsors will be notified by email when their Rewards Dollars are available for use.
+Rewards Dollars credited to Sponsors will only be valid for 90 days.
+If the Recipient does not use the unique promo code within 30 days, it will expire and no longer be valid.
+Previous purchases are not eligible for Rewards Dollars and Rewards Dollars cannot be applied retroactively.
+Orders containing Gift Certificate purchases are not eligible.
+Bulk distribution and distribution to strangers is prohibited.
+Violation of this is grounds for immediate termination of the Sponsor's account and deactivation of their personal referral link.
+Distribution of referral promo codes and Rewards Dollars is subject to moderation in cases of suspected fraud.</p>
+<p>Product Reviews Program</p>
+<p>Wayfair's Product Review Program is designed to rewards existing members to write product review on product purchased on Wayfair.com, AllModern.com and BirchLane.com.
+Members may be rewarded specified Rewards Dollars or may be offered other benefits for such reviews.</p>
+<p>Redemption of Rewards Dollars</p>
+<p>Wayfair will post all earned Rewards Dollars on your account within a reasonable amount of time after the confirmed shipment of your qualifying purchase.
+Rewards Dollars can be only redeemed and applied as a credit against a purchase from one of our participating Sites.
+Rewards Dollars cannot be used to purchase gift cards, gift certificates, or manufacturer-excluded brands.
 Rewards Dollars are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.
-To redeem Rewards Dollars, check the applicable box during the checkout process on any Participating Site.
-Rewards Dollars may be combined with one (1) Wayfair promo code only but not with any other Wayfair promotion, offer or other discount.
+Rewards Dollars will be automatically applied to your purchase at Checkout.
+If you do not wish to redeem Rewards Dollars at the time of purchase, select "Remove" at Checkout.
+Rewards Dollars may be combined with five (5) Wayfair promo code only but not with any other Wayfair promotion, offer or other discount.
 No credits or refunds will be issued for any reason after Rewards Dollars have been redeemed, including for unused Rewards Dollars, except as described in "Returns" below.
-</p>
-<p>
-<strong>Returns</strong> If a Member returns an item that was purchased in whole or in part using Rewards Dollars, the return will be processed in accordance with Wayfair's return and exchange policy.
-If the return is accepted by Wayfair, the Rewards Dollars applicable to the returned item will be credited back to the Member's account.
-</p>
-<p>
-<strong>Rewards Dollars Balance</strong> Members can check the Rewards Dollars balance in their accounts at any time by logging in at My Account.
-A valid email address and password are required to view the Rewards Dollars balance in an account.
+Rewards Dollars can be used against product cost and shipping cost only.
+For orders with multiple items, Rewards Dollars will be applied across all items proportionally based on the dollar amount.
+Wayfair may apply other restrictions to or terminate the Reward Program at any time.</p>
+<p>Returns</p>
+<p>If you return an item that was purchased in whole or in part using Rewards Dollars, the return will be processed in accordance with Wayfair's return and exchange policy.
+If the return is accepted by Wayfair, the Rewards Dollars applicable to the returned item will be credited back to your account.</p>
+<p>Rewards Dollars Balance</p>
+<p>You can check your Rewards Dollars balance at any time by logging in at "My Account".
+A valid email address and password are required to view the Rewards Dollars balance in your account.
 Wayfair is not liable for any failure, delay or error in crediting Rewards Dollars to an account.
-Each Member is responsible for any and all activity occurring in or through his/her account, including the redemption of Rewards Dollars, whether or not the activity was authorized.
-</p>
-<p>
-<strong>Expiration</strong> If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars.
-A member may cancel out their Rewards Dollars Balance by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
-</p>
-<p>
-<strong>Non-Transferability and Non-Aggregation of Rewards Dollars</strong> Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any Member or any other person, without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void.
-In addition, Rewards Dollars are for the Member's personal use only.
-Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the Participating Sites on behalf of others or for the purpose of reselling such products to others.
-</p>
+You are responsible for all activity occurring in or through your account, including the redemption of Rewards Dollars, whether or not the activity was authorized.</p>
+<p>Expiration</p>
+<p>Rewards Dollars not used during the applicable Redemption Period will be forfeited.
+You may cancel Rewards Dollars by calling 866-263-8325 and/or sending an email to service@wayfair.com, but members recognized on any of the participating Sites are unable to opt-out of the program.</p>
+<p>Non-Transferability and Non-Aggregation of Rewards Dollars</p>
+<p>Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any member or any other person without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void.
+In addition, Rewards Dollars are for the member's personal use only.
+Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the participating Sites on behalf of others or for the purpose of reselling such products to others.</p>
 <p>Wayfair Giveaway Sweepstakes Official Rules</p>
 <p>
 <strong>NO PURCHASE NECESSARY TO ENTER OR WIN.
@@ -734,16 +791,20 @@ Please reference the dates of the Promotion Period and Prize with your request.
 <p>
 <strong>SPONSOR: </strong>Wayfair LLC LLC, 4 Copley Place, Floor 7, Boston, MA 02116</p>
 <p>Wayfair Gift Card Terms and Conditions</p>
-<p> The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website.
-Gift cards are issued by Wayfair LLC (referred to hereinafter as either "AllModern", "DwellStudio", Wayfair", "we", "us" or "our").
+<p> The following terms and conditions (the "Terms") apply to any Wayfair gift card originally purchased by you or someone on your behalf (the "gift card") through one of the Wayfair websites.
+Gift cards are issued by Wayfair LLC (referred to hereafter as either “Wayfair,” “Wayfair Supply,” “AllModern,” “DwellStudio,” “Birch Lane,” “Joss &amp.
+Main,” “we,” “us,” or “our”).
 By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
 </p>
 <ul>
-<li>Gift cards are only valid in the United States of America and Canada.
+<li>Gift cards do not expire.</li>
+<li>Gift cards are only valid in the country in which they were purchased.
 Void where prohibited.</li>
-<li>Gift cards can only be redeemed through one of the Wayfair websites.
-</li>
-<li>Gift cards cannot be used to purchase gift cards or gift cards.</li>
+<li>Gift cards can only be redeemed through one of the Wayfair websites: Wayfair.com, WayfairSupply.com, AllModern.com, DwellStudio.com, BirchLane.com, JossandMain.com (Wayfair U.S.).
+Wayfair.ca (Wayfair Canada).
+Wayfair.co.uk (Wayfair UK).
+or Wayfair.de (Wayfair Germany).</li>
+<li>Gift cards cannot be used to purchase gift cards.</li>
 <li>Gift cards are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.</li>
 <li>Use of the gift card is limited to the amount of funds held on the gift card.
 The full amount of each purchase, including taxes, will be deducted from the funds held on the gift card, up to the total funds available on the gift card.
@@ -797,24 +858,6 @@ and we try to tune our approach to match our suppliers' needs and to make the en
 <p> If you are interested in growing your business, please email us.
 We look forward to hearing from you.
 </p>
-<p>Becoming An Advertiser with GetItNearMe</p>
-<p>
-<strong>Interested In Being an Advertiser?</strong>
-<br> Wayfair provides a unique media platform for brick and mortar retailers by granting them access to an audience of 9 million unique monthly visitors who share a common goal: they are looking to buy home furnishings! With 200+ specialty sites focusing primarily on furniture, Wayfair has become a popular online destination for consumers to conduct product research before making their purchases.
-</p>
-<p>
-<strong>Highly Targeted Ads</strong> - Your ads will appear only to consumers in your local area when they browse our sites for the product types and brands that you carry.
-With 77 product categories and over 1,200 brands to choose from, you can fine tune your ads to make sure you are attracting the right customers.
-</p>
-<p>
-<strong>Cost Effective Advertising</strong> - In addition to your ads being shown only to highly targeted customers who are near your retail stores and interested in buying furniture, our advantageous pricing vs.
-paid search and other media vehicles, built-in reporting feature, and the ability to set a monthly budget make obtaining a high return on your investment easy to manage.
-</p>
-<p>
-<strong>Flexibility</strong> - While GetItNearMe can be as simple and low-maintenance as "setting and forgetting" a single ad, we also provide the tools to create and manage more aggressive ad campaigns.
-</p>
-<p> If you're ready for your advertising to "Go Local", sign up at www.getitnearme.com or contact us by email.
-</p>
 <p>Send Us Your Suggestions</p>
 <p> Customer feedback is very important to us.
 We are always looking for ways to serve you better.
@@ -831,46 +874,33 @@ Please see our return policy for specific information.
 </p>
 <p> Thank you for your business.
 </p>
-<p> If you would like to submit a Purchase Order, please fax it to (866) 513-2570, or contact us: </p> By Phone: 877-WAYFAIR (877-929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594<br> For Purchase Orders - (866) 513-2570 By Mail: Wayfair LLC<br> 4 Copley Place, Floor 7<br> Boston, MA 02116 <p>For media inquiries:</p>
+<p> If you would like to submit a Purchase Order, please fax it to (866) 513-2570, or contact us: </p> By Phone: 866-263-8325 or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594<br> For Purchase Orders - (866) 513-2570 By Mail: Wayfair LLC<br> 4 Copley Place, Floor 7<br> Boston, MA 02116 <p>For media inquiries:</p>
 <p> If you are a member of the media and have questions about the company or would like to feature us in your publication, please email us at PR@Wayfair.com and we will respond to your request immediately.
 </p>
 <p>Shipping Information</p>
 <p>How Will My Order Ship?</p>
 <p> We've carefully selected the shipping options for each product on our site to ensure you receive the fastest, safest, and most reliable delivery service possible.
 Each item's delivery options will be noted on its product page, as well as in the shopping cart.
-Please note we cannot ship to P.O.
-Boxes or Military APOs.
 </p>
+<p>Any Exceptions I Should Be Aware Of?</p>
+<ul>
+<li>Deliveries are not typically made on Saturdays or Sundays</li>
+<li>We cannot ship to P.O.
+Boxes or Military APOs</li>
+<li>If you live in a non-contiguous U.S.
+state or territory—in Alaska, Hawaii, Puerto Rico, or the U.S.
+Virgin Islands—additional fees or shipping restrictions may apply</li>
+</ul>
 <p>Small Parcel</p>
-<p> Signatures are not required for Small Parcel deliveries, but the decision to leave your package will ultimately be at the discretion of the delivering carrier.
-If you have any special delivery instructions for the carrier, we recommend placing a note on your door on the day of delivery referencing your tracking number and request.
+<p> Signatures are not required for Small Parcel deliveries, but the decision to leave your package will ultimately be at the discretion of the delivery carrier.
+If you have any special delivery instructions, we recommend placing a note on your door on the delivery date with your name, request, and tracking number.
 </p>
-<p> The delivering carrier and available ship methods will vary depending on your destination: </p>
-<p>United States</p>
-<p> Deliveries within the United States will be completed by UPS or FedEx.
-Available shipping services will be noted in your shopping cart, but generally include: </p>
-<p>Ground</p>
-<p> Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 1-6 business days in transit for delivery.
-</p>
-<p>Next Day Delivery</p>
-<p> Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 1 business day in transit for delivery.
-</p>
-<p>2 Day Delivery</p>
-<p> Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 2 business days in transit for delivery.
-</p>
-<p>3 Day Delivery</p>
-<p> Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 3 business days in transit for delivery.
-</p> *Shipping to Alaska, Hawaii, or Puerto Rico? Enter your shipping zip code in the Shopping Cart to calculate additional fees/shipping restrictions.
-<p>Canada</p>
-<p> Deliveries to Canada will be completed by Purolator once the shipment has cleared customs.
-All Canadian import duties and taxes are calculated at checkout, so you won't have to worry about paying upon delivery.
-We offer the following ship method for Small Parcel shipments to Canada*: </p>
-<p>Ground</p>
-<p> Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 5-10 business days in transit for delivery.
-</p>
-<p> For more information on Canadian shipments, click here.
-</p> *Please note that expedited shipping is unavailable for Canadian shipments.
-All Small Parcel Canadian shipments are required to process through three-legs: shipping from the warehouse to the border via UPS/FedEx, processing through customs, and then changing hands to Purolator for final delivery.
+<p> Deliveries will be completed by UPS or FedEx.
+Available shipping options will be noted in your Shopping Cart, but generally include: </p> 1-Day Shipping <p>Your order will be promptly fulfilled and delivered within 1 business day.</p> 2-Day Shipping <p>Your order will be promptly fulfilled and delivered within 2 business days.</p>
+<strong>Please note:</strong> Orders placed outside the time frame listed beside your shipping option will be shipped the next day.
+Also, deliveries are not typically made on Saturdays or Sundays.
+Economy Shipping <p>Please allow the full processing time required to ship from the supplier’s warehouse, plus 3-8 business days in transit for delivery.</p> Ground Shipping <p>Please allow the full processing time required to ship from the supplier’s warehouse, plus 1-7 business days in transit for delivery.</p> Expedited Shipping <p>Please allow the full processing time required to ship from the supplier’s warehouse, plus 2 business days in transit for delivery.</p> Express Shipping <p>Please allow the full processing time required to ship from the supplier’s warehouse, plus 1 business day in transit for delivery.</p> Shipping to Alaska, Hawaii, or Puerto Rico? <p>Enter your shipping zip code in your Shopping Cart to calculate additional fees/shipping restrictions.</p>
+<strong>Please note:</strong> Deliveries are not typically made on Saturdays or Sundays.
 <p>Large Parcel</p>
 <p> We want to make sure your order gets to you safe and sound.
 For items that are too large or fragile to be delivered via UPS/FedEx, we partner with carriers specializing in the transportation and delivery of Large Parcel freight so you can be rest assured that your order is being handled with the utmost care from the moment it leaves the warehouse.
@@ -884,21 +914,20 @@ all service options will be displayed in the shopping cart.
 If you have any concerns regarding the condition or packaging of your order, simply describe the issue on the delivery receipt provided by the driver and contact us for assistance.
 </p>
 <p>Large Parcel Delivery Methods:</p>
-<p>Curbside Delivery: Self-Service</p>
-<p> Our Self-Service delivery method covers the essentials.
+<p>Curbside (You Unload)</p>
+<p> This delivery method covers the essentials.
 A delivery truck will pull up to the curb outside of your home within your 4-hour appointment window.
 From there, you will be responsible for unloading the item(s) from the truck and any further transport beyond that point.
 We recommend asking a family member or friend for an extra hand.
 </p>
-<p> *To have the items taken off the truck and placed on the curb, you can add the Lift Gate service upon checkout for $50.00 </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrives at the local terminal.</li>
 <li>Signature Required: Yes</li>
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Curbside Delivery: Lift-Gate Service</p>
-<p> Our Lift-Gate service features a skilled delivery team that will unload the item(s) from the delivery truck and lower it to the curb outside your home.
+<p>Curbside (We Unload)</p>
+<p> A skilled delivery team will unload the item(s) from the delivery truck and lower it to the curb outside your home.
 You will be responsible for further transport beyond that point.
 We recommend asking a family member or friend for an extra hand.
 </p>
@@ -908,9 +937,9 @@ We recommend asking a family member or friend for an extra hand.
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Front Door: Drop-Off</p>
-<p> Our Front Door: Drop-Off offers an extra set of hands.
-A skilled delivery team will unload the item(s) from the truck and take it to the first available ry area outside your home (front door, porch, or garage).
+<p>Outside Front Door Drop-Off</p>
+<p> Our Front Door Drop-Off service offers an extra set of hands.
+A skilled delivery team will unload the item(s) from the truck and take it to the first available dry area outside your home (front door, porch, or garage).
 You will then be responsible for further transport beyond that point.
 </p>
 <ul>
@@ -922,9 +951,9 @@ Your item(s) will be left in the first available dry area, as long as the delive
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Entryway</p>
-<p> Inside Delivery takes Front Door even further.
-For our Entryway option, a skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
+<p>Inside Home Entrance Drop-Off</p>
+<p> Inside Home Entrance Drop-Off service takes your items even further.
+A skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
 </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrives at the local terminal.</li>
@@ -932,8 +961,8 @@ For our Entryway option, a skilled delivery team will bring the item(s) inside y
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Room of Choice</p>
-<p> Our Room of Choice option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.* </p>
+<p>Room of Choice Delivery</p>
+<p> Our less-sweat method, the Room of Choice Delivery option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.* </p>
 <p> *Upstairs carrying limit of two flights of stairs (up to 15 steps each) </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once their items arrive at the local terminal.</li>
@@ -941,21 +970,21 @@ For our Entryway option, a skilled delivery team will bring the item(s) inside y
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Room of Choice &amp.
+<p>Room of Choice Delivery &amp.
 Packaging Removal</p>
-<p> For even less maintenance, this delivery option includes professional packaging removal.
-A skilled delivery team will bring your item(s) inside, and place it in the room of your choosing.* Packaging will be removed and disposed of for your convenience.
+<p> Our Room of Choice Delivery &amp.
+Packaging Removal option features a skilled delivery team that will bring your item(s) inside, place it in the room of your choosing*, then remove and dispose of all packaging for your convenience.
 </p>
 <p> *Upstairs carrying limit of two flights of stairs (up to 15 steps each) </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrive at the local terminal.</li>
 <li>Signature Required: Yes</li>
-<li>Packaging Removal Included: No</li>
+<li>Packaging Removal Included: Yes</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Full Service Delivery: Room of Choice, Packaging Removal, &amp.
+<p>All-Inclusive Delivery &amp.
 Assembly</p>
-<p> Our easiest, no-sweat method, Full Service Delivery takes your item from delivery to assembly.
+<p> Our easiest, no-sweat method, All-Inclusive Delivery takes your item from delivery to assembly.
 A delivery team will bring your item(s) inside and place it in the room of your choice.* Packaging will be removed and disposed of, followed by basic assembly for your convenience.** </p>
 <p> *Upstairs carrying limit of two flights of stairs (up to 15 steps each) </p>
 <p> **Assembly includes light setup requiring basic tools, such as a screwdriver.
@@ -964,8 +993,8 @@ Please note that the delivery team will not perform plumbing installation, elect
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrive at the local terminal.</li>
 <li>Signature Required: Yes</li>
-<li>Packaging Removal Included: No</li>
-<li>Assembly Service Included: No</li>
+<li>Packaging Removal Included: Yes</li>
+<li>Assembly Service Included: Yes</li>
 </ul>
 <p>When Will My Order Arrive?</p>
 <p> Every product on our site has an estimated Lead Time - the number of business days it takes for an item to be processed and prepared for shipment at the warehouse.
@@ -991,6 +1020,8 @@ Your order will travel through a nationwide network of professional moving compa
 You will be contacted for a delivery appointment when your order reaches the delivery agent.
 Although the items are handled carefully throughout transit, we require that our orders undergo a thorough inspection at the delivery agent to ensure your item is delivered in perfect condition.
 </p>
+<p> For products that display 'Arrives by Christmas', Wayfair is not responsible for late shipments resulting from carrier delays or any other causes beyond our control.
+</p>
 <p>Tracking Packages</p>
 <ul>
 <li>Click on the " Track Packages" link in the Orders section on the Welcome page of My Account.</li>
@@ -1000,12 +1031,12 @@ If the items you'd like to track have been shipped, the tracking information wil
 <p> Items marked <strong>FREE SHIPPING!</strong> on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item.
 This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs).
 We won't surprise you with any hidden charges or handling fees.
-The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to Massachusetts, New York, Utah or Kentucky, we are required to charge sales tax.
+The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to California, Illinois, Kentucky, Massachusetts, New Jersey, New York, North Carolina, Texas, Utah, or any Canadian province, we are required to charge sales tax.
 </p>
 <p> Beware of companies who mask their shipping charges and surprise you with prohibitive shipping and handling fees or oversize charges at the end of the checkout process.
 Make sure you know the total cost of your purchase when shopping around.
 </p>
-<p> Please refer to the following chart to understand the specific shipping rates for items that fall under our Shipping Policy: </p> Order Amount Standard Shipping Cost Rewards Member Shipping Cost &lt; $49 $6.99 $4.99 ≥ $49 Free! Free! <p> Exclusions: Certain products we offer do carry associated shipping charges either per item or per order amount.
+<p> Please refer to the following chart to understand the specific shipping rates for items that fall under our Shipping Policy: </p> Order Amount Standard Shipping Cost &lt; $49 $4.99 ≥ $49 Free! <p> Exclusions: Certain products we offer do carry associated shipping charges either per item or per order amount.
 The total item shipping charges, if any, will be detailed in the shopping cart page prior to checkout.
 </p>
 <p> Order Amount for promotional shipping doesn't include, and offer doesn't apply to, gift cards, bulk orders, applicable shipping charges, international fees, or sales tax.
@@ -1026,63 +1057,12 @@ Simply enter an address for each recipient, or select an address from your Addre
 </p>
 <p> You can even change the shipping address of an item after your order has been placed, by logging into My Account.
 To learn how to change a shipping address of an item or order, please see " Changing My Shipping Address" under Making Changes To My Order.
-(Please note that unfortunately, we will be unable to change the address for any items that have already shipped out of the warehouse.) </p>
-<p>International Shipping</p>
-<p>Placing orders for delivery to Canada is quick and easy!</p>
-<p> Our zillions of products also ship to Canada.
-Duty, tax and shipping will be calculated in your shopping cart for a seamless checkout process.
-Feel free to call us at 877-WAYFAIR (877-929-3247) or email us with any questions you may have.
-</p>
-<p>How do I find items that ship to Canada?</p>
-<p> Within the 'Refine' box on the left hand side of many of our browse pages, there is a 'Ships To' section that allows you to filter to only show items that can be shipped to Canada: </p>
-<p>Lead-Time</p>
-<p> The average delivery times posted on our website are for orders shipping within the contiguous United States.
-Most orders shipping to Canada will have increased transit time due to customs inspection and further distance from the supplier distribution centers*.
-Please note that we do not currently offer expedited shipping to Canadian addresses.
-Estimated transit time from shipment date: </p>
-<p> Small Parcel: 5 - 10 Business Days<br> Large Parcel Curbside Deliveries: 5 - 10 Business Days<br> Large Parcel Inside Deliveries: 4 - 6 Weeks<br>
-</p>
-<p> *Some of our suppliers have warehouses located in Canada.
-Whenever possible, we will ship from our Canadian warehouses to remove duty fees and cut down on transit time to you! </p>
-<p>
-<strong>Taxes &amp.
-Duties</strong> - We are a registered non-resident importer in Canada.
-This allows us to simplify the purchasing process for our Canadian customers, reduce delays at the border, and prevent unexpected charges at the time of delivery.
-Taxes, duty and brokerage fees are paid at the time of purchase for all orders shipping to Canada.
-We will handle all the paperwork! Additionally, GST and, where applicable, HST will be remitted for you to the Canadian government to further simplify your shopping experience.
-We collect and remit HST for the provinces of Ontario, British Columbia, and the Maritime provinces.
-Please note select postal codes are designated as remote locations, and may also require additional shipping fees.
-</p>
-<p>Returns</p>
-<p> Unless otherwise noted, we accept returns on all orders that ship to Canada.
-All orders fall under our Standard Return Policy.
-Please note: duties and GST will be refunded.
-However, all actual shipping costs and brokerage fees are non-refundable.
-</p>
-<p>
-<strong>Please Note:</strong>
-</p>
+(Please note that unfortunately, we will be unable to change the address for any items that have already shipped out of the warehouse.) </p> International Shipping International shipping outside of the United States: <p> Visit our international sites (product selection varies by country): </p>
 <ul>
-<li>Items are typically delivered in Canada by our shipping partner, Purolator.</li>
-<li>Sets of products marked as 'Ships to Canada' may contain individual pieces that are not eligible for international shipping</li>
-<li>Certain product warranties may only be valid in the United States</li>
-<li>All products on our sites are subject to safety and testing standards as required by the United States and may not be certified for use outside the United States</li>
-<li>All dates are shown in Month/Day/Year format (e.g.
-5/4/2008 = May 4, 2008)</li>
-<li>All prices shown in US Dollars</li>
-</ul>
-<p>International shipping outside of the United States/Canada:</p>
-<p> If you would like to have an order shipped outside the United States or Canada, please email us with the following information: </p>
-<ul>
-<li>A link to the product page(s) or the SKU number(s) (found underneath the product name on the product page) of the item(s) you wish the order</li>
-<li>The total quantity you wish to order</li>
-<li>The final delivery address</li>
-</ul>
-<p> We can arrange a personalized, competitive quote for freight charges through our freight forwarder.
-Please note that your order must be over $5000 to qualify for freight forwarding.
-</p>
-<p>Shopping in the United Kingdom?</p>
-<p>We offer a wide selection of products available for delivery in the United Kingdom which can be found at www.wayfair.co.uk </p>
-<p>Sind Sie in Deutschland?</p>
-<p>Bei www.wayfair.de bieten wir Ihnen ein umfangreiches Warenangebot für Versand innerhalb Deutschlands.
-</p> Back To Top 
+<li>Canada: wayfair.ca
+</li>
+<li>United Kingdom: wayfair.co.uk
+</li>
+<li>Germany: wayfair.de
+</li>
+</ul> Back To Top 

@@ -1,36 +1,318 @@
- <p>Your zone to play free online games</p> Join or Login <ul>
-</ul>
-<ul>
+ Categories <ul>
 <li> Home </li>
-<li> Awards </li>
-<li> Racing </li>
-<li> Action </li>
-<li> Puzzle </li>
-<li> Sports </li>
-<li> Skill </li>
-<li> Girls </li>
-<li> Adventure </li>
-<li> Multiplayer </li>
-<li> More <ul>
-<li>Kogama Games</li>
-<li>War Games</li>
-<li>Board &amp.
-Card</li>
-<li>High scores</li>
-<li>MMO</li>
-<li>Mobile &amp.
-Tablet Games</li>
+<li> Multiplayer <ul>
+<li> Social Games </li>
+<li> 2 player </li>
+<li> Casino Games </li>
+<li> MMO &amp.
+Strategy </li>
+<li> .io Games </li>
 </ul>
+</li>
+<li> Action <ul>
+<li> Arena Fighting </li>
+<li> Anime and Manga Games </li>
+<li> Shooting Games </li>
+<li> Strategy </li>
+<li> Tower Defence </li>
+<li> War Games </li>
+<li> Zombie Games </li>
+</ul>
+</li>
+<li> Adventure <ul>
+<li> Platform Games </li>
+<li> Physics </li>
+<li> Funny Games </li>
+<li> Simulation </li>
+<li> Minecraft Games </li>
+<li> Scary Games </li>
+<li> Ninja Games </li>
+</ul>
+</li>
+<li> Puzzle <ul>
+<li> Casino Games </li>
+<li> Hidden Objects </li>
+<li> Colored Blocks </li>
+<li> Mahjong </li>
+<li> Match 3 </li>
+<li> Card Solitaire </li>
+<li> Bubble Shooter </li>
+</ul>
+</li>
+<li> Girls <ul>
+<li> Animal Games </li>
+<li> Beauty Games </li>
+<li> Caring </li>
+<li> Cooking </li>
+<li> Room Decoration </li>
+<li> Dress Up </li>
+<li> Love Games </li>
+<li> Princess Games </li>
+</ul>
+</li>
+<li> Racing <ul>
+<li> BMX Games </li>
+<li> Truck Games </li>
+<li> Flight Games </li>
+<li> Car Games </li>
+<li> Motor Racing </li>
+<li> Parking </li>
+<li> Boat Racing </li>
+<li> Stunt Driving </li>
+</ul>
+</li>
+<li> Sports <ul>
+<li> Athletics </li>
+<li> Basketball </li>
+<li> Billiards </li>
+<li> Skateboarding </li>
+<li> Winter Sports </li>
+<li> Golf </li>
+<li> Soccer </li>
+<li> Boxing </li>
+</ul>
+</li>
+</ul> Sign In Categories <ul>
+<li>
+<p>{text} ({games_number})</p>
+</li>
+</ul> Games <ul>
+<li>
+<p>{text}</p>
+</li>
+</ul> View more results <ul>
+<li>
+<p>For you</p>
+</li>
+<li>
+<p>Specials</p>
+</li>
+<li>
+<p>Multiplayer</p>
+</li>
+<li>
+<p>Action</p>
+</li>
+<li>
+<p>Adventure</p>
+</li>
+<li>
+<p>Puzzle</p>
+</li>
+<li>
+<p>Girls</p>
+</li>
+<li>
+<p>Racing</p>
+</li>
+<li>
+<p>Sports</p>
 </li>
 </ul>
 <ul>
+<li> For you <ul>
+</ul> My last played games <ul>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul> FAVE GAMES <p>Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.</p> Join for free </li>
+<li> Hot Games <ul>
+<li> Family Barn </li>
+<li> Warbanner </li>
+<li> Summer Sports </li>
+<li> My Dolphin Show 8 </li>
+<li> Hero Simulator: Idle Adventure </li>
+<li> Silly Ways to Die 3 </li>
+</ul> Mobile Apps More <ul>
+<li> Mad Day 2 </li>
+<li> Summer Sports </li>
+<li> Hero Simulator: Idle Adventure </li>
+<li> My Dolphin Show 8 </li>
+<li> Mad Truck Challenge: The Beginning </li>
+<li> Trollface Quest TrollTube </li>
+</ul> Specials <ul>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+</li>
+<li> Top Categories <ul>
+<li> Social Games </li>
+<li> 2 player </li>
+<li> Casino Games </li>
+<li> MMO &amp.
+Strategy </li>
+<li> .io Games </li>
+</ul> All Multiplayer Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Forge of Empires </li>
+<li> WeSpin </li>
+<li> Goodgame Empire </li>
+<li> Goodgame Poker </li>
+<li> Klondike </li>
+<li> Family Barn </li>
+</ul> Spotlight Slotomania </li>
+<li> Top Categories <ul>
+<li> Arena Fighting </li>
+<li> Anime and Manga Games </li>
+<li> Shooting Games </li>
+<li> Strategy </li>
+<li> Tower Defence </li>
+<li> War Games </li>
+<li> Zombie Games </li>
+</ul> All Action Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Swords &amp.
+Souls: A Soul Adventure </li>
+<li> Hero Simulator: Idle Adventure </li>
+<li> Takeover </li>
+<li> Super Mechs </li>
+<li> Sniper Team 2 </li>
+<li> Mighty Knight 2 </li>
+</ul> Spotlight SuperSnake.io </li>
+<li> Top Categories <ul>
+<li> Platform Games </li>
+<li> Physics </li>
+<li> Funny Games </li>
+<li> Simulation </li>
+<li> Minecraft Games </li>
+<li> Scary Games </li>
+<li> Ninja Games </li>
+</ul> All Adventure Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Papa Louie 3: When Sundaes Attack </li>
+<li> Cactus McCoy 2 </li>
+<li> Paladog </li>
+<li> Lego Star Wars Adventure </li>
+<li> Tomb Runner </li>
+<li> Stealth Hunter </li>
+</ul> Spotlight Easy Joe World </li>
+<li> Top Categories <ul>
+<li> Casino Games </li>
+<li> Hidden Objects </li>
+<li> Colored Blocks </li>
+<li> Mahjong </li>
+<li> Match 3 </li>
+<li> Card Solitaire </li>
+<li> Bubble Shooter </li>
+</ul> All Puzzle Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Mahjong Link </li>
+<li> Smarty Bubbles </li>
+<li> Fitz! </li>
+<li> Spider Soli </li>
+<li> Jewel Academy </li>
+<li> Bubble Shooter </li>
+</ul> Spotlight Mahjong Chain </li>
+<li> Top Categories <ul>
+<li> Animal Games </li>
+<li> Beauty Games </li>
+<li> Caring </li>
+<li> Cooking </li>
+<li> Room Decoration </li>
+<li> Dress Up </li>
+<li> Love Games </li>
+<li> Princess Games </li>
+</ul> All Girls Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Papa’s Cheeseria </li>
+<li> Shopaholic: Hollywood </li>
+<li> My Puppy Play Day </li>
+<li> My New Room 2 </li>
+<li> Hair Do Design </li>
+<li> Gingerbread House: Sara's Cooking Class </li>
+</ul> Spotlight My Dolphin Show World </li>
+<li> Top Categories <ul>
+<li> BMX Games </li>
+<li> Truck Games </li>
+<li> Flight Games </li>
+<li> Car Games </li>
+<li> Motor Racing </li>
+<li> Parking </li>
+<li> Boat Racing </li>
+<li> Stunt Driving </li>
+</ul> All Racing Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Valvoline Race of the Decades </li>
+<li> 4x4 Soccer </li>
+<li> Mad Day 2 </li>
+<li> Bus Man Parking 3D </li>
+<li> ATV Destroyer </li>
+<li> FMX Team </li>
+</ul> Spotlight Car Eats Car 2: Mad Dreams </li>
+<li> Top Categories <ul>
+<li> Athletics </li>
+<li> Basketball </li>
+<li> Billiards </li>
+<li> Skateboarding </li>
+<li> Winter Sports </li>
+<li> Golf </li>
+<li> Soccer </li>
+<li> Boxing </li>
+</ul> All Sports Browse By <ul>
+<li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
+<li> Alphabetical Order </li>
+</ul> Best Games <ul>
+<li> Billiards Master Pro </li>
+<li> Football Headz Cup </li>
+<li> The Champions 4: World Domination </li>
+<li> Sports Heads Basketball </li>
+<li> Baseball </li>
+<li> Snooker </li>
+</ul> Spotlight England Soccer League </li>
+</ul> privacy policy <ul>
 <li>Home</li>
+<li>privacy policy</li>
 </ul>
 <p>
 <strong>PRIVACY POLICY</strong>
 </p>
 <p> This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites.
-(Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Arendstraat 23, 1223 RE, Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens).
+(Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB, Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens).
 SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites.
 By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.
 </p>
@@ -199,53 +481,27 @@ In the case of a contradiction between the Terms of Use and this Privacy Policy,
 <p> If you have any additional questions or requests, you may send an email to info@spilgames.com.
 </p>
 <p> 100209 </p>
-<ul>
-<li> Best Games <ul>
-<li>Snail Bob</li>
-<li>Flakboy 2</li>
-<li>Bloons Tower Defense 3</li>
-<li>Lose the Heat 3</li>
-<li>Uphill Rush 3</li>
-</ul>
-</li>
-<li> Best Game Types <ul>
-<li>Skateboarding</li>
-<li>cool-math-games</li>
-<li>Baseball</li>
-<li>War Games</li>
-<li>Bubble Shooter</li>
-</ul>
-</li>
-<li> Other game sites <ul>
-<li>Online Games</li>
-<li>Dress up games</li>
-<li>Games</li>
-<li>Mobile &amp.
-Tablet Games</li>
-<li>A10 Games</li>
-</ul>
-</li>
-</ul>
 <p>Welcome to Agame.com, your zone to play free online games.
 Stocked each day with new free games, including action games, adventure games, board &amp.
 card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.<br>
-<br>Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?</p> Switch to Mobile View <p>Copyright © 2015 SPIL GAMES All rights reserved.</p>
+<br>Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?</p>
+<ul>
+<li> Facebook </li>
+<li> Google+ </li>
+<li> Twitter </li>
+</ul>
 <ul>
 <li> Terms of Use </li>
 <li> Privacy Policy </li>
 <li> Privacy Policy, Kids &amp.
 Parents </li>
-</ul>
-<ul>
 <li> About Us </li>
 <li> Advertise with Us </li>
 <li> Submit a Game </li>
 <li> Get Free Games </li>
 <li> Help &amp.
 Contact </li>
+<li> Cookies </li>
 </ul>
-<ul>
-<li>Facebook</li>
-<li>Google+</li>
-<li>Twitter</li>
-</ul> 
+<p> Copyright © 2016 SPIL GAMES All rights reserved.
+</p> 

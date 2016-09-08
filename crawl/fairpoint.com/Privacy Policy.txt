@@ -15,11 +15,6 @@ Small Business
 Enterprise
 </li>
 <li>
-Gov.
-&amp.
-Education
-</li>
-<li>
 Wholesale
 </li>
 <li>
@@ -267,7 +262,9 @@ About <ul>
 <li>
 Corporate Profile
 </li>
-<li>Leadership</li>
+<li>
+Leadership
+</li>
 <li>Investor Relations</li>
 <li>
 Newsroom
@@ -277,6 +274,9 @@ Community Involvement
 </li>
 <li>
 Careers
+</li>
+<li>
+Environmental Sustainability
 </li>
 </ul>
 </li>
@@ -309,7 +309,7 @@ CPNI
 Copyright Infringement
 </li>
 <li>
-Terms &amp.
+Internet Terms &amp.
 Conditions of Service
 </li>
 <li>Regulatory Notices</li>
@@ -317,8 +317,11 @@ Conditions of Service
 PO Terms &amp.
 Conditions
 </li>
-<li>Tariffs, Catalogs &amp.
-Price Lists</li>
+<li>Tariffs, RTCs, Price Lists and Catalogs</li>
+<li>Service Agreements</li>
+<li>
+Consumer Disclosures – BIAS
+</li>
 </ul>
 </li>
 <li>
@@ -332,5 +335,5 @@ Connect With Us <ul>
 Speed and uninterrupted service not guaranteed.
 Not all services available in all areas.
 Services subject to change.</p>
-<p>© 2014 FairPoint Communications, Inc.
+<p>© 2016 FairPoint Communications, Inc.
 All rights reserved.</p> 

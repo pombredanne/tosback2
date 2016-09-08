@@ -1,4 +1,7 @@
- Analytics Skip to content GOOGLE ANALYTICS TERMS OF SERVICE <p> These Google Analytics Terms of Service (this <em>"Agreement"</em>) are entered into by Google Inc.
+ Analytics Analytics <ul>
+<li> Analytics </li>
+<li> Tag Manager </li>
+</ul> Google Analytics Terms of Service <p> These Google Analytics Terms of Service (this <em>"Agreement"</em>) are entered into by Google Inc.
 ("Google") and the entity executing this Agreement (<em>"You"</em>).
 This Agreement governs Your use of the standard Google Analytics (the <em>"Service"</em>).
 BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT.
@@ -43,7 +46,7 @@ Each Property includes a default Profile that measures all pages within the Prop
 <em>"Privacy Policy"</em> means the privacy policy on a Property.
 </p>
 <p>
-<em>"Report"</em> means the resulting analysis shown at www.google.com/analytics for a Profile.
+<em>"Report"</em> means the resulting analysis shown at www.google.com/analytics/ for a Profile.
 </p>
 <p>
 <em>"Servers"</em> means the servers controlled by Google (or its wholly owned subsidiaries) on which the Processing Software and Customer Data are stored.
@@ -52,7 +55,7 @@ Each Property includes a default Profile that measures all pages within the Prop
 <em>"Software"</em> means the GATC and the Processing Software.
 </p>
 <p>
-<em>"Third Party"</em> means any third party (i) to which You provide access to Your Account or (i) for which You use the Service to collect information on the third party's behalf.
+<em>"Third Party"</em> means any third party (i) to which You provide access to Your Account or (ii) for which You use the Service to collect information on the third party's behalf.
 </p>
 <p>
 <em>"Visitors"</em> means visitors to Your Properties.
@@ -61,7 +64,7 @@ Each Property includes a default Profile that measures all pages within the Prop
 Fees and Service.
 <p> Subject to Section 15, the Service is provided without charge to You for up to 10 million Hits per month per account.
 Google may change its fees and payment policies for the Service from time to time including the addition of costs for geographic data, the importing of cost data from search engines, or other fees charged to Google or its wholly-owned subsidiaries by third party vendors for the inclusion of data in the Service reports.
-The changes to the fees or payment policies are effective upon Your acceptance of those changes which will be posted at www.google.com/analytics.
+The changes to the fees or payment policies are effective upon Your acceptance of those changes which will be posted at www.google.com/analytics/.
 Unless otherwise stated, all fees are quoted in U.S.
 Dollars.
 Any outstanding balance becomes immediately due and payable upon termination of this Agreement and any collection expenses (including attorneys' fees) incurred by Google will be included in the amount owed, and may be charged to the credit card or other billing mechanism associated with Your AdWords account.
@@ -75,7 +78,7 @@ Google's (or its wholly-owned subsidiaries') support staff may, from time to tim
 </p> 4.
 Nonexclusive License.
 <p> Subject to the terms and conditions of this Agreement, (a) Google grants You a limited, revocable, non-exclusive, non-sublicensable license to install, copy and use the GATC solely as necessary for You to use the Service on Your Properties or Third Party's Properties.
-and (b) You may remotely access, view and download Your Reports stored at www.google.com/analytics.
+and (b) You may remotely access, view and download Your Reports stored at www.google.com/analytics/.
 You will not (and You will not allow any third party to) (i) copy, modify, adapt, translate or otherwise create derivative works of the Software or the Documentation.
 (ii) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software, except as expressly permitted by the law in effect in the jurisdiction in which You are located.
 (iii) rent, lease, sell, assign or otherwise transfer rights in or to the Software, the Documentation or the Service.
@@ -89,23 +92,26 @@ Confidentiality.
 in which case, the party being compelled to disclose Confidential Information will give the other party as much notice as is reasonably practicable prior to disclosing the Confidential Information.
 </p> 6.
 Information Rights and Publicity.
-<p> Google and its wholly owned subsidiaries may retain and use, subject to the terms of its privacy policy (located at www.google.com/privacy.html), information collected in Your use of the Service.
+<p> Google and its wholly owned subsidiaries may retain and use, subject to the terms of its privacy policy (located at https://www.google.com/policies/privacy/), information collected in Your use of the Service.
 Google will not share Your Customer Data or any Third Party's Customer Data with any third parties unless Google (i) has Your consent for any Customer Data or any Third Party's consent for the Third Party's Customer Data.
 (ii) concludes that it is required by law or has a good faith belief that access, preservation or disclosure of Customer Data is reasonably necessary to protect the rights, property or safety of Google, its users or the public.
 or (iii) provides Customer Data in certain limited circumstances to third parties to carry out tasks on Google's behalf (e.g., billing or data storage) with strict restrictions that prevent the data from being used or shared except as directed by Google.
 When this is done, it is subject to agreements that oblige those parties to process Customer Data only on Google's instructions and in compliance with this Agreement and appropriate confidentiality and security measures.
 </p> 7.
 Privacy.
-<p> You will not (and will not allow any third party to) use the Service to track, collect or upload any data that personally identifies an individual (such as a name, email address or billing information), or other data which can be reasonably linked to such information by Google.
+<p> You will not and will not assist or permit any third party to, pass information to Google that Google could use or recognize as personally identifiable information.
 You will have and abide by an appropriate Privacy Policy and will comply with all applicable laws, policies, and regulations relating to the collection of information from Visitors.
 You must post a Privacy Policy and that Privacy Policy must provide notice of Your use of cookies that are used to collect data.
 You must disclose the use of Google Analytics, and how it collects and processes data.
 This can be done by displaying a prominent link to the site “How Google uses data when you use our partners' sites or apps”, (located at www.google.com/policies/privacy/partners/, or any other URL Google may provide from time to time).
-You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.
+You will use commercially reasonable efforts to ensure that a Visitor is provided with clear and comprehensive information about, and consents to, the storing and accessing of cookies or other information on the Visitor’s device where such activity occurs in connection with the Service and where providing such information and obtaining such consent is required by law.
 </p>
-<p> You may participate in an integrated version of Google Analytics and any DoubleClick product or service or any other Google display ads product or service (<em>"Google Analytics for Display Advertisers"</em>).
-If You use Google Analytics for Display Advertisers, You will comply with the Google Analytics for Display Advertisers Policy (available at support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409) and, as set forth in the policy, disclose in Your Privacy Policy (i) Your use of Google Analytics for Display Advertisers and its features You use, and (ii) how Visitors can opt-out from Google Analytics for Display Advertisers.
-Your access to and use of any DoubleClick or Google display ads data is subject to the applicable terms between You and Google.
+<p> You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.
+</p>
+<p> You may participate in an integrated version of Google Analytics and certain DoubleClick and Google advertising services (<em>"Google Analytics Advertising Features"</em>).
+If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409) Your access to and use of any DoubleClick or Google advertising service is subject to the applicable terms between You and Google regarding that service.
+</p>
+<p> If You use the GA 360 Suite Home, Your use of the GA 360 Suite Home is governed by the Google Analytics 360 Suite Home Terms of Services (or as subsequently re-named) available at https://360suite.google.com/terms (or such other URL as Google may provide) as modified from time to time (the “<strong>Suite Home Terms</strong>”), but subject to Section 2 of the Suite Home Terms, use of the Service will continue to be governed by this Agreement.
 </p> 8.
 Indemnification.
 <p> To the extent permitted by applicable law, You will indemnify, hold harmless and defend Google and its wholly owned subsidiaries, at Your expense, from any and all third-party claims, actions, proceedings, and suits brought against Google or any of its officers, directors, employees, agents or affiliates, and all related liabilities, damages, settlements, penalties, fines, costs or expenses (including, reasonable attorneys' fees and other litigation expenses) incurred by Google or any of its officers, directors, employees, agents or affiliates, arising out of or relating to (i) Your breach of any term or condition of this Agreement, (ii) Your use of the Service, (iii) Your violations of applicable laws, rules or regulations in connection with the Service, (iv) any representations and warranties made by You concerning any aspect of the Service, the Software or Reports to any Third Party.
@@ -123,7 +129,7 @@ DISCLAIMER OF WARRANTIES.
 <p> TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EXCEPT AS EXPRESSLY PROVIDED FOR IN THIS AGREEMENT, GOOGLE MAKES NO OTHER WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NONINFRINGEMENT.
 </p> 11.
 LIMITATION OF LIABILITY.
-<p> TO THE EXTENT PERMITTED BY APPLICABLE LAW, GOOGLE WILL NOT BE LIABLE FOR YOUR LOST REVENUES OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF THE GOOGLE OR ITS SUBSIDIARIES AND AFFILIATES HAVE BEEN ADVISED OF, KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY.
+<p> TO THE EXTENT PERMITTED BY APPLICABLE LAW, GOOGLE WILL NOT BE LIABLE FOR YOUR LOST REVENUES OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF GOOGLE OR ITS SUBSIDIARIES AND AFFILIATES HAVE BEEN ADVISED OF, KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY.
 GOOGLE'S (AND ITS WHOLLY OWNED SUBSIDIARIES' TOTAL CUMULATIVE LIABILITY TO YOU OR ANY OTHER PARTY FOR ANY LOSS OR DAMAGES RESULTING FROM CLAIMS, DEMANDS, OR ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT WILL NOT EXCEED $500 (USD).
 </p> 12.
 Proprietary Rights Notice.
@@ -135,7 +141,8 @@ Without limiting the generality of the foregoing, You agree not to (and not to a
 (d) use, post, transmit or introduce any device, software or routine which interferes or attempts to interfere with the operation of the Service or the Software.
 (e) use the trademarks, trade names, service marks, logos, domain names and other distinctive brand features or any copyright or other proprietary rights associated with the Service for any purpose without the express written consent of Google.
 (f) register, attempt to register, or assist anyone else to register any trademark, trade name, serve marks, logos, domain names and other distinctive brand features, copyright or other proprietary rights associated with Google (or its wholly owned subsidiaries) other than in the name of Google (or its wholly owned subsidiaries, as the case may be).
-or (g) remove, obscure, or alter any notice of copyright, trademark, or other proprietary right appearing in or on any item included with the Service.
+(g) remove, obscure, or alter any notice of copyright, trademark, or other proprietary right appearing in or on any item included with the Service.
+or (h) seek, in a proceeding filed during the term of this Agreement or for one year after such term, an injunction of any portion of the Service based on patent infringement.
 </p> 13.
 U.S.
 Government Rights.
@@ -149,12 +156,12 @@ Term and Termination.
 <p> Either party may terminate this Agreement at any time with notice.
 Upon any termination of this Agreement, Google will stop providing, and You will stop accessing the Service.
 and You will delete all copies of the GATC from all Properties and certify thereto in writing to Google within 3 business days of such termination.
-In the event of any termination (a) You will not be entitled to any refunds of any usage fees or any other fees, and (b) any (i) outstanding balance for Service rendered through the date of termination, and (ii) other unpaid payment obligations during the remainder of the Initial Term will be immediately due and payable in full and (c) all of Your historical Report data will no longer be available to You.
+In the event of any termination (a) You will not be entitled to any refunds of any usage fees or any other fees, and (b) any outstanding balance for Service rendered through the date of termination will be immediately due and payable in full and (c) all of Your historical Report data will no longer be available to You.
 </p> 15.
 Modifications to Terms of Service and Other Policies.
 <p> Google may modify these terms or any additional terms that apply to the Service to, for example, reflect changes to the law or changes to the Service.
 You should look at the terms regularly.
-Google will post notice of modifications to these terms at www.google.com/analytics or policies referenced in these terms at the applicable URL for such policies.
+Google will post notice of modifications to these terms at www.google.com/analytics/, the Google Analytics Policies at www.google.com/analytics/policies/, or other policies referenced in these terms at the applicable URL for such policies.
 Changes will not apply retroactively and will become effective no sooner than 14 days after they are posted.
 If You do not agree to the modified terms for the Service, You should discontinue Your use Google Analytics.
 No amendment to or modification of this Agreement will be binding unless (i) in writing and signed by a duly authorized representative of Google, (ii) You accept updated terms online, or (iii) You continue to use the Service after Google has posted updates to the Agreement or to any policy governing the Service.
@@ -176,9 +183,54 @@ The relationship between Google and You is not one of a legal partnership relati
 This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto.
 The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.
 </p>
+<p> Last Updated 5/24/2016 </p>
+<dl>
+<dt> Follow us on: </dt>
+<dd>
+</dd>
+<dd>
+</dd>
+<dd>
+</dd>
+<dd>
+</dd>
+</dl>
 <ul>
+<li> Apps Status Dashboard </li>
+<li> Terms of Service </li>
+</ul>
+<dl>
+<dt> Learning &amp.
+Support </dt>
+<dd> Help Center </dd>
+<dd> User Forum </dd>
+<dd> Solutions Gallery </dd>
+<dd> Analytics Academy </dd>
+<dd> Partner Gallery </dd>
+</dl>
+<dl>
+<dt> Developers </dt>
+<dd> Google Analytics Developer Site </dd>
+<dd> Demos &amp.
+Tools </dd>
+<dd> Help &amp.
+Communities </dd>
+<dd> Technology Partner Program </dd>
+</dl>
+<dl>
+<dt> Related Products </dt>
+<dd> AdWords </dd>
+<dd> DoubleClick </dd>
+<dd> AdSense </dd>
+</dl>
+<dl>
+<dt> More Solutions from Google </dt>
+<dd> Business Solutions </dd>
+<dd> Google Apps for Work </dd>
+</dl>
+<ul>
+<li> Help </li>
 <li> Google </li>
-<li> About Google </li>
-<li> Privacy &amp.
-Terms </li>
+<li> Privacy </li>
+<li> Terms </li>
 </ul> 

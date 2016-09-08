@@ -1,12 +1,37 @@
- <i>
+
+<p> </p> Market Research Data &amp.
+Customer Insight Company UK &amp.
+Global | MetrixLab <i>
 </i>
 <i>
+</i> I'm looking for
+product<ul>
+<li>
+Any<i>
+</i>
+</li>
+</ul>
+in a size
+size<ul>
+<li>
+Any<i>
+</i>
+</li>
+</ul>
+.
+Show me the
+colour<ul>
+<li>
+Any<i>
+</i>
+</li>
+</ul>
+items.
+Super Search<i>
 </i>
 <i>
 </i>
 <ul>
-<li>CONTACT</li>
-<li>HOME</li>
 <li>
 SOLUTIONS
 <ul>
@@ -17,26 +42,9 @@ SOLUTIONS
 </li>
 <li>DATA</li>
 <li>TECHNOLOGY</li>
-<li>NEWS CENTER</li>
-<li>COMPANY</li>
-</ul>
-<i>
-</i>
-<ul>
-</ul>
-<ul>
-<li>
-SOLUTIONS
-<ul>
-<li>PRODUCT INNOVATION</li>
-<li>BRAND ENGAGEMENT</li>
-<li>CUSTOMER VALUE</li>
-</ul>
-</li>
-<li>DATA</li>
-<li>TECHNOLOGY</li>
-<li>NEWS CENTER</li>
-<li>COMPANY</li>
+<li>INSIGHTS &amp.
+NEWS</li>
+<li>CAREERS</li>
 <li>CONTACT</li>
 <li>
 CLIENT LOGIN
@@ -46,13 +54,43 @@ CLIENT LOGIN
 </ul>
 </li>
 </ul>
+<i>
+</i>
 <ul>
+</ul>
+<ul>
+<li>
+SOLUTIONS
+<ul>
+<li>PRODUCT INNOVATION</li>
+<li>BRAND ENGAGEMENT</li>
+<li>CUSTOMER VALUE</li>
+</ul>
+</li>
+<li>DATA</li>
+<li>TECHNOLOGY</li>
+<li>INSIGHTS &amp.
+NEWS</li>
+<li>CAREERS</li>
+<li>CONTACT</li>
+<li>
+CLIENT LOGIN
+<ul>
+<li>METRIXLAB</li>
+<li>MARKETTOOLS</li>
+</ul>
+</li>
+</ul> MetrixLab MetrixLab <ul>
+<li>
+</li>
+<li>
+</li>
 <li>
 </li>
 <li>
 </li>
 </ul>
-<p>OUR MISSION IS TO CHANGE THE WAY DATA IS USED TO GENERATE INSIGHTS THAT IMPACT MARKETING DECISIONS</p>
+<p>OUR MISSION IS TO CHANGE THE WAY MARKETING RESEARCH IS USED TO GENERATE INSIGHTS THAT IMPACT BUSINESS DECISIONS</p>
 <p>
 </p>
 <p>
@@ -76,9 +114,8 @@ Brand Engagement
 Customer Value
 <p>Insights for Customer Acquisition, Experience, Value Management and Retention</p>
 <p>Customer Value </p>
-<p>POWERED BY UNIQUE ANALYTICS AND INSIGHTS</p>
-<p>We leverage data from any source, anywhere and at any time and apply our proprietary technologies<br>
-to deliver solutions that extend market research into new areas of marketing insight.</p>
+<p>POWERED BY UNIQUE ANALYTICS AND CONSUMER INSIGHTS</p>
+<p>We leverage data from any source, anywhere and at any time and apply our proprietary technologies to deliver solutions that extend market research into new areas of marketing insight.</p>
 <p>
 </p>
 <p>
@@ -87,7 +124,7 @@ to deliver solutions that extend market research into new areas of marketing ins
 </p>
 <p>
 </p> 1
-Data We source data from surveys, social media, enterprise systems, mobile, public sources, GPS/geo location and other applicable repositories.
+Data We source market research data from surveys, social media, enterprise systems, mobile, public sources, GPS/geo location and other applicable repositories.
 <p>
 <i>
 </i>
@@ -102,26 +139,21 @@ Technology
 </p>
 <p>
 </p> 3
-Solutions We combine data and technology to generate marketing analytics and insights through best-in-class solutions in Innovation, Brand Engagement and Customer Value.
+Solutions We combine data and technology to generate marketing analytics and consumer insight through best-in-class solutions in Innovation, Brand Engagement and Customer Value.
 <p>OUR GLOBAL TEAM OF EXPERTS IS EXCITED TO HELP YOU</p>
-<p>Headquartered in Rotterdam and San Francisco, MetrixLab has conducted analytics and insights projects in more than 50 countries worldwide.</p>
+<p>MetrixLab, a Macromill Group careers has conducted analytics and consumer insight projects in more than 90 countries worldwide.</p>
 <p>
 </p>
 <p> </p>
 <p> </p>
-<p> </p>
-<p>Let’s get in touch!</p>
+<p>Get in touch!</p>
 <p>
 </p>
 <p>
 </p>
 <p>
 </p>
-<p>
-</p>
-<p>
-</p>
-<p>---AnguillaAntigua &amp.
+<p>Select countryAnguillaAntigua &amp.
 BarbudaArgentinaArmeniaAustraliaBahrainBarbadosBelgiumBelizeBermudaBoliviaBotswanaBrasilBritish Virgin IslandsBulgariaCamerounCanadaCayman IslandsČeská republikaChileChinaColombiaCosta RicaCôte d'IvoireDanmarkDeutschlandDominicaEcuadorEestiEgyptEl SalvadorEspañaFranceGreeceGrenadaGuatemalaGuinea-BissauGuinéeGuinée EquatorialeGuyanaHondurasHong KongHrvatskaIndiaIndonesiaIrelandIsraelItaliaJamaicaJapanJordanKenyaKoreaKuwaitLatvijaLiechtensteinLietuvaLuxembourgMacedoniaMadagascarMagyarországMalaysiaMaliMaltaMarocMauriceMéxicoMoldovaMontenegroMontserratMozambiqueNederlandNew ZealandNicaraguaNigerNigeriaNorgeOmanÖsterreichPanamáParaguayPerúPhilippinesPolskaPortugalPuerto RicoQatarRepública DominicanaRépublique CentrafricaineRomâniaRussiaSaudi ArabiaSchweizSénégalSingaporeSloveniaSlovenskoSouth AfricaSt.
 Kitts &amp.
 NevisSt.
@@ -131,6 +163,9 @@ The GrenadinesSuisseSuomiSurinameSverigeTaiwainThailandThe BahamasTrinidad &amp.
 TobagoTunisieTürkiyeTurks &amp.
 CaicosUgandaUnited KingdomUnited Arab EmiratesUnited StatesUruguayVenezuelaVietnam</p>
 <p>
+</p>
+<p>
+<br>
 </p>
 <p>
 </p>
@@ -152,17 +187,42 @@ Solutions
 </ul>
 <ul>
 <li>
-Company
+Careers
 <ul>
-<li>Vision</li>
-<li>Clients</li>
-<li>Careers</li>
+<li>About us</li>
 </ul>
 </li>
 </ul>
 <ul>
 <li>Contact</li>
-</ul>Search Search for: <p>Copyright © 2014 MetrixLab.
+</ul> Follow us on: <ul>
+<li>
+<i>
+</i>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+<i>
+</i>
+</li>
+</ul> Search Search for: <p>
+</p>
+<p>Copyright © 2016 MetrixLab.
 All rights reserved.
 Privacy Statement</p>
 <ul>

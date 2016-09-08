@@ -1,43 +1,64 @@
- <ul>
+ You may be trying to access this site from a secured browser on the server.
+Please enable scripts and reload this page.
+Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations <ul>
 <li>
+</li>
 <li>
+</li>
 <li>
+</li>
 <li>
+</li>
 <li>
+</li>
 </ul>
 <ul>
-<li>
-My Services <ul>
-<li>My Account</li>
-<li>My Bill</li>
-<li>My Mail</li>
-<li>My Phone</li>
-<li>My Domain</li>
+<li> My Services <ul>
+<li> My Account </li>
+<li> My Bill </li>
+<li> My Mail </li>
+<li> My Phone </li>
 </ul>
 </li>
-</ul> |  Home |  Contact Us Your Location: <strong>
-</strong>
-<br>Set New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State <p> Find and click on your state's button in the US map (below) <br> Setting your location will allow us to provide you with the most accurate information about our products and services.
-The dark blue shows the states currently served by Cable ONE.
-You may also set your location directly in the fields below.
-</p> State: <br>AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashingtonClear Existing Location   - or - Zipcode:<br>  <br>Save My Location You are here: Set Your State &gt.
-Set Your Location Set Your Location    Hover over a system to see the areas served.
-Click the system to set your location.
-<br>System Areas Served <br> You may also set your location directly in the fields below.
-<br> State: <br>
-<strong>
-</strong> City:<br> - or - Zipcode:<br>  <br>Save My Location You are here: Set Your State &gt.
-Set Your City &gt.
-Set Your Location Set Your Location <p> Click on the Continue button to set your location (below) <br> You may also set your location directly in the fields below.
-</p> You have selected: <br>
-<strong>Serving the areas:</strong> Save My Location State: <br>
-<strong>
-</strong> City:<br> - or - Zipcode:<br>  <br>Save My Location Order Now For Your Home For Your Business Customer Support Local Information <strong>You are here:</strong> Home Terms &amp.
-Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Terms &amp.
+<li>| </li>
+<li> Home </li>
+<li>| </li>
+<li> Contact Us </li>
+</ul>
+<br> Your Location: <br>New Location Set Your Location It looks like your browser does not have JavaScript enabled.
+Please turn on JavaScript and try again.
+<ul>
+<li>For Your Home</li>
+<li>For Your Business</li>
+<li>Customer Support</li>
+<li>Local Information</li>
+<li>Order Now</li>
+</ul>
+<strong>You are here: </strong> Home &gt.
+Terms and Conditions <ul>
+<li>
+Terms &amp.
+ConditionsCurrently selected<ul>
+<li>Closed Captioning</li>
+</ul>
+</li>
+<li>Copyright Notice</li>
+<li>Privacy Policy</li>
+<li>Internet Aup</li>
+<li>
+Network Management<ul>
+<li>Annual Notice (PDF)</li>
+</ul>
+</li>
+<li>Cable Service Guard</li>
+</ul> Terms &amp.
 Conditions <p>
 <strong>Terms and Conditions</strong>
 </p>
-<p>Please read and review this document carefully before accessing further information on this web site.
+<p>In this document, "Cable One" means Cable One, Inc.
+and any Cable One affiliate or subsidiary authorized to provide you with services.
+Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC.
+Please read and review this document carefully before accessing further information on this web site.
 By proceeding to access this web site, you agree to be bound by the terms and conditions set forth below.
 If you do not wish to be bound by these terms and conditions, please do not access or use this web site.
 Cable ONE, Inc.
@@ -98,4 +119,11 @@ Formal written complaints should be addressed to Emerson Yearwood, Assistant Gen
 210 East Earll Drive, Phoenix, AZ 85012.
 Telephone: 602.364.6000.
 Fax: 602.364.6013.
-emerson.yearwood@cableone.biz</p> For Your Home  For Your Business  Customer Support  Remote Connect  Local Information  All About Us <br>Legal Notices  Network Management Information  Contact Us  Great Careers  Payment Center  Site Map <p>Copyright 2015, Cable ONE Inc., All Rights Reserved.</p> 
+emerson.yearwood@cableone.biz</p> For Your Home For Your Business Customer Support Remote Connect Speed Test Local Information All About Us <br>Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map <p>Copyright 2016, Cable ONE Inc., All Rights Reserved.
+</p> Close Window X Set Your Location - Step 1 of 2 You are here: Set Your State Set Your State Find and click on your state's button in the US map (below) <p>Setting your location will allow us to provide you with the most accurate information about our products and services.
+The dark blue shows the states currently served by Cable ONE.
+You may also set your location directly in the fields below.
+</p> You are here: Set Your State &gt.
+Set Your Location Set Your Location <strong>Hover over a system to see the ares served.
+Click the system to set your location.</strong> System Areas Served <ul>
+</ul> State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, Cable ONE is not <br> available in this area.

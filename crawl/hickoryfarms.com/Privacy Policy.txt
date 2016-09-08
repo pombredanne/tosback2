@@ -1,23 +1,22 @@
  1.800.753.8558
-Find your local store Skip to content <ul>
+Find your store Skip to content <ul>
 <li> Login </li>
 <li> Register </li>
 </ul> Your Cart (0) Search Catalog Search Catalog Navigation <ul>
 <li> Gifts <ul>
 <li> Gift Boxes </li>
-<li> Valentine's Day Gifts </li>
+<li> Gift Baskets and Towers </li>
 <li> Business Gifts <ul>
 </ul>
 </li>
-<li> Military Gifts </li>
-<li> Hickory Farms Reserve </li>
 <li> Personalized Gifts </li>
 <li> Shop By Occasion <ul>
 <li> Birthday Gifts </li>
-<li> Wedding Gifts </li>
 </ul>
 </li>
 <li> Gifts on the Healthier Side </li>
+<li> Best Sellers </li>
+<li> New Product Showcase </li>
 </ul>
 </li>
 <li> Sausage &amp.
@@ -25,11 +24,13 @@ Cheese <ul>
 <li> Sausage &amp.
 Cheese Gifts </li>
 <li> Cheese <ul>
+<li> Cheese (Ball) </li>
 </ul>
 </li>
+<li> Simply Hickory Farms </li>
 <li> Beef Summer Sausage </li>
 <li> Turkey Summer Sausage </li>
-<li> Dry Aged Salami </li>
+<li> Dry Salami </li>
 </ul>
 </li>
 <li> Fruit &amp.
@@ -40,22 +41,21 @@ Nuts <ul>
 <li> Nuts </li>
 </ul>
 </li>
-<li> Wine </li>
-<li> Sweets <ul>
-<li> Chocolate </li>
-<li> Other Sweets </li>
+<li> Wine <ul>
+<li> Wine Gifts </li>
 </ul>
 </li>
+<li> Sweets </li>
 <li> Specialty Foods <ul>
-<li> HoneyGold Ham </li>
-<li> Condiments <ul>
+<li> HoneyGold® Ham </li>
+<li> Mustards &amp.
+Spreads <ul>
 </ul>
 </li>
-<li> Gluten Free </li>
 <li> Crackers </li>
 <li> Pfaelzer Brothers Steak &amp.
 Seafood </li>
-<li> Hickory Farms Reserve </li>
+<li> Gluten Free </li>
 </ul>
 </li>
 <li> Shop By Price <ul>
@@ -65,8 +65,7 @@ Under </li>
 Under </li>
 <li> Gifts $40 &amp.
 Under </li>
-<li> Gifts $50 &amp.
-Under </li>
+<li> Gifts Under $50 </li>
 <li> Gifts Over $50 </li>
 <li> Gifts Over $90 </li>
 </ul>
@@ -76,19 +75,18 @@ Under </li>
 Cheese <ul>
 <li> Gifts <ul>
 <li> Gift Boxes </li>
-<li> Valentine's Day Gifts </li>
+<li> Gift Baskets and Towers </li>
 <li> Business Gifts <ul>
 </ul>
 </li>
-<li> Military Gifts </li>
-<li> Hickory Farms Reserve </li>
 <li> Personalized Gifts </li>
 <li> Shop By Occasion <ul>
 <li> Birthday Gifts </li>
-<li> Wedding Gifts </li>
 </ul>
 </li>
 <li> Gifts on the Healthier Side </li>
+<li> Best Sellers </li>
+<li> New Product Showcase </li>
 </ul>
 </li>
 <li> Sausage &amp.
@@ -96,11 +94,13 @@ Cheese <ul>
 <li> Sausage &amp.
 Cheese Gifts </li>
 <li> Cheese <ul>
+<li> Cheese (Ball) </li>
 </ul>
 </li>
+<li> Simply Hickory Farms </li>
 <li> Beef Summer Sausage </li>
 <li> Turkey Summer Sausage </li>
-<li> Dry Aged Salami </li>
+<li> Dry Salami </li>
 </ul>
 </li>
 <li> Fruit &amp.
@@ -111,22 +111,21 @@ Nuts <ul>
 <li> Nuts </li>
 </ul>
 </li>
-<li> Wine </li>
-<li> Sweets <ul>
-<li> Chocolate </li>
-<li> Other Sweets </li>
+<li> Wine <ul>
+<li> Wine Gifts </li>
 </ul>
 </li>
+<li> Sweets </li>
 <li> Specialty Foods <ul>
-<li> HoneyGold Ham </li>
-<li> Condiments <ul>
+<li> HoneyGold® Ham </li>
+<li> Mustards &amp.
+Spreads <ul>
 </ul>
 </li>
-<li> Gluten Free </li>
 <li> Crackers </li>
 <li> Pfaelzer Brothers Steak &amp.
 Seafood </li>
-<li> Hickory Farms Reserve </li>
+<li> Gluten Free </li>
 </ul>
 </li>
 <li> Shop By Price <ul>
@@ -136,16 +135,13 @@ Under </li>
 Under </li>
 <li> Gifts $40 &amp.
 Under </li>
-<li> Gifts $50 &amp.
-Under </li>
+<li> Gifts Under $50 </li>
 <li> Gifts Over $50 </li>
 <li> Gifts Over $90 </li>
 </ul>
 </li>
 <li> Specials </li>
-</ul> Search Catalog Search * Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Shop Our Winter Clearance Specials.
-Limited Time Only.
-<ol>
+</ul> Search Catalog Search * Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go <ol>
 <li>Home</li>
 <li>Customer Service</li>
 <li>Privacy Policy</li>
@@ -214,7 +210,12 @@ If you do not wish to receive such telephone calls, please let us know by sendin
 <li> Employment Opportunities </li>
 <li> Store Locator </li>
 </ul> Need Help? <p>If you have any questions or need help with your account, you may Contact Us to assist you.</p>
-<p>Customer Service<br> Monday to Friday<br> 8:30 AM to 8 PM EST<br>1.800.442.5671</p> Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up <p>
+<p>Customer Service<br> 8:30 AM to 6:00 PM EST<br>
+</p>
+<p>1.800.442.5671</p>
+<p>Orders<br> 24/7 <br>
+</p>
+<p>1.800.621-0226</p> Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up <p>
 </p>
 <ul>
 <li>Business Gifts</li>
@@ -222,7 +223,6 @@ If you do not wish to receive such telephone calls, please let us know by sendin
 <li>Find a Store</li>
 <li>Order Tracking</li>
 <li>Request a Catalog</li>
-<li>E-Catalog</li>
 </ul>
 <ul>
 <li>Customer Service</li>
@@ -233,6 +233,7 @@ If you do not wish to receive such telephone calls, please let us know by sendin
 <li>About Us</li>
 <li>In The News</li>
 <li>Our Blog</li>
+<li>Traditions Matter</li>
 <li>My Account</li>
 <li>No Kid Hungry<sup>®</sup>
 </li>
@@ -241,4 +242,4 @@ Tradition Guaranteed - Est.
 1951 Follow us online <ul>
 <li> Login </li>
 <li> Register </li>
-</ul> © 2014 All rights reserved.Privacy policyTerms of useSite map 
+</ul> © 2015 All rights reserved.Privacy policyTerms of useSite map 

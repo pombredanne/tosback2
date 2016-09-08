@@ -56,7 +56,7 @@ We may collect information that your browser or device typically sends to our se
 For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you used.
 When you visit an Adobe website, your browser may also tell us information such as the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website.
 Adobe may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application.
-Depending on the website or application, this information may be anonymous (for example, see the Adobe Product Improvement Program) or it may be associated with you (for example, see the Creative Cloud FAQ).
+Depending on the website or application, this information may be anonymous (for example, see the Adobe Product Improvement Program) or it may be associated with you (for example, see the Desktop Usage Tracking FAQ).
 Learn more about the information that specific Adobe websites or applications may collect.
 Learn about your privacy choices regarding how we use this information.</p>
 <p>
@@ -107,7 +107,7 @@ Learn more about Adobe’s social networking practices.</p> To the top How does 
 This means that data is gathered and stored on our computers for use by other companies.
 In these situations, your relationship is typically only with that company (learn more about privacy topics for these hosted services).</p> To the top What are cookies and how does Adobe use them? <p>Like most websites and applications, we use cookies and similar technologies to make our websites and applications work, as well as to learn more about our users and their likely interests (learn more).</p>
 <p>Adobe websites may also use cookies and similar technologies from other companies that allow us to improve the effectiveness of our hosted services.
-Learn more about these Adobe hosted services, which help our customers provide their audiences with relevant content and advertising.</p> Choose your preferences for interest-based ads Set Preferences To the top Does Adobe share my personal information? <p>Adobe works with companies that help us run our business.
+Learn more about these Adobe hosted services, which help our customers provide their audiences with relevant content and advertising.</p> To the top Does Adobe share my personal information? <p>Adobe works with companies that help us run our business.
 These companies provide services such as delivering customer support, processing credit card payments, and sending emails on our behalf.
 In some cases, these companies have access to some of your personal information in order to provide services to you on our behalf.
 They are not permitted to use your information for their own purposes.</p>

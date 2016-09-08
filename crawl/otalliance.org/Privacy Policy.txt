@@ -1,6 +1,11 @@
  Skip to main content Online Trust Alliance <ul>
 <li>Home</li>
-<li>Subscribe</li>
+<li>Newsletter Signup</li>
+<li>
+Member Login<ul>
+<li>Request New Login</li>
+</ul>
+</li>
 <li>Privacy Policy</li>
 <li>Contact Us</li>
 </ul>     <ul>
@@ -13,6 +18,7 @@ Initiatives<ul>
 <li>Data Privacy &amp.
 Protection Day</li>
 <li>Identity Theft</li>
+<li>Internet of Things</li>
 <li>Online Trust Audit &amp.
 Honor Roll</li>
 <li>Email Integrity Audit</li>
@@ -29,10 +35,10 @@ Fraud</li>
 Protection</li>
 <li>Email Security &amp.
 Integrity</li>
+<li>IoT Resources</li>
 <li>Malicious Threats</li>
 <li>Web and Mobile Security</li>
-<li>Educational Videos and Webinars</li>
-<li>Glossary</li>
+<li>OTA Members (Restricted)</li>
 </ul>
 </li>
 <li>Best Practices</li>
@@ -41,23 +47,21 @@ Integrity</li>
 News &amp.
 Events<ul>
 <li>OTA In The News</li>
-<li>Press Releases</li>
-<li>DpD 2015</li>
 <li>
 Upcoming Events<ul>
 <li>Recent Events</li>
 <li>Events Archive</li>
 </ul>
 </li>
+<li>Press Releases</li>
 </ul>
 </li>
 <li>
 Membership<ul>
-<li>Benefits</li>
+<li>OTA Members (Restricted)</li>
 <li>History &amp.
 Overview </li>
 <li>Member Levels</li>
-<li>Working Committees</li>
 <li>Donate</li>
 </ul>
 </li>
@@ -67,9 +71,7 @@ About Us<ul>
 <li>Board of Directors</li>
 <li>Non-Governmental Organizations</li>
 <li>Strategic Advisors</li>
-<li>Committees</li>
 <li>Staff</li>
-<li>Careers</li>
 </ul>
 </li>
 <li>Blog</li>
@@ -81,114 +83,100 @@ About Us<ul>
 <li>Facebook</li>
 <li>Youtube</li>
 </ul> Home › Privacy Policy Privacy Policy Privacy Policy Highlights <p>
-<strong>Update May 10, 2014</strong>                                  </p>
+<strong>Updated August 1, 2016 </strong>(See archived privacy policy)                                  </p>
 <p>Complete Privacy Policy                                   </p>
 <p>Politica De Privacida</p>
-<p>Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.</p>
+<p>Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy. </p>
 <p>Online Trust Alliance has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 The TRUSTe program covers only information that is collected through this Site www.otalliance.org.</p>
 <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe.</p>
 <p>
 <strong>Collection and Use</strong>
-<br>We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.
-Online Trust Alliance (OTA) may use personal information to provide you with more effective customer service, to improve the https://otalliance.org (Site) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications.
+<br>We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications.
 [Learn More]</p>
 <p>
 <strong>Data Sharing</strong>
-<br>OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf.
-We will only provide those companies the personal information they need to deliver the service.
-They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose   [Learn More] </p>
+<br>OTA does not share or sell any data to third parties with the exception of third parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services.
+They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  [Learn More] </p>
 <p>
-<strong>Tracking Technologies</strong>
-<br>Through the use of “cookies”, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a “do not track” standard.
-At this time OTA does not respond to DNT mechanisms.
-Once a standardized "do not track" feature is released, OTA intends to adhere to the browser settings accordingly.
+<strong>Cookies and Other Tracking Technologies</strong>
+<br>We and our service providers may use tracking technologies such as cookies, beacons, tags, scripts or similar technologies, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole.
+We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
 [Learn More]</p>
 <p>
 <strong>User Options</strong>
-<br>Receiving email messages from OTA, is optional and we provide choice options.
-Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating and deleting such information.  [Learn More]</p>
+<br>OTA honors a user's Do Not Track Setting, directing a site to not share tracking information with any third party with the exception of providing services on OTA's behalf as outlined above.
+Receiving email messages from OTA is optional and we provide choice options.
+Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  [Learn More]</p>
 <p>
 <strong>Data Security</strong>
-<br>We have implemented a number of security features throughout the site that are intended to prevent the unauthorized release of or access to the user information we collect online.  Summary of best practices</p>
+<br>We have implemented generally accepted standards of security features throughout the Site that are intended to prevent the unauthorized release of or access to the user information we collect online. </p>
 <p>
 <strong>Other Information</strong>
-<br>The Site is not targeted nor directed to children under the age of thirteen.
-To contact us, please visit the Contact Us page</p>
+<br>The Site is not targeted nor directed to children under the age of eighteen.
+To contact us, please visit the Contact Us page.</p>
 <ul>
 <li>Upcoming Events</li>
 <li>News</li>
-</ul> Wed, Jan 28, 2015 Data Privacy &amp.
-Protection Day Town Hall - San Francisco <p>Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education.
-Named Data Privacy Day in the U.S.  Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.</p> Tue, Feb 3, 2015 Data Privacy &amp.
-Protection Day Town Hall - NYC <p>Data Privacy &amp.
-Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education.
-Named Data Privacy Day in the U.S.
-Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. </p> Thu, Feb 5, 2015 Data Privacy &amp.
-Protection Day Town Hall - Wash DC <p>Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education.
-Named Data Privacy Day in the U.S.
-Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.</p> Mon, Apr 13, 2015 AGILITY 2015 <p>We are on the brink of a major shift in how marketing technologies and digital experiences are optimized.
-Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere.
-The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.</p>
+</ul> Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware <p>With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files.
+At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.</p> Thu, Sep 8, 2016 2016 Business Law Section Annual Meeting <p>Join over 1,600 business law professionals and grow your international network of business law thought leaders and colleagues.
+OTA Executive Director Craig Spiezle will be reviewing cyber issues and considerations as it applies to IoT, breach response and vulnerability disclosures.
+redefining responsible and defendable security and privacy practices.</p> Tue, Sep 13, 2016 Privacy.
+Security.
+Risk.
+2016 <p>Innovative since Day 1, P.S.R.
+brings together two related fields—privacy and security—helping you see beyond your role in order to excel in your role.
+Because perspective is everything.
+Delivering the most thought-provoking speakers, sessions led by foremost experts and invaluable opportunities to connect and share ideas, P.S.R.
+gives you a world of new perspective.
+Don’t miss it. Training and Workshops September 13-14.
+Conference September 15-16.</p>
+<p> </p> Thu, Sep 15, 2016 Putting Disclosures To the Test <p>The event will feature speeches from FTC officials and academics, focusing on the challenges of consumer disclosures “in the privacy arena,” writing, “Privacy policies are often long and difficult to comprehend and privacy-related icons may fail to communicate information meaningfully to consumers.</p> More &gt;&gt.
 <ul>
 <li>OTA Blog</li>
 <li>Newsletters</li>
-</ul> Tue, Jan 6, 2015 National Series of Town Halls and Workshops to Promote Data Privacy &amp.
-Protection Day Announced <p>
-<strong>National Series of Town Halls and Workshops to Promote Data Privacy &amp.
-Protection Day Announced</strong>
-<br>Federal Trade Commissioners to keynote with participation from the FBI, Secret Service and thought leaders in consumer protection, privacy and cybersecurity</p> Thu, Dec 18, 2014 Sony - It is not about the movie! <p>
-<em>
-<strong>Sony - It is not about a movie.
-It is an attack on our sovereign nation</strong>. </em>
-</p>
-<p>It is no longer the threat from ballistic missiles, our physical borders or hijacked airplanes.  It is the Internet, the fabric of our lives and economy.</p> Tue, Dec 9, 2014 OTA Supports American Bankers Assoication Petition to the FCC <p>OTA supports the petition for exemption of the Telephone Consumer Protection Act (TCPA) as requested by the ABA, limited to security and fraud prevention notification purposes and respectfully urges the Commission to grant the requested exemption.
-Doing so will facilitate prompt and efficient communication of time-sensitive information that can both limit the occurrence and impact of online crime and identity theft.</p> Fri, Nov 21, 2014 The Promise of Ad Supply Chain Accountability <p>A few weeks ago, I attended the IAB Ad Operations Summit.
-The Summit focused on cleaning up the advertising supply chain, combating fraud, and identifying more streamlined ways to accurately measure ad performance.
-The underlying message of the Summit was the need for collaboration and industry buy-in.
-Just as standardization is impossible unless everyone is committed to following the same standards, cleaning up the supply chain is impossible unless everyone agrees to identify and shut out disreputable players.</p> Resources <ul>
+</ul> Wed, Sep 7, 2016 So you’ve had a data breach, now what? <p>Companies, organizations and agencies that hold and transmit people’s personal information should keep it reasonably secure from unauthorized access and use.
+But what if there is a data breach that exposes the information? How should the breached entity help those affected? Should it offer them identity theft services?</p> Tue, Jun 21, 2016 Drones - Privacy, Transparency and Accountably <p>Today a multi-stakeholder group convened by the U.S.</p> Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit <p>The 2016 Online Trust Audit and Honor Roll shines a light on trust in security, privacy and consumer protection practices, recognizing excellence and leadership while highlighting key areas for improvement.</p> Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &amp.
+Broadband Providers <p>Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, <strong>OTA submitted written comments to the Commission</strong>. <em> Update on March 31 the FCC Commisioners voted 3 to 2 to move forward on the NPRM.</em>
+</p> More &gt;&gt.
+Resources <ul>
 <li>Advertising Integrity &amp.
 Fraud</li>
 <li>Data Breach &amp.
 Protection</li>
 <li>Email Security &amp.
 Integrity</li>
+<li>IoT Resources</li>
 <li>Malicious Threats</li>
 <li>Web and Mobile Security</li>
-<li>Educational Videos and Webinars</li>
-<li>Glossary</li>
+<li>OTA Members (Restricted)</li>
 </ul> Initiatives <ul>
 <li>Brand Protection</li>
 <li>Data Privacy &amp.
 Protection Day</li>
 <li>Identity Theft</li>
+<li>Internet of Things</li>
 <li>Online Trust Audit &amp.
 Honor Roll</li>
 <li>Email Integrity Audit</li>
 <li>Privacy</li>
 <li>Public Policy</li>
 <li>Security</li>
-</ul> Best Practices Committees News &amp.
+</ul> News &amp.
 Events <ul>
 <li>OTA In The News</li>
-<li>Press Releases</li>
-<li>
-DpD 2015<ul>
-<li>DpD 2015 Day Speakers</li>
-</ul>
-</li>
 <li>
 Upcoming Events<ul>
 <li>Recent Events</li>
 <li>Events Archive</li>
 </ul>
 </li>
+<li>Press Releases</li>
 </ul> Membership <ul>
-<li>Benefits</li>
+<li>OTA Members (Restricted)</li>
 <li>History &amp.
 Overview </li>
 <li>Member Levels</li>
-<li>Working Committees</li>
 <li>Donate</li>
 </ul> About Us <ul>
 <li>
@@ -199,13 +187,12 @@ Members<ul>
 <li>Board of Directors</li>
 <li>Non-Governmental Organizations</li>
 <li>Strategic Advisors</li>
-<li>Committees</li>
 <li>Staff</li>
-<li>Careers</li>
-</ul>   <p>© 2014   Online Trust Alliance</p>
+</ul>   <p>© 2015   Online Trust Alliance</p>
 <ul>
 <li>Home</li>
-<li>Subscribe</li>
+<li>Newsletter Signup</li>
+<li>Member Login</li>
 <li>Privacy Policy</li>
 <li>Contact Us</li>
 </ul> Printer-friendly version 

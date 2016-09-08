@@ -1,4 +1,4 @@
- Skip to main content LinkedIn Home <ul>
+ LinkedIn Home <ul>
 <li> What is LinkedIn? </li>
 <li> Join Today </li>
 <li> Sign In </li>
@@ -22,8 +22,6 @@ Obligations</li>
 <li>Important Information</li>
 </ul> Introduction Last revised on October 23, 2014 <p>We are a social network and online platform for professionals.</p>
 <p>
-Our Privacy Policy has been updated.
-Please read our summary of the changes.
 </p>
 <p>LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful.
 Our registered users (“Members”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, and find business and career opportunities.
@@ -143,8 +141,8 @@ In such instances, we contractually require such advertisers to obtain your expl
 If you take social action (for example, if you “like” or “comment” on the sponsored content), your action may be seen by your network and other Members who are shown the sponsored content after you have acted on it.
 Please note that all social actions on SlideShare (e.g.
 liking certain content, following or being followed by others) are public, unless expressly specified otherwise with respect to premium accounts.</p>
-<p>We adhere to the Digital Advertising Alliance’s self-regulatory principles for online behavioral advertising.
-If you wish to not receive targeted ads from most third party companies, you may opt-out by, as applicable, clicking on the AdChoice icon in or next to the ad or by visiting http://www.aboutads.info.
+<p>We adhere to self-regulatory principles for interest based advertising.
+If you wish to not receive targeted ads from most third party companies, you may opt-out as described here.
 Please note this does not opt you out of being served advertising.
 You will continue to receive generic ads or targeted ads by companies not listed with these opt-out tools.
 You can also opt out specifically from our use of cookies and similar technologies to track your behavior on third party sites.
@@ -218,7 +216,7 @@ For example, first degree connections can see your full profile and contact info
 Others have more limited access, as detailed in our Help Center.
 Please note that recruiters and other such professional subscribers can see your full profile even if you did not approve their InMail.</p>
 <p>We do not rent or sell personal information that you have not posted on our Services, except as described in this Privacy Policy.
-We will not disclose personal information that is not published to your profile or generated through engagement with our other services, such as Groups and Company Pages, except to carry out your instructions (for example, to process payment information) or unlesss we have your separate consent unless we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures.
+We will not disclose personal information that is not published to your profile or generated through engagement with our other services, such as Groups and Company Pages, except to carry out your instructions (for example, to process payment information) or unless we have your separate consent, unless we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures.
 (2) enforce this Privacy Policy or our User Agreement.
 (3) respond to claims of a violation of the rights of third parties.
 (4) respond to Member service inquiries.
@@ -231,7 +229,7 @@ For example, when you post content to a Group that is open for public discussion
 Further, we allow third parties to look-up profile information (subject to your privacy settings) using your email address or first and last name information through its profile API (see Section 2.7.
 below).</p>
 <p>Third parties (for example, your email provider) may give you the option to upload certain information in your contacts stored with us onto their own service.
-If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use your these contacts in the ways described in such third party's terms and privacy policy.</p> 2.7.
+If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use these contacts in the ways described in such third party's terms and privacy policy.</p> 2.7.
 Third Parties Using LinkedIn Platform Services <p>We work with developers to build Platform Applications using our developer tools.
 Whether you use Platform Applications is up to you.</p>
 <p>If you have given a Platform Application access to your LinkedIn account, you can revoke that permission anytime.
@@ -329,7 +327,7 @@ Important Information 4.1.
 Minimum Age <p>You have to meet LinkedIn’s minimum age requirements to create an account.</p>
 <p>Visit our Safety Center for tips on using LinkedIn smartly and securely.</p>
 <p>
-As described in Section 2.3 of the User Agreement, persons must be of Minimum Age to use LinkedIn.
+As described in Section 2.1 of the User Agreement, persons must be of Minimum Age to use LinkedIn.
 Please visit our Safety Center for additional information about safely using our Services.
 </p> 4.2.
 TRUSTe and Safe Harbor <p>
@@ -348,7 +346,12 @@ The TRUSTe program only covers information collected through www.linkedin.com, a
 and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S.
 Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
 We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
-To learn more about the Safe Harbor program, and to view LinkedIn’s certification, please visit http://www.export.gov/safeharbor/.</p> 4.3.
+To learn more about the Safe Harbor program, and to view LinkedIn’s certification, please visit http://www.export.gov/safeharbor/.</p>
+<p>
+<strong>Note:</strong> The U.S.-E.U.
+Safe Harbor Framework is no longer recognized as a legal mechanism to transfer personal data from the EU to the US.
+LinkedIn Ireland uses other legal mechanisms, including standard contractual clauses.
+Learn more.</p> 4.3.
 Changes to this Privacy Policy <p>We will notify you when we change this Privacy Policy.</p>
 <p>We may change this Privacy Policy from time to time.
 If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will provide notice to you on the Services or by some other means, such as email.
@@ -379,6 +382,9 @@ CA
 Attn: Privacy Policy Issues Wilton Plaza Wilton Place,
 Dublin 2 Ireland Back to Top <ul>
 <li>
+Sign up
+</li>
+<li>
 Help Center
 </li>
 <li>
@@ -392,9 +398,7 @@ About
 <li>Careers</li>
 <li>Advertising</li>
 <li>Talent Solutions</li>
-<li>
-Sales Solutions
-</li>
+<li>Sales Solutions</li>
 <li>Small Business</li>
 <li>Mobile</li>
 <li>
@@ -408,7 +412,7 @@ Language <ul>
 <strong>English</strong>
 </li>
 <li>Español</li>
-<li>正體中文</li>
+<li>繁體中文</li>
 <li>Français</li>
 <li>한국어</li>
 <li>Italiano</li>
@@ -424,29 +428,35 @@ Language <ul>
 <li>Tagalog</li>
 <li>ภาษาไทย</li>
 <li>Türkçe</li>
+<li>العربية</li>
 </ul>
 </li>
 <li>SlideShare</li>
+<li> Online Learning </li>
 </ul>
 <ul>
 <li>LinkedIn Updates</li>
 <li>LinkedIn Influencers</li>
-<li>LinkedIn Jobs</li>
-<li>Jobs Directory</li>
-<li>Pulse Directory</li>
-<li>Company Directory</li>
-<li>Groups Directory</li>
-<li>Universities Directory</li>
-<li>Title Directory</li>
+<li>Search Jobs</li>
 </ul>
-<p>LinkedIn Corporation <em>© 2015</em>
+<ul>
+<li>Directories</li>
+<li>Members</li>
+<li>Jobs</li>
+<li>Pulse</li>
+<li>Topics</li>
+<li>Companies</li>
+<li>Groups</li>
+<li>Universities</li>
+<li>Titles</li>
+<li>ProFinder</li>
+</ul>
+<p>LinkedIn Corporation <em>© 2016</em>
 </p>
 <ul>
 <li>User Agreement</li>
 <li>Privacy Policy</li>
-<li>
-Community Guidelines
-</li>
+<li>Community Guidelines</li>
 <li>Cookie Policy</li>
 <li>Copyright Policy</li>
 <li>Unsubscribe</li>

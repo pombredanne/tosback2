@@ -1,21 +1,10 @@
- <ul>
-<li> Credit Monitoring </li>
-<li>
-</li>
-<li> Loan Center </li>
-<li>
-</li>
-<li> Resources Center </li>
-<li>
-</li>
-<li> Login </li>
-</ul> Privacy Policy <p>
+ Member Sign In Sign Up For Free Privacy Policy <p>
 <em>Last Revised: 8/23/2012</em>
 </p>
 <p>ConsumerInfo.com, Inc.
 ("we" or "us") wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information.
 This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites (collectively, the "Site").
-Please take a moment to review this Policy and feel free to contact us with any questions at 1-877-481-6826.</p>
+Please take a moment to review this Policy and feel free to contact us with any questions at 1-866-617-1894.</p>
 <p>By using the Site, you agree to the terms of this Policy.
 If you do not agree to the terms of this Policy, please do not use the Site.
 We reserve the right to change this Policy without prior notice.
@@ -26,10 +15,10 @@ Use of the Site following such changes constitutes your acceptance of the revise
 Therefore, we encourage you to review this Site from time to time for changes to our Policy.</p>
 <p>
 <strong>WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU?</strong>
-<br>
-We collect personal information and non-personal information through the Site.
+<br> We collect personal information and non-personal information through the Site.
 Personal information is information that identifies you as an individual.
-Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
+Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
+</p>
 <p>
 <em>
 <strong>Personal information.</strong>
@@ -118,8 +107,7 @@ If we combine any non-personal information with personal information so that it 
 In the event we enhance and/or merge such personal information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.</p>
 <p>
 <strong>DO WE DISCLOSE INFORMATION TO THIRD PARTIES?</strong>
-<br>
-We may disclose information about you to affiliated and non-affiliated third parties.
+<br> We may disclose information about you to affiliated and non-affiliated third parties.
 </p>
 <ul>
 <li>
@@ -149,13 +137,12 @@ If you would prefer that we do not utilize cookies with your website experience,
 </ul>
 <p>
 <strong>YOUR CHOICES</strong>
-<br>
-You have choices when it comes to updating your information, learning about new offers or products offered by us, our partners or affiliates.
+<br> You have choices when it comes to updating your information, learning about new offers or products offered by us, our partners or affiliates.
 If you do not wish to receive offers of products from us, our partners or affiliates, here are the methods in which you can opt out: </p>
 <ul>
 <li>
 <strong>ConsumerInfo.com, Inc.
-Commercial Email.</strong> If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at 1-877-481-6826.
+Commercial Email.</strong> If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at 1-866-617-1894.
 Alternatively, you may opt-out of commercial email directly on the order form while placing a new order.</li>
 <li>
 <strong>Cookies.</strong> Subject to the section above pertaining to cookies and similar technologies, you have the ability to prohibit being served an advertisement based on cookie technology.
@@ -168,7 +155,7 @@ however you may visit the NAI opt-out page and opt-out of this cookie tracking i
 Please visit: http://www.networkadvertising.org/optout_nonppii.asp for more information.</li>
 <li>
 <strong>Changing information.</strong> Corrections or updates to your information including your email address, phone number, mailing address, credit card information or password reminder phrase can be made through the edit profile section of your account on the Site.
-If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 1-877-481-6826.
+If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 1-866-617-1894.
 For your protection, our customer care representatives may request supporting documents before making any changes or updates to your membership information.</li>
 </ul>
 <p>We will endeavor to comply with your request as soon as reasonably practicable.
@@ -176,65 +163,63 @@ Please note that if you opt-out as described above, we will not be able to remov
 If you wish to cease receiving marketing-related e-mails from third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.</p>
 <p>
 <strong>HOW DO WE PROTECT YOUR INFORMATION?</strong>
-<br>
-We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control.
+<br> We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control.
 Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.
-If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem as soon as possible by contacting us in accordance with the Section "Contacting Us" below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).</p>
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem as soon as possible by contacting us in accordance with the Section "Contacting Us" below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+</p>
 <p>
 <strong>LINKS</strong>
-<br>
-The Site may contain links to third-party websites.
+<br> The Site may contain links to third-party websites.
 These linked sites are not under our control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site.
 We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by us.
 If you provide any personal information through any such third-party website, your transaction will occur on the third party's website (not the Site) and the personal information you provide will be collected by, and controlled by the privacy policy of, that third party.
 We recommend that you familiarize yourself with the privacy policies and practices of any third parties.
-PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.</p>
+PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+</p>
 <p>
 <strong>LOCATION</strong>
-<br>
-We control and operate the Site from the United States, and the Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
+<br> We control and operate the Site from the United States, and the Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
 We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction.
 Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.
-We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.</p>
+We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
+</p>
 <p>
 <strong>A SPECIAL NOTE REGARDING INDIVIDUALS UNDER 18 YEARS OLD</strong>
-<br>
-The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals not provide personal information through the Site.
+<br> The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals not provide personal information through the Site.
 If you are under 18 years of age, you may browse our Site.
-however, you may not provide personal information to us such as name, address, or email address, and you may not register for, enroll in, and/or make product purchases.</p>
+however, you may not provide personal information to us such as name, address, or email address, and you may not register for, enroll in, and/or make product purchases.
+</p>
 <p>
 <strong>CONTACTING US</strong>
-<br>
-If you have any questions regarding this Policy, please contact us at 1-877-481-6826.
+<br> If you have any questions regarding this Policy, please contact us at 1-866-617-1894.
 Please note that email communications will not necessarily be secure.
 accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
-</p>
+</p> Contact Us <ul>
+<li>About Us</li>
+<li>Offers</li>
+<li>Education</li>
+<li>FAQs</li>
+<li>Blog</li>
+</ul>
 <ul>
+<li>Contact Us</li>
+<li>Terms &amp.
+Conditions</li>
+<li>Privacy Policy</li>
+<li>Ad Targeting Policy</li>
+<li>Site Map</li>
+</ul> © ConsumerInfo.com, Inc.
+- All Rights Reserved <ul>
 <li> Home </li>
-<li>
-</li>
 <li> About Us </li>
-<li>
-</li>
 <li> Contact Us </li>
-<li>
-</li>
 <li> Terms &amp.
 Conditions </li>
-<li>
-</li>
 <li> Privacy Policy </li>
-<li>
-</li>
 <li> Ad Targeting Policy </li>
-<li>
-</li>
-<li> FAQ </li>
-<li>
-</li>
 <li> Site Map </li>
-<li>
-</li>
-<li> Site Feedback </li>
-</ul>© ConsumerInfo.com, Inc.
-Survey Software<br>CRM Integration<br> 
+<li> Offers </li>
+<li> Education </li>
+<li> FAQs </li>
+</ul> © ConsumerInfo.com, Inc.
+- All Rights Reserved 

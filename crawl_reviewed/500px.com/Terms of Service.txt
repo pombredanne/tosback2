@@ -99,6 +99,7 @@ If you choose to terminate your Awesome account after the 14 day trial period yo
 </ol>
 <strong>Basically,</strong> We offer free 14 day no-obligation trial to try all the features of Awesome and Plus accounts.
 Refunds apply only to services described on upgrade page.
+This does not include third-party offerings such as Adobe products, which are non-refundable.
 Fair Usage Policy <p>500px maintains a fair usage policy to ensure stable and fast service to all users.</p>
 <p>Free accounts are limited to a maximum of 20 new photographs/images per week and 2,000 photographs/images in total (approximately 60Gb of storage) and 1Gb of data transfer from profile and portfolios per month.
 Any additional usage may result in restrictions on your account including limited access to your portfolio or a requirement to upgrade if the limit is exceeded for several months.</p>
@@ -165,7 +166,7 @@ payable in respect of the Fees paid to you.</li>
 <p>You may terminate your Store account at any time in your sole discretion.
 500px may terminate your store account at any time for any reason or no reason.
 All Store Images remaining in your Store account will be removed by 500px upon termination of your store account.</p>
-<strong>Basically,</strong> If you are using the Market to sell prints and downloads of your photos for profit, you give us permission to print photos and deliver downloads.
+<strong>Basically,</strong> If you are using the Market to sell your photos for profit, you give us permission to deliver downloads.
 Your photos will be kept safe.
 Copyright Complaints <p>500px respects the intellectual property rights of others.
 It is our policy to respond promptly any claim that Content posted on the Site infringes the copyright or other intellectual property infringement (“Infringement”) of any person.

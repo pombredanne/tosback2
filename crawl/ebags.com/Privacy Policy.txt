@@ -1,5 +1,4 @@
- <strong>You are here:</strong> Help Center Home » Privacy &amp.
-Security » Privacy Policy Privacy Policy Our Privacy Pledge <p>We understand and share your concern about privacy.
+ Back to Help Center Privacy Policy Our Privacy Pledge <p>We understand and share your concern about privacy.
 We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality.
 To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 If you have questions regarding this Policy, you may direct them to privacy@ebags.com.
@@ -14,7 +13,6 @@ If you have questions regarding this Policy, you may direct them to privacy@ebag
 <li>Privacy Policy changes</li>
 <li>Contacting eBags with question or comments</li>
 </ul>
-<br>
 <p>What type of information does eBags collect? Our goal is to provide you with a safe and enjoyable shopping experience.
 When we collect information about you it is in an effort to create a customized and meaningful experience with the products and brands that are most relevant to you.
 You are free to browse the eBags site without revealing any personal information about yourself.
@@ -31,7 +29,8 @@ eBags will use cookies to identify you during your session, make our services ea
 Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords.
 Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly.
 Most browsers automatically accept cookies, but you can configure your browser to prevent that.
-If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126.</p>
+If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126.
+</p>
 <p>
 <strong>Personally Identifiable Information</strong>
 <br> This is information that you provide to us that is specific to you.
@@ -54,7 +53,8 @@ In cases where the sweepstakes or promotional offer is co-branded with or sponso
 Upon registering, we will send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits.
 When you join or make a purchase on eBags.com, you will automatically be subscribed to emails unless you opt-out during guest checkout.
 If you are a subscribed member, we will also send you emails to collect ratings and testimonials feedback related to your purchase and account status updates.
-If you'd rather not receive emails, please visit Manage Email Preferences to change your preferences.</p>
+If you'd rather not receive emails, please visit Manage Email Preferences to change your preferences.
+</p>
 <p>
 <strong>Gift Certificates</strong>
 <br> If you purchase a gift certificate on our site, we will ask you to provide the recipient's name and e-mail address.
@@ -72,7 +72,8 @@ UPS, APX, USPS, FedEx, Payment Processing Service Provider, Product Manufacturer
 <strong>Promotional Offers</strong>
 <br> At times we may send offers to select eBags subscribers on behalf of other parties.
 When we do this, we do not give that company your personally identifiable information without your consent.
-If you do not want to receive such communications, please visit Manage Email Preferences.</p>
+If you do not want to receive such communications, please visit Manage Email Preferences.
+</p>
 <p>
 <strong>Agents</strong>
 <br> We employ other third parties to perform services or functions on our behalf in order to improve our site, merchandising, marketing and promotional efforts, communications or other services.
@@ -101,10 +102,12 @@ Notice of such an event will be posted and we will require that the new combined
 <br> eBags will cooperate with law enforcement inquiries.
 eBags reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability.</p>
 <p>Accessing and Updating Your Information You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself.
-You can edit your name, contact information and preferences by logging into the Your Account section of the site.</p>
+You can edit your name, contact information and preferences by logging into the Your Account section of the site.
+</p>
 <p>As a customer, subscriber or contest entrant, you will receive e-mail communications about new eBags products, special offers and requests for feedback.
 If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time.
-You can do this through any of our emails, by visiting Manage Email Preferences or by sending us an email at help@ebags.com.</p>
+You can do this through any of our emails, by visiting Manage Email Preferences or by sending us an email help@ebags.com.
+</p>
 <p>You may ask to have your account information removed from our active databases.
 however, because we keep track of past purchases, you cannot delete information associated with past purchases.
 Such information will be deactivated as soon as reasonably possible based on your account activity.
@@ -122,7 +125,7 @@ If you are a minor, you can use this service only in conjunction with your paren
 <p>Privacy Policy Changes eBags reserves the right to change, modify, add or remove portions of this Policy at any time.
 Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.</p>
 <p>Contacting eBags If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at privacy@ebags.com.</p>
-<p>Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists at help@ebags.com or call 1-800-820-6126.</p>
+<p>Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists help@ebags.com or call 1-800-820-6126.</p>
 <p>You may also write to us at:<br> Privacy Manager<br> eBags, Inc.<br> 5500 Greenwood Plaza Blvd.<br> Suite 160<br> Greenwood Village, CO 80111<br>
 </p>
 <p>We always enjoy hearing from you and appreciate your business.</p> 

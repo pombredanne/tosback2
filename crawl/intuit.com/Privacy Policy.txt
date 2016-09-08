@@ -1,4 +1,7 @@
- <ul>
+ JCPenney: Window &amp.
+Home Decor, Bedding, Appliances &amp.
+Clothing - JCPenney2016.9.0.0.132.1 15
+3 <ul>
 <li>Find a store</li>
 <li>store ads</li>
 <li>
@@ -13,6 +16,9 @@ gift cards
 my account </li>
 <li> no saved items </li>
 <li>
+recommendations
+</li>
+<li>
 track order
 </li>
 <li> ship to
@@ -27,7 +33,7 @@ track order
 <li>
 </li>
 <li>
-Hello  
+Hello  antonio
 </li>
 <li>
 <p>(sign out)</p>
@@ -39,6 +45,9 @@ my account
 </li>
 <li> no saved items </li>
 <li>
+recommendations
+</li>
+<li>
 track order
 </li>
 <li> ship to
@@ -48,41 +57,43 @@ track order
 <li>
 <p>customer service</p>
 </li>
-</ul> true true L13337103780 <p>
+</ul> true
+true C15303678291 <p>
 </p>
 <p>
-</p>
-<em>
-<strong>my bag</strong>
+</p> Your Store:
+selectedStoreName change store <em>
 <b>
 <b> </b>
 </b>
+<strong>my bag</strong>
 <strong>
 </strong>
 </em> ***************************************************
 HOST NAME :-&gt.
-lenldtappr1p24.jcpenney.com
+colldtadepr1p24.jcpenney.com
 SERVER NAME :-&gt.
-dtcompr1l2j1
+dtcomexpr1c2j2
 TIME :-&gt.
-Fri Jan 23 05:22:43 CST 2015
+Wed Sep 07 11:16:28 CDT 2016
 *************************************************** <ul>
 <li> for the home </li>
 <li> bed &amp.
 bath </li>
 <li> window </li>
+<li> appliances </li>
 <li> women </li>
+<li> lingerie </li>
 <li> men </li>
 <li> juniors </li>
 <li> kids </li>
 <li> baby </li>
 <li> shoes </li>
-<li> handbags &amp.
-accessories </li>
-<li> jewelry &amp.
-watches </li>
-<li> gifts </li>
-<li> clearance </li>
+<li> handbags </li>
+<li> jewelry </li>
+<li> sephora </li>
+<li> clearance
+</li>
 <li>
 </li>
 </ul>
@@ -99,39 +110,34 @@ For best experience please upgrade to Internet Explorer 7 or above.</p>
 <p>
 </p>
 <p>
-</p> Online Only
-<p>Ends January 25.
-Code: KEEPWARM</p>
-<p>Extra 25% Off* $100 or more with your JCPenney Credit Card.</p>
-<p>Or, Extra 20% Off* with any other method of payment.</p>
-In Store and Online
-<p>Or, Extra 20% Off* with your JCPenney Credit Card.</p>
-<p>Or, Extra 15% Off* with any other method of payment.</p>
-<p>Or, Extra 10% Off* select watches, furniture, mattresses and custom blinds and shades.</p>
-<p>*Credit offers subject to credit approval.
-All offers apply to select original, regular, sale and clearance-priced items.</p>
-*See exclusions and details.
-get coupon Home Sale 30-50% Off Select Styles for the Home
-shop the home sale shop kitchen and dining shop bedding and bath shop furniture and mattresses shop luggage shop window shop home decor shop cookware Red Zone 50-75% Off Clearance
-<p>In store and online.</p>
-find a store <p>25-40% Off Select Valentine's Dresses</p>
-shop now <p>40-50% Off Select Men's Dress Shirts</p>
-shop now <p>20-50% Off Select Watches</p>
-shop now <p>40-50% Off Select Kids' Arizona</p>
-shop now <p>40% Off Select Clarks Shoes</p>
-<p>Excluded from coupon.</p>
-shop now <p>25% Off Select Shapewear</p>
-shop now 40-50% Off Window
-<p>Select styles.</p>
-shop window shop curtains and drapes shop blinds and shades shop curtain rods and hardware shop curtains and drapes JCP Rewards
-<p>Shop to earn $10 JCP Rewards.</p>
-sign up today SportsFanShop
-<p>Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.</p>
-shop the SportsFanShop Just $5
-<p>Get ALL your favorite magazines from TimeInc.
-today.</p>
-shop now Give Love
-shop gifts <ul>
+</p> 40 to 50% Off Men's &amp.
+Women's Xersion Activewear
+Select styles 6.99-29.99
+<p>orig.
+$14-$50</p>
+Shop Men Shop Women     40% Off Liz Claiborne Shoes &amp.
+Handbags
+Select styles
+Shop Shoes Shop Handbags       Carter's Baby Sale
+In Store &amp.
+Online | Through September 25
+<p>New Extended Assortment</p>
+Shop Baby Sale40 to 50% Off Carter's Apparel
+<p>Select styles</p>
+Shop Carter's Apparel Introducing the New Sephora Collection
+Get What You Want
+<p>Coming in hot with lots of options.
+Same name, different game.</p>
+Shop Now SportsFanShop
+Get Details: JCP Salon
+33% Off Haircare Products
+<p>Select styles</p>
+Shop Now: JCPenney | portraits
+<p>Free 8x10</p>
+<p>3.99 Portrait Sheets</p>
+<p>40% Off Your Photo Purchase</p>
+Get Details: Download the JCPenney App and Get Shopping
+Check Out The App: Download on the App Store Get it on Google Play true <ul>
 <li>
 <p>
 </p>
@@ -146,23 +152,27 @@ shop gifts <ul>
 </p>
 <p>
 </p>
+<p>
+</p>
 <ul>
-<li>
-1.800.322.1189
-</li>
-<li>
-email offers
-</li>
-<li>
-mobile offers
-</li>
-</ul> CUSTOMER SERVICE
+<li> 1.800.322.1189 </li>
+</ul> attention <ul>
+<li>Enter a valid email address</li>
+<li>Enter a valid email address</li>
+</ul> attention <ul>
+<li>Enter a valid mobile number.</li>
+</ul> Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply.
+By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number.
+I understand that consent is not required to purchase goods or services.
+Up to 8 msgs/month from 527365 (JCPenney).
+Text <strong>HELP</strong> to 527365 for help and <strong>STOP</strong> to 527365 to cancel.Terms and conditions   
+privacy policy CUSTOMER SERVICE
 <ul>
 <li> returns </li>
 <li>
 shipping information </li>
 <li>
-email us </li>
+same day pickup </li>
 <li>
 my jcp.com account </li>
 <li>
@@ -172,22 +182,27 @@ CA transparency in supply chain </li>
 <li>
 </li>
 <li> servicio al cliente </li>
-<li> view all </li>
+<li> help </li>
 </ul> STORE SERVICES
 <ul>
 <li>jcp salon </li>
 <li> Sephora </li>
-<li> jcp portraits </li>
-<li> jcp optical </li>
 <li>
-jcp cares </li>
-<li>jcp custom decorating </li>
-<li> view all </li>
+jcp portraits </li>
+<li>
+jcp optical </li>
+<li> gift registry </li>
+<li>jcp custom window </li>
+<li>
+view all store services </li>
 </ul> MORE WAYS TO SHOP
 <ul>
 <li>see our ads</li>
 <li>coupons</li>
-<li>jcpenney rewards</li>
+<li>recommendations</li>
+<li>
+jcpenney rewards
+</li>
 <li>jcpenney credit card</li>
 <li>gift cards</li>
 <li> international shopping
@@ -199,44 +214,34 @@ jcp cares </li>
 <li>jcp cares</li>
 <li>media</li>
 <li>investors</li>
+<li>CA Transparency in Supply Chains Act</li>
 </ul> JCPenney credit card
 pay bill
 check balance
-apply now Popular Searches <ul>
-<li>prom dresses
-</li>
-<li>patio furniture
-</li>
-<li>gift cards
-</li>
-<li>comforters
-</li>
-<li>window shades
-</li>
-<li>samsonite luggage
-</li>
-<li>womens dresses
-</li>
-<li>bathroom rugs
-</li>
-<li>mens wedding bands
-</li>
-<li>womens boots
-</li>
-<li>mens scarves
-</li>
-<li>bath towels
-</li>
-<li>yoga pants
-</li>
-<li>mens suits
-</li>
-<li>bedding sets
-</li>
+apply now JCPenney is Your One-Stop Shop for Back to School &amp.
+College Dorm Essentials! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods.
+With the upcoming school year, you've got to be well prepared, and we're here to help out with that! From school supplies and backpacks to dorm bedding and decor, you can find everything you need to go back to school in style.
+Headed off to college? Take a look at our handy dorm room checklist to make sure you're not forgetting anything.
+Your journey towards better value starts and ends with us, online or in your closest JCPenney store! Popular Searches <ul>
+<li>labor day sales</li>
+<li>homecoming dresses</li>
+<li>womens dresses</li>
+<li>mens suits</li>
+<li>spanx</li>
+<li>school uniforms</li>
+<li>racerback bra</li>
+<li>girls shoes</li>
+<li>boys shoes</li>
+<li>mens watches</li>
+<li>womens watches</li>
+<li>curtains &amp.
+drapes</li>
+<li>mattresses</li>
+<li>sports bras</li>
+<li>bedding sets</li>
 </ul>
 <ul>
 <li>copyright</li>
-<li>legal notice</li>
 <li>privacy policy</li>
 <li>your California privacy rights</li>
 <li>product recalls</li>
@@ -244,6 +249,6 @@ apply now Popular Searches <ul>
 <li>AdChoices </li>
 </ul>
 <p>©jcp Media Inc.,
-2015.
+2016.
 All Rights Reserved
 </p> 

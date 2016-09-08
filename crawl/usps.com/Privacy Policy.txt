@@ -2,6 +2,7 @@
 <li> Who We Are go to What We're Doing header <ul>
 <li> Leadership </li>
 <li> Financials </li>
+<li> Government Relations </li>
 <li> Judicial Officer </li>
 <li> Legal </li>
 <li> Our History </li>
@@ -16,6 +17,7 @@
 <li> Corporate Social Responsibility </li>
 <li> Government Services </li>
 <li> Postal Customer Council </li>
+<li> Service Performance Results </li>
 </ul>
 </li> End of sub links <li> Newsroom go to Careers header <ul>
 <li> National News </li>
@@ -28,15 +30,17 @@ Speeches </li>
 <li> Events Calendar </li>
 <li> Photo Gallery </li>
 <li> Service Alerts </li>
+<li> Fact Sheets </li>
 </ul>
 </li> End of sub links <li> Careers go to Doing Business with Us header <ul>
-<li> Job Search &amp.
-Application </li>
-<li> Employment Requirements </li>
-<li> Compensation &amp.
-Benefits </li>
-<li> Career Development </li>
+<li> Career Opportunities </li>
+<li> Working at USPS </li>
+<li> Search &amp.
+Apply </li>
+<li> Application Process </li>
 <li> Workplace Culture </li>
+<li> Sales &amp.
+Marketing Jobs </li>
 <li> USPS Employees </li>
 </ul>
 </li> End of sub links <li> Doing Business with Us <ul>
@@ -55,10 +59,12 @@ Standards </li>
 <li> Postmaster General &amp.
 Executive Leadership Team </li>
 <li> Postal Leadership </li>
-</ul> Financials Judicial Officer <ul>
+<li> Postal Service Profile </li>
+</ul> Financials Government Relations Judicial Officer <ul>
 <li> Rules of Practice </li>
 <li> Administrative Decisions </li>
 <li> Board of Contract Appeals </li>
+<li> Electronic Filing </li>
 </ul> Legal <ul>
 <li> Section 508 </li>
 <li> USPS Privacy </li>
@@ -79,6 +85,7 @@ Executive Leadership Team </li>
 </ul> Postal Facts <ul>
 <li> Size and Scope </li>
 <li> Decade of Facts and Figures </li>
+<li> Top 12 Things to Know </li>
 <li> This Post Office Is Always Open </li>
 <li> History.
 Foundation.
@@ -98,14 +105,12 @@ Social Responsibility </li>
 Law Enforcement.
 Preserving the Trust.
 </li>
-<li> Forensics.
-Crime Scenes.
-Evidence.
+<li> Defending the Frontier.
+Enforcing the Law.
 </li>
 <li> Military Postal Service Agency </li>
 <li> One Day by the Numbers </li>
 <li> Fun facts </li>
-<li> Top 10 Things to Know </li>
 </ul> Privacy Policy Highlights <br>
 <p>Scope<br>This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.</p>
 <p>Personal Information<br>We collect personal information directly from you and your transactions with us.
@@ -172,5 +177,5 @@ Shop › </li>
 <li> Postal Explorer › </li>
 </ul>
 </li>
-</ul>Copyright© 2015 USPS.
+</ul>Copyright© 2016 USPS.
 All Rights Reserved.

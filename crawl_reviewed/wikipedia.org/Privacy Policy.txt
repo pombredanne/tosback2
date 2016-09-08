@@ -591,7 +591,7 @@ We may also need to access and share information to investigate and defend ourse
 <p>Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights.
 These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users.
 They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites.
-These various user-selected administrative groups that have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy.
+These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy.
 These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions.
 However, the legal names of these users are not known to the Wikimedia Foundation.
 </p>
@@ -678,7 +678,7 @@ Our Response to Do Not Track (DNT) signals <p>We do not allow tracking by third-
 </p>
 <p>We are strongly committed to not sharing nonpublic information with third parties.
 In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your information with any third parties for marketing purposes.
-Under this Policy, we may share your information only under particular situations, which you can learn more about in the “When May We Share Your Information” section of this Privacy Policy.
+Under this Policy, we may share your information only under particular situations, which you can learn more about in the "When May We Share Your Information" section of this Privacy Policy.
 </p>
 <p>Because we protect all users in this manner, we do not change our behavior in response to a web browser's "do not track" signal.
 </p>
@@ -725,7 +725,7 @@ Previous versions can be found below:</b>
 <b>Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008.</b>
 </li>
 <li>
-<b>Privacy policy (June 2006 - August 2008) : effective from June 21, 2006 until August 19, 2008.</b>
+<b>Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008.</b>
 </li>
 <li>
 <b>Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006</b>
@@ -739,6 +739,7 @@ Previous versions can be found below:</b>
 <strong>Privacy policy</strong>
 <b>·</b> FAQ
 <b>·</b> Glossary of key terms
+<b>·</b> Wikimedia blog privacy policy
 <b>·</b> Subpoena FAQ
 <b>·</b> Access to nonpublic information <b>·</b> Data retention guidelines
 <b>·</b>

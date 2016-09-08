@@ -89,82 +89,107 @@ BLP’s prior written approval.
 3.
 Restrictions on Use.
 <p>
-YOU MAY NOT USE THE SERVICE FOR ANY ILLEGAL PURPOSE OR IN ANY MANNER INCONSISTENT WITH THE TOS.
-YOU AGREE TO USE THE SERVICE
-SOLELY FOR YOUR OWN NONCOMMERCIAL USE AND BENEFIT, AND NOT FOR RESALE OR OTHER TRANSFER OR DISPOSITION TO, OR USE BY OR FOR
-THE BENEFIT OF, ANY OTHER PERSON OR ENTITY.
-YOU AGREE NOT TO USE, TRANSFER, DISTRIBUTE, OR DISPOSE OF ANY INFORMATION CONTAINED
-IN THE SERVICE IN ANY MANNER THAT COULD COMPETE WITH THE BUSINESS OF BLOOMBERG OR ANY OF ITS SUPPLIERS.
-YOU MAY NOT COPY, REPRODUCE,
-RECOMPILE, DECOMPILE, DISASSEMBLE, REVERSE ENGINEER, DISTRIBUTE, PUBLISH, DISPLAY, PERFORM, MODIFY, UPLOAD TO, CREATE DERIVATIVE WORKS FROM,
-TRANSMIT, OR IN ANY WAY EXPLOIT ANY PART OF THE SERVICE, EXCEPT THAT YOU MAY DOWNLOAD MATERIAL FROM THE SERVICE AND/OR MAKE ONE
-PRINT COPY FOR YOUR OWN PERSONAL, NONCOMMERCIAL USE, PROVIDED THAT YOU RETAIN ALL COPYRIGHT AND OTHER PROPRIETARY NOTICES.
-YOU MAY NOT RECIRCULATE, REDISTRIBUTE OR PUBLISH THE ANALYSIS AND PRESENTATION INCLUDED IN THE SERVICE WITHOUT BLP’S PRIOR WRITTEN
-CONSENT.
-MODIFICATION OF THE SERVICE'S CONTENT WOULD BE A VIOLATION OF THE COPYRIGHTS AND OTHER PROPRIETARY RIGHTS OF BLP AND/OR
-BLOOMBERG FINANCE L.P.
-OR ITS SUBSIDIARIES.
-ADDITIONALLY, YOU MAY NOT OFFER ANY PART OF THE SERVICE FOR SALE OR DISTRIBUTE IT
-OVER ANY OTHER MEDIUM INCLUDING BUT NOT LIMITED TO OVER-THE-AIR TELEVISION OR RADIO BROADCAST, A COMPUTER NETWORK OR HYPERLINK
-FRAMING ON THE INTERNET WITHOUT THE PRIOR WRITTEN CONSENT OF BLP.
-THE SERVICE AND THE INFORMATION CONTAINED THEREIN MAY NOT BE
-USED TO CONSTRUCT A DATABASE OF ANY KIND.
-NOR MAY THE SERVICE BE STORED (IN ITS ENTIRETY OR IN ANY PART) IN DATABASES FOR
-ACCESS BY YOU OR ANY THIRD PARTY OR TO DISTRIBUTE ANY DATABASE SERVICES CONTAINING ALL OR PART OF THE SERVICE.
-YOU MAY NOT
-USE THE SERVICE IN ANY WAY TO IMPROVE THE QUALITY OF ANY DATA SOLD OR CONTRIBUTED BY YOU TO ANY THIRD PARTY.
-FURTHERMORE, YOU
-MAY NOT USE ANY OF THE TRADEMARKS, TRADE NAMES, SERVICE MARKS, COPYRIGHTS, OR LOGOS OF BLP AND/OR BLOOMBERG FINANCE L.P.
-OR ITS
-SUBSIDIARIES IN ANY MANNER WHICH CREATES THE IMPRESSION THAT SUCH ITEMS BELONG TO OR ARE ASSOCIATED WITH YOU OR, EXCEPT AS OTHERWISE
-PROVIDED HEREIN, ARE USED WITH BLP’S CONSENT, AND YOU ACKNOWLEDGE THAT YOU HAVE NO OWNERSHIP RIGHTS IN AND TO ANY OF SUCH ITEMS.
-YOU WILL NOT USE THE SERVICE OR THE INFORMATION CONTAINED THEREIN IN UNSOLICITED MAILINGS OR SPAM MATERIAL.
-YOU WILL NOT USE ANY
-TRADEMARKS, TRADE NAMES, SERVICE MARKS, COPYRIGHTS, OR LOGOS OF BLP AND/OR BLOOMBERG FINANCE L.P.
-OR ITS SUBSIDIARIES IN UNSOLICITED
-MAILINGS OR SPAM MATERIAL.
-YOU WILL NOT SPAM OR SEND UNSOLICITED MAILINGS TO ANY PERSON OR ENTITY USING THE SERVICE.
-YOU MAY
-USE THE "E-MAIL THIS ARTICLE" FUNCTION SOLELY TO INFORM OTHERS ABOUT A BLOOMBERG NEWS ARTICLE ON BLOOMBERG.COM, AND YOU SHALL
-IMMEDIATELY CEASE USING THIS FUNCTION WITH REGARD TO RECIPIENTS WHO HAVE REQUESTED NOT TO RECEIVE SUCH INFORMATION.
-WHEN USING THE
-"E-MAIL THIS ARTICLE" FUNCTION, YOU SHALL: (i) NOT UPLOAD OR SEND ANY MESSAGE THAT IS UNLAWFUL, LIBELOUS, SLANDEROUS, OFFENSIVE, OBSCENE,
-HATEFUL, PORNOGRAPHIC, VIOLENT, INSULTING, THREATENING, ABUSIVE, MISLEADING, DECEPTIVE, OR RACIALLY, ETHNICALLY, OR OTHERWISE
-OBJECTIONABLE.
-(ii) NOT UPLOAD OR SEND ANY COMMERCIAL, PROMOTIONAL, OR SOLICITATION INFORMATION.
-AND (iii) REMAIN FRIENDLY AND
-CIVIL AND TREAT ALL E-MAIL RECIPIENTS WITH RESPECT AND SINCERITY.
-YOU AGREE TO COMPLY WITH ANY OTHER APPLICABLE TERMS AND
-CONDITIONS OF SERVICE SET FORTH ON THE SERVICE.
+You may not use the Service for any illegal purpose, for the facilitation of the violation of any law or regulation, or in any manner
+inconsistent with the TOS.
+You agree to use the Service solely for your own noncommercial use and benefit, and not for resale or other
+transfer or disposition to, or use by or for the benefit of, any other person or entity.
+You agree not to use, transfer, distribute,
+or dispose of any information contained in the Service in any manner that could compete with the business of Bloomberg or any of
+its suppliers.
+</p>
+<p>
+You may not copy, reproduce, recompile, decompile, disassemble, reverse engineer, distribute, publish, display, perform, modify,
+upload to, create derivative works from, transmit, or in any way exploit any part of the Service, except that you may download
+material from the Service and/or make one print copy for your own personal, noncommercial use, provided that you retain all
+copyright and other proprietary notices.
+You may not recirculate, redistribute or publish the analysis and presentation included
+in the Service without BLP’s prior written consent.
+You may use the "e-mail this article" function solely to inform others about
+a Bloomberg News article, and you shall immediately cease using this function with regard to recipients who have requested not
+to receive such information.
+You may not offer any part of the Service for sale or distribute it over any other medium including
+but not limited to over-the-air television or radio broadcast, a computer network or hyperlink framing on the internet without
+the prior written consent of BLP.
+The Service and the information contained therein may not be used to construct a database of
+any kind.
+Nor may the Service be stored (in its entirety or in any part) in databases for access by you or any third party or
+to distribute any database Services containing all or part of the Service.
+You may not use the Service in any way to improve
+the quality of any data sold or contributed by you to any third party.
+</p>
+<p>
+You may not input, distribute, upload, post, email, transmit or otherwise make available any content through the Service that:
+(i) is promotional in nature, including solicitations for funds or business, without the prior written authorization of BLP,
+or constitutes junk mail, spam, chain letters, pyramid schemes or the like.
+(ii) is unlawful, harmful, threatening, abusive,
+harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically
+or otherwise objectionable.
+(iii) you do not have the right to make available under any law or under contractual or fiduciary
+relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment
+relationships or under nondisclosure agreements).
+(iv) infringes any patent, trademark, trade secret, copyright or other
+proprietary rights of any party.
+(v) contains software viruses or any other computer code, files or programs designed to
+interrupt, destroy or limit the functionality of any computer software or hardware, or telecommunications equipment.
+(vi) is harmful to minors.
+or (vii) constitutes the personally identifiable information of any other person that such person
+has not authorized you to disclose.
+</p>
+<p>
+You may not use any of the trademarks, trade names, service marks, copyrights, or logos of Bloomberg in any manner which
+creates the impression that such items belong to or are associated with you or are used with Bloomberg’s consent, and you
+acknowledge that you have no ownership rights in and to any of such items.
+</p>
+<p>
+You may neither interfere with nor attempt to interfere with nor otherwise disrupt the proper working of the Service, any
+activities conducted on or through the Service or any servers or networks connected to the Service.
+You may neither obtain
+nor attempt to obtain through any means any materials or information on the Service that have not been intentionally made
+publicly available either by public display on the Service or through accessibility by a visible link on the Service.
+You shall not violate the security of the Service or attempt to gain unauthorized access to the Service, data, materials,
+information, computer systems or networks connected to any server associated with the Service, through hacking, password
+timing or any other means.
+You may neither take nor attempt any action that, in the sole discretion of BLP, imposes or may
+impose an unreasonable or disproportionately large load or burden on the Service or the infrastructure of the Service.
+You
+shall not use or attempt to use any “scraper,” “robot,” “bot,” “spider,” “data mining,” “computer code,” or any other
+automate device, program, tool, algorithm, process or methodology to access, acquire, copy, or monitor any portion of the
+Service, any data or content found on or accessed through the Service, or any other Service information without the prior
+express written consent of BLP.
+You may not forge headers or otherwise manipulate identifiers in order to disguise the
+origin of any other content.
 </p>
 4.
 License.
 <p>
-(i) You acquire absolutely no rights or licenses in or to the Service and materials contained within the Service other
-than the limited right to utilize the Service in accordance with the TOS.
-Should you choose to download content from the
-Service, you must do so in accordance with the TOS.
+(i) You acquire absolutely no rights or licenses in or to the Service and materials contained within the Service other than
+the limited right to utilize the Service in accordance with the TOS.
+Should you choose to download content from the Service,
+you must do so in accordance with the TOS.
 Such download is licensed to you by Bloomberg ONLY for your own personal,
 noncommercial use in accordance with the TOS and does not transfer any other rights to you.
 </p>
 <p>
-(ii) If you submit material to this site or to BLP or its representative, unless BLP indicates otherwise, you grant Bloomberg
-a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish,
-translate, create derivative works from, distribute, copy, and display such content throughout the world in any form, media,
-or technology now known or hereafter developed.
-You also permit any other user to access, store, or reproduce such material for
-that user's personal use.
-You grant Bloomberg the right to use the name that you submit in connection with such content.
-You represent and warrant that you own or otherwise control all of the rights to the material that you submit.
-that the
-material you submit is truthful and accurate.
-that use of the material you supply does not violate this TOS and will not
-cause injury to any person or entity.
-and that you will indemnify Bloomberg and its Suppliers, agents, directors, officers, employees,
-representatives, successors, and assigns for all claims resulting from material you supply.
-Bloomberg and its Suppliers, agents,
-directors, officers, employees, representatives, successors, and assigns disclaim any responsibility and assume no liability for
-any material submitted by you or any third party.
+(ii) If you submit material to this site or to BLP or its representative, unless BLP indicates otherwise, you grant to Bloomberg
+a perpetual, nonexclusive, irrevocable, fully paid, royalty-free, sublicensable and transferable (in whole or in part) worldwide
+right and license in any and all media, now known or later developed, to use, publish, reproduce, display, modify, transmit
+digitally, create derivative works based upon, distribute, copy, and otherwise exploit , such content for any purpose whatsoever
+(including, without limitation, advertising, commercial, promotional and publicity purposes) in Bloomberg’s discretion without
+additional notice, attribution or consideration to you or to any other person or entity..
+You also permit any other user to access,
+store, or reproduce such material for that user's personal use.
+You grant Bloomberg the right to use the name that you submit in
+connection with such content.
+You represent and warrant that you own or otherwise control all of the rights to the material that
+you submit.
+that the material you submit is truthful and accurate.
+that use of the material you supply does not violate this TOS
+and will not cause injury to any person or entity.
+and that you will indemnify Bloomberg and its Suppliers, agents, directors,
+officers, employees, representatives, successors, and assigns for all claims resulting from material you supply.
+Bloomberg and
+its Suppliers, agents, directors, officers, employees, representatives, successors, and assigns disclaim any responsibility and
+assume no liability for any material submitted by you or any third party.
 </p>
 5.
 Fees and Payments.
@@ -397,16 +422,7 @@ the other provisions of the TOS will remain in force.
 </p>
 16.
 Entire Agreement.
-<p>The TOS and any other terms and conditions of service on this site, and its successor, constitute the entire agreement between you and BLP and govern your use of the Service.</p>
-17.
-Bloomberg University.
-<p>
-Bloomberg University is not an accredited program or institution, and is provided by BLP on behalf of Bloomberg Finance L.P.
-for
-informational purposes only.
-You understand, acknowledge, and agree that Bloomberg University in no way shall be considered
-as conforming with any educational standards or qualifications prescribed by any private or governmental entity.
-</p> B.
+<p>The TOS and any other terms and conditions of service on this site, and its successor, constitute the entire agreement between you and BLP and govern your use of the Service.</p> B.
 LINKING AND FRAMING TERMS AND CONDITIONS back to top <p>
 <b>YOU MAY NOT LINK TO OR FRAME THIS WEB SITE, OR ANY PORTION THEREOF, EXCEPT AS PROVIDED HEREIN.</b>
 </p>
@@ -483,10 +499,11 @@ Click here
 for this site's privacy policy
 </p> F.
 E-Commerce Directive Information back to top <p>
-Bloomberg LP is authorized and regulated by the Financial Services Authority (the "FSA") under reference number 206006 on
-its Register of Firms http://www.fsa.gov.uk/register/.
-The FSA can be contacted by calling +44 20 7676 1000, by visiting www.fsa.gov.uk,
-or by writing to The Financial Services Authority, 25 The North Colonnade, London E14 5HS, England.
+Bloomberg LP is authorized and regulated by the Financial Conduct Authority (the "FCA") under reference number 206006 on the
+Financial Services Register at http://www.fsa.gov.uk/register/.
+The FCA can be contacted at Tel.
++44 20 7066 1000, at its Head Office at 25 The
+North Colonnade, London E14 5HS, or by the other methods listed on its website at http://www.fca.org.uk/site-info/contact.
 </p>
 <p>
 The contact at our New York office is: Paul Ramundo Phone: +1 (212) 617-7816 Fax: +1 (917) 369-3801 Email:
@@ -515,7 +532,8 @@ Forward Network）」（如傳真存轉、交易服務、數據網路服務）�
 三、其他政府機關因執行公權力而依法所為之命令。
 四、與公眾生命安全有關之機關為進行緊急救助者。
 五、符合「電腦處理個人資料保護法」第二十三條之規定者。
-<p>第 十 條	本公司預定暫停或終止本業務之一部或全部時，應於預定暫停或終止日一個月前報請主管機關備查，並立即通知用戶。</p>
+第 十 條
+本公司預定暫停或終止本業務之一部或全部時，應於預定暫停或終止日一個月前報請主管機關備查，並立即通知用戶。
 <p>前項暫停營業之時間最長不得超過一年。</p>
 第十一條
 若本公司營業許可遭主管機關廢止，或本公司預定暫停或終止本業務之一部或全部時，本公司應退還用戶所預付之費用，並應依法律規定以及用戶合約約定賠償用戶之損失。
@@ -540,7 +558,10 @@ Forward Network）」（如傳真存轉、交易服務、數據網路服務）�
 第十八條
 若用戶有利用本業務從事非法活動者，本公司有權向相關單位檢舉，並有權將之視為拒絕往來戶。
 <p>第十九條	本營業規章未盡事宜，悉依相關適用法令以及用戶合約之規定辦理。</p>
-<p>第二十條	本營業規章自公告日起施行，於有變更時亦同。</p> H.
+<p>第二十條	本營業規章自公告日起施行，於有變更時亦同。</p>
+彭博高速資訊網路服務費率
+<p>此服務爲每客戶每月收取2mbps以內基本服務費美金295美元</p>
+<p>（不收裝機費）</p> H.
 RULES MANAGED BY BLOOMBERG COLOMBIA LLC back to top <p>
 Click
 here

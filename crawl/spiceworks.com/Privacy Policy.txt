@@ -1,5 +1,5 @@
  Spiceworks Privacy Policy <p>
-<em>Last Updated: November 12, 2014</em>
+<em>Last Updated: July 31, 2015</em>
 </p>
 <p>At Spiceworks, our most important asset is our relationship with our user community.
 We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations.
@@ -12,11 +12,7 @@ If you do not agree with our policies and practices, your choice is not to use o
 By accessing or using any portion of the Service, you agree to this Privacy Policy.</p>
 <p>This Privacy Policy is incorporated by reference into the Spiceworks Terms of Use or other legal document applicable to your relationship with Spiceworks.
 The term “Spiceworks” includes Spiceworks, Inc.
-and our affiliates and subsidiaries.</p> TRUSTe Licensee <p>Spiceworks has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your Personal Information.
-The TRUSTe program covers information that is collected through our website www.spiceworks.com.
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-If you have questions or complaints regarding our privacy policy or practices, please contact us at feedback@spiceworks.com.
-If you are not satisfied with our response you can contact TRUSTe here.</p> Introduction <p>The Spiceworks service is not just a website.
+and our affiliates and subsidiaries.</p> Introduction <p>The Spiceworks service is not just a website.
 it is a social IT management application that combines the tools you need to manage your network, with information about IT products and services, and advice and expertise from other IT professionals like you, to dramatically simplify your day-to-day job.
 It’s important to us that you understand how the Service works with respect to collection and use of Personal Information and the ramifications on our privacy policies.</p>
 <p>For those who download the Spiceworks Desktop application (“Desktop”), it is designed to make it easy to inventory and monitor the hardware and software on your network.
@@ -130,15 +126,15 @@ We may also share Personal Information with third parties in limited circumstanc
 <p>
 <strong>Merger, Sale or Other Asset Transfers.</strong> If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of our assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.</p> Your Choices <p>We offer you choices when we ask for Personal Information, whenever reasonably possible.
 You may decline to provide Personal Information to us and/or refuse cookies in your browser, although some if not all of our features or services may not function properly as a result.</p>
-<p>You can manage your email subscriptions at any time by editing your personal profile at the following URL: http://community.spiceworks.com/profile/subscriptions</p>
-<p>Spiceworks relies on Google Services for display of ads on our site http://community.spiceworks.com.
+<p>You can manage your email subscriptions at any time by editing your personal profile at the following URL: https://community.spiceworks.com/profile/subscriptions</p>
+<p>Spiceworks relies on Google Services for display of ads on our site https://community.spiceworks.com.
 To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: http://www.google.com/policies/technologies/ads/.
 </p>
 <p>We make good faith efforts to provide you access to your Personal Information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
 If your Personal Information changes, you may update it using the "Update Profile" link at the bottom of the email newsletter.
 When you update information, we may keep a copy of the prior version for our records.</p>
 <p>You have control over your Spiceworks user profile and related privacy settings and can edit such to remove information that you do not want others to see publicly via the Site.
-You can manage your personal profile information by visiting the URL: http://community.spiceworks.com/profile.
+You can manage your personal profile information by visiting the URL: https://community.spiceworks.com/profile.
 The information you post in your project pages or profile pages is publicly available and there are not any privacy settings on those pages so if you do not want certain information to be publicly available, do not post it to your project pages or profile pages.</p>
 <p>We may access, preserve, and disclose your Personal Information, other account information, and content, including after you terminate usage of our Service, if we believe doing so is required or appropriate to: comply with our legal obligations, resolve disputes, respond to your requests.
 or protect yours’, ours’ or others’ rights, property, or safety.</p>
@@ -174,6 +170,6 @@ We will post any adjustments to the Privacy Policy on this web page, and the rev
 When we change this Privacy Policy in a material way, a prominent notice will be posted on our Site along with the updated this Privacy Policy prior to the changes becoming effective.
 Please check this URL frequently to see the latest version of this this Privacy Policy.</p> Feedback <p>If you have comments on any part of the Service or ideas on how to improve it, please send email to feedback@spiceworks.com.
 Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.</p>
-<p>The information contained in this web site is subject to change without notice.<br> Copyright © 2006-2015 Spiceworks, Inc.
+<p>The information contained in this web site is subject to change without notice.<br> Copyright © 2006-2016 Spiceworks, Inc.
 All rights reserved.<br> Spiceworks, Inc.
-7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA</p> 
+3700 North Capital of Texas Highway #100, Austin, TX 78759, USA</p> 

@@ -11,8 +11,8 @@ Company   Knowledge Base <ul>
 <li>Getting Started</li>
 <li>Data Sources</li>
 <li>Deployment/Publishing</li>
-<li>Automation</li>
-<li>Integration Options</li>
+<li>Server Topics</li>
+<li>Integration Topics</li>
 <li>Scaling/Performance </li>
 <li>Reference</li>
 <li>Specifications</li>
@@ -74,7 +74,7 @@ Clients
 Knowledge Base
 Featured videos
 <p>
-© Visokio 2013
+© Visokio 2015
 |
 Privacy Policy
 |

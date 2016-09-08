@@ -1,63 +1,173 @@
- <ul>
-<li>FAQ</li>
-<li>Privacy Policy</li>
-<li>
+ Log in to AVG MyAccount MENU Skip to content Close <ul>
+<li> PC <ul>
+<li> Multi-device </li>
+<li> AVG Antivirus Protection FREE </li>
+<li> AVG Antivirus Protection PRO </li>
+<li> AVG TuneUp Performance </li>
+<li> AVG Ultimate </li>
+<li> Single device </li>
+<li> AVG AntiVirus </li>
+<li> AVG Internet Security </li>
+<li> AVG PC TuneUp<sup>®</sup>
 </li>
-</ul> Your progress Includes: <ul>
-<li>
-<li>
-<li>
-<li>
-<li>
-</ul> RESET USER ACCOUNT CLEAR CACHE Enable PrivacyFix Alerts
-<br>
-<p>Be warned of privacy risks on the sites you visit.
-Get notified when they change their privacy policies or have data breaches.
-Click on the icon to see the issues or to get to your PrivacyFix Dashboard.</p> Understand your status Understand your status <ul>
-<li> Privacy protection is high on this site </li>
-<li> This site has known issues </li>
-<li> This site has new issues </li>
-</ul> ENABLE PRIVACYFIX ALERTS Maybe later Having trouble? Try these tips: PrivacyFix is a bit complicated under the hood, so things may not always work perfectly.
-Take these steps if you have a problem.
-<ul>
-<li> Restart your browser <p> A fresh session makes sure that your browser is up to date.
-If your tabs don't automatically re-load, you can find them in Settings &gt.
-History.
-Note that PrivacyFix does not work if you are using Private or Incognito browsing.
-</p>
+<li> HMA! Pro VPN NEW </li>
+<li> AVG Driver Updater </li>
+<li> AVG Web TuneUp </li>
+<li> All Products </li>
+</ul>
 </li>
-<li> Disable add-ons <p> Other add-ons (particularly privacy tools) can interfere with PrivacyFix.
-Go to Addons (Firefox) or Extensions (Chrome) to disable them temporarily and re-run PrivacyFix.
-</p>
+<li> Mac <ul>
+<li> AVG Cleaner for Mac<sup>®</sup>
 </li>
-<li> Tell us about it <p> We are working hard to make PrivacyFix a great experience for every user.
-If these solutions didn't work for you, please check our FAQ or contact us so we can help.
-</p>
+<li> AVG AntiVirus for Mac<sup>®</sup>
 </li>
+<li> HMA! Pro VPN NEW </li>
+<li> All products </li>
+</ul>
+</li>
+<li> Android <ul>
+<li>
+<strong>Android Apps for Mobile and Tablet</strong>
+</li>
+<li> AVG AntiVirus for Android™ </li>
+<li> AVG Cleaner™ for Android™ </li>
+<li> HMA! Pro VPN NEW </li>
+</ul>
+</li>
+<li> Partners <ul>
+<li> Products </li>
+<li> AVG Managed Workplace<sup>®</sup>
+</li>
+<li> AVG CloudCare™ </li>
+<li> AVG Secure Sign On </li>
+<li> AVG Business Security Products </li>
+<li> Why Partner With AVG Business </li>
+<li> Find a Partner </li>
+<li> Become a Partner </li>
+<li> Partner Portal </li>
+<li> Reseller Center </li>
+<li> Programs </li>
+<li> Partner Certification Program </li>
+<li> Webinars &amp.
+Events </li>
+<li> Mobile Global Alliances </li>
+</ul>
+</li>
+<li> Business <ul>
+<li> AVG Internet Security Business Edition </li>
+<li> AVG AntiVirus Business Edition </li>
+<li> AVG File Server Edition </li>
+<li> AVG PC TuneUp Business Edition </li>
+<li> AVG AntiVirus Mobile </li>
+<li> AVG Business AntiVirus for Mac<sup>®</sup>
+</li>
+<li> Compare products </li>
+</ul>
+</li>
+<li> Services <ul>
+<li> Premium Tech Support </li>
+<li> Remote Virus Removal </li>
+<li> Express Install </li>
+</ul>
+</li>
+<li> Support <ul>
+<li> Home product support </li>
+<li> Product downloads &amp.
+updates </li>
+<li> Find your license number </li>
+<li> FREE support for AVG home products </li>
+<li> Premium Tech Support </li>
+<li> Support for partner products </li>
+<li> Contact us for partner support </li>
+<li> Support for business products </li>
+<li> Contact us for business support </li>
+</ul>
+</li>
+</ul> Log in to AVG MyAccount English This domain is registered and owned by AVG Technologies <p>Maybe we can help you find what you are looking for. The links below should be a good place to start.</p> Homepage <p>Visit the AVG homepage for links to all our products and services.<br>  </p>
+<p>Go to Homepage</p> Downloads <p>Get AVG products for your PC, Mac<sup>®</sup>, or mobile.
+Or download the latest updates and user guides.</p>
+<p>Go to Download Center</p> Support <p>Get help with product downloads, installation, uninstallation, upgrades, virus removal, and more.</p>
+<p>Go to Support Center</p> About AVG <ul>
+<li> Company Profile </li>
+<li> Investor Relations </li>
+<li> License Agreements </li>
+<li> Policies </li>
+<li> Reseller Locator </li>
+<li> Careers </li>
+<li> Contact Us </li>
+</ul> How can we help <ul>
+<li> Antivirus Software </li>
+<li> Business Security </li>
+<li> Mobile Security </li>
+<li> PC Performance </li>
+<li> Free Mac apps </li>
+<li> Virus Scanning &amp.
+Malware Removal </li>
+<li> Web Threats </li>
+</ul> Partner with AVG <ul>
+<li> Partners &amp.
+Resellers </li>
+<li> Reseller Center </li>
+<li> AVG CloudCare™ </li>
+<li> AVG Managed Workplace </li>
+<li> AVG Secure Sign On </li>
+<li> Affiliates </li>
+</ul> Media Center <ul>
+<li> Press Releases </li>
+<li> AVG Blogs </li>
+<li> Awards </li>
+<li> Customer Reviews </li>
+<li> Resources </li>
+</ul> Customer area <ul>
+<li> Renew or upgrade </li>
+<li> Register your License </li>
+<li> Anti-Theft login </li>
+<li> Free antivirus download </li>
+</ul> Connect with AVG <ul>
+<li> Facebook </li>
+<li> Twitter </li>
+<li> RSS </li>
+<li> Google+ </li>
+<li> LinkedIn </li>
+<li> YouTube </li>
+</ul> English Log in to AVG MyAccount <p>Privacy  |  Cookies  |  All <u>third party trademarks</u> are the property of their respective owners.
+ |  © 2016 AVG Technologies.
+All rights reserved.</p> Skip to content Skip to menu Change language <ul>
+<li> Global Website: Español / English </li>
+<li> Argentina: Español </li>
+<li> Australia: English </li>
+<li> Brasil: Português do Brasil </li>
+<li> Canada: English </li>
+<li> Česká republika: Čeština </li>
+<li> Danmark: English </li>
+<li> Deutschland: Deutsch </li>
+<li> España: Español </li>
+<li> France: Français </li>
+<li> India: English </li>
+<li> Indonesia: Bahasa Indonesia </li>
 </ul>
 <ul>
-<li>
-<li>
-<li>
-</ul> Privacy is something to share PrivacyFix is not affiliated with Facebook, Twitter, LinkedIn or Google.
-<ul>
-<li>
-<li>
+<li> ایران: فارسی </li>
+<li> Ireland: English </li>
+<li> Italia: Italiano </li>
+<li> Malaysia: Bahasa Melayu </li>
+<li> México: Español </li>
+<li> Nederland: Nederlands </li>
+<li> Norge: English </li>
+<li> Polska: Polski </li>
+<li> Portugal: Português </li>
+<li> Россия: Русский </li>
 </ul>
 <ul>
-<li>FAQ</li>
-<li>Support</li>
-<li>Terms</li>
-<li>Cookies</li>
-</ul> Android™ is a trademark of Google, Inc.
-Facebook® is a trademark of Facebook, Inc., registered in the United States and in other countries.
-Chrome® is a trademark of Google, Inc.
-LinkedIn® is a registered trademark of LinkedIn corporation and its affiliates in the US and other countries.
-Twitter® is a trademark of Twitter, Inc., registered in the United States and in other countries.
-Firefox® is a trademark of the Mozilla Foundation.
-iOS® is a trademark of Cisco in the US and is used by Apple under license.
-Internet Explorer is a trademark of Microsoft.
-<em>
-</em>
-<em>
-</em> 
+<li> Slovensko: Slovenčina </li>
+<li> Sverige: English </li>
+<li> Türkiye: Türkçe </li>
+<li> United Kingdom: English </li>
+<li> United States: English </li>
+<li> Việt Nam: Tiếng Việt </li>
+<li> 中国: 简体中文 </li>
+<li> 臺灣: 繁體中文 </li>
+<li> 日本: 日本語 </li>
+<li> 대한민국: 한국어 </li>
+</ul>
+<p> Global Website: Español / English </p> × 

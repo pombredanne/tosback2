@@ -63,7 +63,7 @@ If TOU translations conflict with the English version, English controls.
 See Privacy Policy for how we collect, use and share data.
 If you feel content infringes your rights see cl.com/about/dmca.</p>
 <ul>
-<li>© 2013 craigslist</li>
+<li>© 2016 craigslist</li>
 <li>help</li>
 <li>safety</li>
 <li>privacy</li>
@@ -71,4 +71,4 @@ If you feel content infringes your rights see cl.com/about/dmca.</p>
 <li>cl jobs</li>
 <li>terms</li>
 <li>about</li>
-</ul>
+</ul> 

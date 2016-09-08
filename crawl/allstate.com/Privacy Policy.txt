@@ -1,12 +1,125 @@
- Skip Navigation <ul>
-<li> Find An Agent </li>
-<li> Contact Us </li>
-<li> Español </li>
-<li> Denver, CO,80202 </li>
+ Skip Navigation Explore Allstate <ul>
+<li>Find An Agent</li>
+<li>Contact Us</li>
+<li>Español</li>
+<li>Denver, CO80202</li>
+<li> Search </li>
+</ul>
+<ul>
+<li> Allstate </li>
 <li>
+<ul>
+<li>We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.</li>
+</ul>
 </li>
-</ul> Get a Quote? <p> Your location is set for Denver, CO, 80202 </p> Edit Select a product to get a quote.
-<br> Retrieve a saved quote <dl>
+</ul>
+<ul>
+<li> Company Overview </li>
+<li>
+<ul>
+<li>Our Story</li>
+<li>Good Home</li>
+<li>The Allstate Blog</li>
+<li>Careers</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Contact Us </li>
+<li>
+<ul>
+<li>1-800-ALLSTATE</li>
+<li>Email Us</li>
+<li>Tweet for Help</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Corporate Info </li>
+<li>
+<ul>
+<li>Newsroom</li>
+<li>Allstate Investments</li>
+<li>Investor Relations</li>
+<li>Allstate Program</li>
+<li>Sponsorships</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Corporate Responsibility </li>
+<li>
+<ul>
+<li>Allstate Foundation</li>
+<li>Give it Up For Good</li>
+<li>Allstate Gives Back</li>
+<li>STANDUP</li>
+<li>Teen Memory Wall</li>
+<li>Purple Purse</li>
+<li>Allstate Code of Ethics</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Logins </li>
+<li>
+<ul>
+<li>My Account</li>
+<li>Allstate Rewards</li>
+<li>Financial</li>
+<li>Flood Insurance</li>
+<li>Motor Club</li>
+<li>Roadside Service</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Mobile Apps </li>
+<li>
+<ul>
+<li>Allstate Mobile</li>
+<li>Allstate Motor Club</li>
+<li>Drivewise</li>
+<li>Digital Locker</li>
+<li>GoodRide</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Find an Agent </li>
+</ul>
+<ul>
+<li> Get A Quote </li>
+<li>
+<ul>
+<li>Auto</li>
+<li>Home</li>
+<li>Renters</li>
+<li>Life</li>
+<li>Condo</li>
+<li>Motorcycle</li>
+<li>Boat</li>
+<li>ATV/Rec.
+Vehicle</li>
+<li>Business Insurance</li>
+<li>Retrieve a Saved Quote</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Connect With Us </li>
+<li>
+<ul>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+</ul>
+</li>
+</ul> Get a Quote? <p>Your location is set for Denver, CO 80202</p> Edit Select a product to get a quote.<br>Retrieve a saved quote <dl>
 <dd> Auto </dd>
 <dd> Home </dd>
 <dd> Renters </dd>
@@ -27,71 +140,75 @@ Vehicle </dd>
 <ul>
 <li> Insurance &amp.
 More <ul>
-<li> My Offers </li>
-<li> Auto </li>
-<li> Home </li>
-<li> Renters </li>
-<li> Condo </li>
-<li> Motorcycle </li>
-<li> Business </li>
-<li> Life </li>
+<li>Auto</li>
+<li>Home</li>
+<li>Renters</li>
+<li>Condo</li>
+<li>Motorcycle</li>
+<li>Business</li>
+<li>Life</li>
+<li>Roadside</li>
+<li>My Offers</li>
 </ul>
 <ul>
-<li> Boat </li>
-<li> Motorhome </li>
-<li> Snowmobile </li>
-<li> ATV &amp.
-4X4 </li>
-<li> Landlord </li>
-<li> Retirement &amp.
-Savings </li>
-<li> Supplemental Health </li>
+<li>Drivewise®</li>
+<li>Boat</li>
+<li>Motorhome</li>
+<li>Snowmobile</li>
+<li>ATV </li>
+<li>Pet</li>
+<li>Event</li>
+<li>Landlord</li>
+<li>Retirement &amp.
+Investments</li>
+<li>Supplemental &amp.
+Health</li>
 </ul>
 </li>
 <li> Claims <ul>
-<li> Overview </li>
-<li> File A Claim </li>
-<li> Track A Claim </li>
-<li> Disaster Claims </li>
+<li>Overview</li>
+<li>File A Claim</li>
+<li>Track A Claim</li>
+<li>Disaster Claims</li>
 </ul>
 </li>
 <li> Support <ul>
-<li> Overview </li>
-<li> Q &amp.
+<li>Overview</li>
+<li>Q &amp.
 A </li>
-<li> Billing </li>
-<li> Find An Agent </li>
-<li> Contact Us </li>
+<li>Billing</li>
+<li>Find An Agent</li>
+<li>Contact Us</li>
 </ul>
 </li>
 <li> Tools &amp.
 Resources <ul>
-<li> Welcome </li>
-<li> Auto </li>
-<li> Home </li>
-<li> Motorcycle </li>
-<li> Renters </li>
-<li> Power Sports </li>
-<li> Business Insurance </li>
+<li>Welcome</li>
+<li>Auto</li>
+<li>Home</li>
+<li>Motorcycle</li>
+<li>Renters</li>
+<li>Life &amp.
+Retirement</li>
+<li>Power Sports</li>
+<li>Business Insurance</li>
 </ul>
 </li>
 <li> My Account Login Log in to My Account: User Name Password Password Forgot user ID? Forgot password? Log In Create an account </li>
 </ul> Toggle mobileNavigation Log in <ul>
-<li>
-</li>
+<li> Search </li>
 <li> Update Zip Code expand <ul>
-<li> Denver, CO,80202 Edit </li>
+<li>Denver, CO80202Edit</li>
 </ul>
 </li>
 <li>Find A Local Agent</li>
 <li> Get A Quote in 80202 expand <ul>
-<li> Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
+<li> Denver, CO80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
 VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote </li>
 </ul>
 </li>
 <li> Insurance &amp.
 More expand <ul>
-<li> My Offers </li>
 <li> Auto </li>
 <li> Home </li>
 <li> Renters </li>
@@ -99,104 +216,131 @@ More expand <ul>
 <li> Motorcycle </li>
 <li> Business </li>
 <li> Life </li>
+<li> Roadside </li>
+<li> My Offers </li>
 <li> More expand <ul>
-<li> Boat </li>
-<li> Motorhome </li>
-<li> Snowmobile </li>
-<li> ATV &amp.
-4X4 </li>
-<li> Landlord </li>
-<li> Retirement &amp.
-Savings </li>
-<li> Supplemental Health </li>
+<li>Drivewise®</li>
+<li>Boat</li>
+<li>Motorhome</li>
+<li>Snowmobile</li>
+<li>ATV </li>
+<li>Pet</li>
+<li>Event</li>
+<li>Landlord</li>
+<li>Retirement &amp.
+Investments</li>
+<li>Supplemental &amp.
+Health</li>
 </ul>
 </li>
 </ul>
 </li>
 <li> Claims expand <ul>
-<li> Overview </li>
-<li> File A Claim </li>
-<li> Track A Claim </li>
-<li> Disaster Claims </li>
+<li>Overview</li>
+<li>File A Claim</li>
+<li>Track A Claim</li>
+<li>Disaster Claims</li>
 </ul>
 </li>
 <li> Support expand <ul>
-<li> Overview </li>
-<li> Q &amp.
+<li>Overview</li>
+<li>Q &amp.
 A </li>
-<li> Billing </li>
-<li> Find An Agent </li>
-<li> Contact Us </li>
+<li>Billing</li>
+<li>Find An Agent</li>
+<li>Contact Us</li>
 </ul>
 </li>
 <li> Tools &amp.
 Resources expand <ul>
-<li> Welcome </li>
-<li> Auto </li>
-<li> Home </li>
-<li> Motorcycle </li>
-<li> Renters </li>
-<li> Power Sports </li>
-<li> Business Insurance </li>
+<li>Welcome</li>
+<li>Auto</li>
+<li>Home</li>
+<li>Motorcycle</li>
+<li>Renters</li>
+<li>Life &amp.
+Retirement</li>
+<li>Power Sports</li>
+<li>Business Insurance</li>
 </ul>
 </li>
-<li> My Account Login </li>
-<li> Contact Us </li>
-<li> Español </li>
+<li>My Account Login</li>
+<li>Contact Us</li>
+<li>Español</li>
 </ul> About Allstate <ul>
 <li>
 <p>About Allstate</p>
 expand </li>
 <ul>
-<li> Allstate Overview expand <ul>
+<li> Company Overview expand <ul>
 <li> General Information
-</li>
-<li> Products Overview
-</li>
-<li> The Agent Difference
-</li>
-<li> Foundation Grants
 </li>
 <li> Financial and Other Reports
 </li>
 <li> History and Timeline
 </li>
-<li> Awards and Recognition
-</li>
-<li> Senior Leadership Team
+<li> Leadership
 </li>
 <li> Board of Directors
 </li>
-<li> Executive Speeches
+<li> Corporate Advocacy
 </li>
 </ul>
 </li>
-<li> Our Story </li>
-<li> Doing Business with Allstate </li>
-<li> Corporate Advocacy </li>
-<li> Diversity </li>
-<li> Corporate Governance </li>
-<li> Environment </li>
-<li> Corporate Responsibility </li>
-<li> Allstate Foundation </li>
-<li> Sponsorships &amp.
-Events </li>
-<li> Advertising &amp.
-Marketing </li>
+<li> The Agent Difference </li>
+<li> Doing Business with Allstate expand <ul>
+<li> Goods &amp.
+Services Purchased
+</li>
+<li> Supplier Diversity
+</li>
+<li> Process &amp.
+Expectations
+</li>
+</ul>
+</li>
+<li> Diversity expand <ul>
+<li> Workforce Diversity
+</li>
+<li> Marketplace Diversity
+</li>
+<li> Community Diversity
+</li>
+<li> Supply Chain Diversity
+</li>
+<li> Employee Resource Groups
+</li>
+<li> Events &amp.
+Initiatives
+</li>
+</ul>
+</li>
+<li> Sponsorships expand <ul>
+<li> College Football
+</li>
+<li> NCAA
+</li>
+<li> Soccer
+</li>
+</ul>
+</li>
+<li> Advertising expand <ul>
+<li> Mayhem
+</li>
+</ul>
+</li>
 <li> Allstate Affiliate Program </li>
-<li> Auto Insurance Fraud </li>
-<li> Videos en español </li>
 </ul>
 </ul> Home &gt.
 Allstate Overview &gt.
-Privacy Statement AIC <p>Text Size</p>   A A A allstate.com ﻿ Important Notice Privacy Policy Statement <p>
+Privacy Statement AIC Share allstate.com ﻿Important Notice Privacy Policy Statement <p>
 </p>
 <p>
 <br>
 <br>
 </p>
 <p>
-<strong>Revised September 16, 2014</strong>
+<strong>Revised February 26, 2016</strong>
 </p>
 <p>Thank you for choosing Allstate.
 We value you, respect your privacy and work hard to protect your personal information.
@@ -233,7 +377,7 @@ What Personal Information Do We Have and Where Do We Get It <p>We gather persona
 Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, social security number, marital status, family member information and healthcare information.
 Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history.
 We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information.
-Your information is stored in an encrypted environment.<br>
+<br>
 <br> In addition, Allstate and its business partners gather information through Internet activity, which may include, for example, your operating system, links you used to visit allstate.com, web pages you viewed while visiting our site or applications, Internet Protocol (IP) addresses, and cookies.
 We use cookies, analytics and other technologies to help: </p>
 <ul>
@@ -244,7 +388,7 @@ We use cookies, analytics and other technologies to help: </p>
 </ul> Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com.
 Mobile Analytics <p>We use Mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone.
 This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.
-We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.</p> Location Services <p>If you choose, your location is obtained from the mobile device or the network using your device's GPS functionality, or directly from you.
+We will link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.</p> Location Services <p>If you choose, your location is obtained from the mobile device or the network using your device's GPS functionality, or directly from you.
 We use your location information to<br>
 </p>
 <ul>
@@ -306,14 +450,14 @@ To "opt-out" at any time, please click here.
 If we have your e-mail address, we may do this by e-mail.
 If you do not wish to receive promotional e-mails from us, please contact us at the following address:<br>
 <br> Allstate Insurance Company<br> Customer Privacy Inquiries<br> P.O.
-Box 11904<br> Roanoke, VA 24022<br> or email us at customerprivacy@allstate.com</p> How You Can Review and Correct Your Personal Information? <p>You can request to review your personal information contained in our records at any time.
+Box 660598<br> Dallas, TX 75266-0598<br> or email us at customerprivacy@allstate.com</p> How You Can Review and Correct Your Personal Information? <p>You can request to review your personal information contained in our records at any time.
 To do this, please send a letter to the address below requesting to see your information for the previous two years.
 If you believe that our information is incomplete or inaccurate, you can request that we correct it.
 Please note we may not be able to provide information relating to investigations, claims, litigation, and other matters.
 We will be happy to make corrections whenever possible.
 Please send requests to:<br>
 <br> Allstate Insurance Company<br> Customer Privacy Inquiries<br> P.O.
-Box 40047<br> Roanoke, VA 24022-0047<br> or email us at customerprivacy@allstate.com<br>
+Box 660598<br> Dallas, TX 75266-0598<br> or email us at customerprivacy@allstate.com<br>
 <br> If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time by logging into your account.
 If you no longer wish to receive certain email communications from us, you may opt-out by following the unsubscribe link located at the bottom of each communication or by contacting us at the e-mail address listed above.</p> Who Should Use Our Web Site? <p>Our Web site is for insurance and financial products and services and is not intended for children.
 we do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen.
@@ -382,7 +526,7 @@ All the rights in the TRUSTe mark(s) belong to TRUSTe.</p> Allstate Insurance Co
 <b>For Montana residents:</b>
 <br> Pursuant to Montana law, you may also request a record of any disclosure of your medical information during the preceding three years.
 Please send requests to:<br> Allstate Insurance Company Customer Privacy Inquiries, P.O.
-Box 40047, Roanoke, VA 24022-0047<br>
+Box 660598, Dallas, TX 75266-0598<br>
 <br>
 <b>For Nevada Residents:</b>
 <br> Allstate is committed to serving you when and where you prefer as we help you protect what you have today and prepare you for the future.
@@ -393,7 +537,7 @@ To that end, and as Nevada law requires, if you do not want to receive sales cal
 <li>Contact your local Allstate agency</li>
 <li>Call 1-800-ALLSTATE and speak with a customer representative</li>
 <li>Visit allstate.com, click on Contact Us and send us an e-mail</li>
-<li>Write to us at Allstate Insurance Company, Attn: Customer Service, P.O.Box 40047, Roanoke, VA 24022-0047</li>
+<li>Write to us at Allstate Insurance Company, Attn: Customer Service, P.O.Box 660598, Dallas, TX 75266-0598</li>
 </ul> In your discussion or correspondence with us, please be sure to provide us with your name, address and all telephone numbers you wish to include on our list.
 If you have questions about this notice, you may contact us at the address listed above or you may also contact the Nevada Attorney General's office at:<br>
 <br> Office of the Nevada Attorney General<br> Bureau of Consumer Protection<br> 555 E.Washington Avenue..
@@ -425,66 +569,84 @@ Vehicle</dd>
 <dd>More</dd>
 </dl> End Dialog.
 AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
-VehicleBusiness InsuranceMoreGET A QUOTE <br>Retrieve a saved quote <p> Agents Near 80202</p>
+VehicleBusiness InsuranceMore<br>GET A QUOTE <br>Retrieve a saved quote <p> Agents Near 80202</p>
 <ul>
-<li> James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website </li>
-<li> Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website </li>
-<li> K.D.
-Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website </li>
-<li> Lou Toth 303-752-2999 1459 Ogden St # 5 Denver, CO 80218 Visit website </li>
-</ul> Previous <ul>
-<li> James Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE </li>
-<li> Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE </li>
-<li> K.D.
-Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE </li>
-<li> Lou Toth 1459 Ogden St # 5 Denver, CO 80218 WEBSITE </li>
-</ul> Next Agent finder map Agent finder map <p>24-hour support</p>
-1-800-ALLSTATE <br>(1-800-255-7828) <ul>
-<li>Company</li>
-<li>Our Story</li>
-<li>Allstate Overview</li>
-<li>Allstate Foundation</li>
-<li>Corporate Responsibility</li>
-<li>Investors</li>
-<li>Newsroom</li>
-<li>Careers</li>
-<li>Mayhem</li>
+<li>
+Loading...
+</li>
 </ul>
 <ul>
-<li>QUICK LINKS</li>
+<li>
+Loading...
+</li>
+</ul> More Agents More Agents <p>Find Your Local Agent</p>
+<p>Enjoy the personal attention you deserve.
+An Allstate agent is ready to help you with all your insurance needs.
+Find yours today.</p> Find Your Local Agent <p>24-hour support</p>
+1-800-ALLSTATE <br>(1-800-255-7828) <ul>
+<li>
+</ul>
+<ul>
+<li>Connect With Us</li>
+<ul>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+</ul>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Company</li>
+<li>Our Story</li>
+<li>The Allstate Blog</li>
+<li>Careers</li>
+<li>Customer Support</li>
 <li>Contact Us</li>
+</ul>
+</li>
+</ul>
+<ul>
+<strong>© 2016 Allstate Insurance Company</strong>
+<br>All Rights Reserved</ul>
+<ul>
+<li>
+<ul>
+<li>Corporate Info</li>
+<li>Newsroom</li>
+<li>Allstate Investments</li>
+<li>Investor Relations</li>
+<li>Corporate Responsibility</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Quick Links</li>
 <li>Auto Insurance</li>
 <li>Home Insurance</li>
 <li>Claims</li>
-<li>Allstate Agents</li>
-<li>Allstate Blog</li>
-<li>Allstate Apps</li>
-</ul> Social
-<ul>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
+<li>Agent Locator</li>
 </ul>
-<p>
-<br>
-<br>
-<br>
-</p>
-<p>
-<strong>© 2015 Allstate Insurance Company</strong>
-<br>All Rights Reserved </p>
+</li>
+</ul>
 <ul>
-<li>NY Domestic Violence Notice</li>
+<li>SITE MAP</li>
 <li>TERMS OF USE</li>
 <li>PRIVACY &amp.
 SECURITY</li>
+<li>NY Domestic Violence Notice</li>
 <li>UNDERWRITING COMPANIES</li>
-<li>SITE MAP</li>
 <li> AD CHOICES</li>
 </ul> Oops! You have entered an invalid ZIP.
 Please, try again.
-ZIP Code: Cancel City, Sate <p>Denver, CO</p> Please Wait...Updating Location...<br>It's taking a bit longer than expected.
+Location data not available.
+Please enter zip code.
+ZIP Code: Cancel <br>Use My Current Location City, State <p>Denver, CO</p> Please Wait...Updating Location...<br>It's taking a bit longer than expected.
 Your update should be done soon.
+This feature is not currently available.<br>Please try again later.<br> ECC Monitor: OK

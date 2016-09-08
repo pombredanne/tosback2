@@ -13,29 +13,6 @@ Pour en savoir plus et paramétrer vos cookies...
 <li> Annuaire<br>inversé </li>
 <li> Petites<br>Annonces
 </li>
-<li> Guides<br>Pratiques Fermer le menu Guides pratiques <p> Les Guides Pratiques PagesJaunes</p>
-<p> Consultez des <strong>services</strong>, des <strong>professionnels</strong> autour de vous et plus de <strong>350 guides et 600 fiches pratiques</strong> rédigés par des spécialistes pour vous aider à mieux comprendre pour bien choisir...</p>
-<ul>
-<li>
-<strong>Maison et Travaux</strong>
-<br> Rénover, Décorer, Aménager sa maison ?<br>Voir les 115 guides </li>
-<li>
-<strong>Jardin</strong>
-<br> Aménager, Cultiver, Entretenir votre jardin ?<br>Voir les 25 guides </li>
-<li>
-<strong>Immobilier</strong>
-<br> Acheter, Vendre, Louer un bien immobilier ?<br>Voir les 16 guides </li>
-<li>
-<strong>Santé et Beauté</strong>
-<br> Rester en bonne santé, Prendre soin de soi ?<br>Voir les 75 guides </li>
-<li>
-<strong>Argent</strong>
-<br> Gérer son argent, Assurer son patrimoine ?<br>Voir les 35 guides </li>
-<li>
-<strong>Consultez tous les guides</strong>
-<br> Auto-Moto, BtoB, Démarches, Emploi, High-Tech...<br>+ de 300 guides </li>
-</ul>
-</li>
 <li> Plus de<br>services Fermer le menu Plus de services <p> Plus de services PagesJaunes</p>
 <ul>
 <li>Consultez l'information pratique de votre ville<ul>
@@ -63,14 +40,6 @@ Pour en savoir plus et paramétrer vos cookies...
 <li> Découvrez les autres modes de recherche<ul>
 <li> Recherche détaillée </li>
 <li> Recherche par le nom France Entière </li>
-<li> Recherche de pros avec vidéos </li>
-</ul>
-</li>
-</ul>
-<ul>
-<li> Appelez à l'étranger<ul>
-<li> Annuaires du monde </li>
-<li> Indicatifs internationaux </li>
 </ul>
 </li>
 </ul>
@@ -103,29 +72,6 @@ Pour en savoir plus et paramétrer vos cookies...
 </li>
 </ul>
 </li>
-</ul>
-<ul>
-<li> Se connecter <p>Le compte PagesJaunes</p>
-<p>Bénéficiez vite de tous les services du compte ! Ecrivez des avis sur des professionnels, créez votre carnet d'adresses, mettez à jour vos coordonnées, recevez toute l'actualité de votre ville...</p>
-<p> S'identifier à son compte PagesJaunesS'identifier à son compte PagesJaunes</p>
-<p>Avec Facebook</p>
-<p>
-<strong>Connectez vous à votre compte PagesJaunes en 1 clic.</strong>
-</p>
-<p>Plus de mot de passe à retenir.</p>
-<p>Aucun contenu ne sera publié sans votre permission.</p> Se connecter avec Facebook <p>Avec vos identifiants PagesJaunes</p>
-<p> S'identifier</p>
-<p> Se créer un compte PagesJaunesSe créer un compte PagesJaunes</p>
-<p>Avec Facebook Connect</p>
-<p>
-<strong>Créez votre compte PagesJaunes via Facebook en quelques secondes.</strong>
-</p>
-<p>Plus facile et rapide.</p>
-<p>Aucun contenu ne sera publié sans votre permission.</p> Créer un compte avec Facebook <p>Sans Facebook Connect</p>
-<p> Se créer un compte PagesJaunes</p>
-<p>
-<strong>Professionnels</strong>, ��valuez la performance de votre communication, optimisez votre r��f��rencement local et enrichissez vos contenus sur PagesJaunes Business Center.
-</p> Fermer </li>
 </ul> Les recherches PagesJaunes <p>
 </p> Mentions légales - Conditions d'utilisation Le site http://www.pagesjaunes.fr/ est édité par : <p>
 <strong>PagesJaunes</strong>

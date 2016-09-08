@@ -1,9 +1,8 @@
- Explore Our Sites...
+ Fen.com - Privacy Statement Explore Our Sites...
      Family Education Network Home PARENTS      FamilyEducation TEACHERS      TeacherVision      Quiz Lab      MyGradeBook REFERENCE      Infoplease      Fact Monster KIDS      FEkids      FunBrain      Fact Monster <br> Parents<br> Teachers<br> Kids<br> Teens<br> Reference<br>
-<br> Atlas<br> Encyclopedia<br> Almanacs<br> Dictionary<br>
+<br>Atlas<br>Encyclopedia<br>Almanacs<br>Dictionary<br>
 <br>
-<br> About Family Education Network<br> About Our Partners
-<br> Help <br> PRIVACY STATEMENT (OCTOBER 2013) <p>FEN, a division of Pearson Education, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors.
+<br> About Family Education Network<br> About Our Partners <br> Help<br> PRIVACY STATEMENT (1/2016) <p>FEN, a division of Sandbox Networks, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors.
 We are also extremely sensitive to family and educator concerns about children's safety and information related to them.
 We want you to know about and understand the measures we have taken to keep the websites and online services provided by FEN a safe and secure environment for everyone.
 This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information.
@@ -18,7 +17,7 @@ Any use of our site by you subsequent to such notice shall be deemed to constitu
 <p>If you have any questions or concerns about this privacy statement, or your dealings with FEN, please: </p>
 <p>a) E-mail us at Customer Support.
 </p>
-<p>b) Write to us at: FEN, 501 Boylston St, Suite 900, Boston, MA 02116.
+<p>b) Write to us at: FEN, 50 Congress St, Suite 1025, Boston, MA 02109.
 or</p>
 <p>c) Call us at: 1-800-498-3264.
 </p> Information We Collect From You <p>When you use this Website, we may collect personal information and anonymized information from you.
@@ -62,10 +61,10 @@ Knowing this information helps us continually improve the online experience for 
 </p>
 <p>FEN may also use third party vendors who supply applications, web hosting and other technologies for this Website that may have access to your personal information and anonymized information but they will never use such information for any other purpose except to provide services in connection with this site.
 </p>
-<p>FEN will not share any personal information about you with any third party (a party not affiliated with Pearson Education, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law.
+<p>FEN will not share any personal information about you with any third party (a party not affiliated with Sandbox Networks, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law.
 (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws.
 (c) when disclosure is directed or consented to by the registered member who has inputted the personal information.
-(d) in the event that Pearson Education, Inc.
+(d) in the event that Sandbox Networks, Inc.
 (the owner of FEN) or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred.
 or (e) in limited circumstances, FEN may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003).
 </p> Helpful Explanations <p>An IP address is a number that is assigned automatically to your computer whenever you use the World Wide Web.
@@ -111,5 +110,28 @@ If you cannot find the privacy policy of any of these sites via a link from that
 Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data.
 When you use your credit card to make a purchase transaction with FEN, your transaction is secure.
 Our servers use encryption technology to safeguard your personal information and privacy.
-However, you should understand that "perfect security" cannot be guaranteed.</p> © 2000-2015 Pearson Education, Inc.
+However, you should understand that "perfect security" cannot be guaranteed.</p> Analytics Tools We Use <p>We are committed to ensuring that the Website is valuable and useful to our users.
+To assist us in this, we have implemented the Google, Inc.'s Google Analytics demographics and interest reporting features on the Website.
+These tools allow us to review anonymous data regarding the gender, age and interests of Website visitors and collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID, and other similar information, all to adapt the Website to better reflect our users' needs.
+Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format.
+This means we cannot identify what information is about you, and we will not try to figure it out.</p>
+<p>The Google Analytics demographics and interest reporting features may collect information on the Website and other online or mobile products and/or services and may combine the information collected with other information Google has independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services.
+Google collects and uses information under its own privacy policies.
+Google utilizes the data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
+Google may use the data collected to contextualize and personalize the ads of its own advertising network.</p>
+<p>The Google Analytics demographics and interest reporting features tool uses "cookies" which are text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form.
+The information generated by the cookie about your use of the Website (including IP address) is transmitted to Google.
+This information is then used to evaluate visitors' use of the Website and to compile statistical reports on Website activity.</p>
+<p>You may opt out of Google Advertising by visiting the Google advertising opt-out page or you may opt out of Google Analytics by visiting the Google Analytics opt-out page.</p>
+<p>Google has additional information available about their Remarketing Privacy Guidelines, and Restrictions.</p>
+<p>You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/.</p>
+<p>Use of Intercom Services: We use third-party analytics services to help understand your usage of the Site.
+In particular, we provide a limited amount of information on our users (such as email address and sign-up date) to Intercom, Inc.
+("Intercom") and utilize Intercom to collect user data for analytics purposes.
+Intercom analyzes usage of the Site and tracks FEN's relationship with you so we can improve your experience on the Site.
+We also use Intercom as a medium for communications with you, either through email, or through messages within the Site.
+As part of FEN's service agreement with Intercom, Intercom collects publicly available contact and social information related to our users, such as email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, also to enhance such your experience on the Site.
+For more information on the privacy practices of Intercom, please visit http://docs.intercom.io/privacy.
+Intercom's services are governed by Intercom's terms of use which can be found at http://docs.intercom.io/terms.
+You can always opt out of having such information collected by or submitted to Intercom by contact us and making such request in writing.</p> © 2000-2016 Sandbox Networks, Inc.
 All rights reserved <br>  

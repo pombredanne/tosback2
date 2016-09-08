@@ -1,20 +1,28 @@
  Wix <ul>
+<li>I Need a Site for...</li>
+<li>
+</li>
+<li> {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO_AND_CV":"Portfolio &amp.
+CV","BEAUTY_AND_WELLNESS":"Beauty &amp.
+Wellness","BLOG":"Blog","OTHER":"Other"} </li>
 <li>My Sites</li>
 <li>Templates</li>
 <li> Explore <ul>
-<li> Get Inspired See real users' examples </li>
-<li> Features Why choose Wix? </li>
-<li> App Market Add popular web services </li>
+<li> Get Inspired </li>
+<li> Features </li>
+<li> App Market </li>
 </ul>
 </li>
+<li>Features</li>
+<li>Explore</li>
 <li> Subscriptions <ul>
-<li> Premium Plans Pick the best for you </li>
-<li> Domains Get your own web address </li>
-<li> Mailboxes Add personalized emails </li>
+<li> Premium Plans </li>
+<li> Domains </li>
+<li> Mailboxes </li>
 </ul>
 </li>
+<li>Templates</li>
 <li>Support</li>
-<li>#ItsThatEasy</li>
 </ul> Sign In Hi, {username} <ul>
 <li>Account Settings</li>
 <li>Billing &amp.
@@ -27,7 +35,6 @@ Payments</li>
 <ul>
 <li>Get Started</li>
 <li>Home</li>
-<li>#ItsThatEasy</li>
 <li>Features</li>
 <li>Domains</li>
 <li>Mailboxes</li>
@@ -35,18 +42,6 @@ Payments</li>
 <li>Contact Us</li>
 <li>Wix Blog</li>
 <li>Wix Stories</li>
-</ul> Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide.
-We make it simple for everyone
-to create a beautiful, professional web presence.
-No creative limits, no coding skills needed to get your business online.
-<ul>
-<li>Facebook</li>
-<li>Twitter</li>
-<li>Google+</li>
-<li>Youtube</li>
-<li>Pinterest</li>
-<li>Instagram</li>
-<li>Linkedin</li>
 </ul>
 <ul>
 <li>PRODUCT</li>
@@ -59,6 +54,7 @@ No creative limits, no coding skills needed to get your business online.
 <li>App Market</li>
 <li>Domains</li>
 <li>Developers</li>
+<li>Email Marketing</li>
 </ul>
 <ul>
 <li>COMPANY</li>
@@ -67,9 +63,9 @@ No creative limits, no coding skills needed to get your business online.
 <li>Jobs</li>
 <li>Design Assets</li>
 <li>Terms of use</li>
-<li>Privacy</li>
+<li>App Market Terms</li>
+<li>Privacy Policy</li>
 <li>Abuse</li>
-<li>Resellers</li>
 <li>Affiliates</li>
 <li>Contact Us</li>
 </ul>
@@ -84,13 +80,21 @@ No creative limits, no coding skills needed to get your business online.
 <li>Google+</li>
 <li>Pinterest</li>
 <li>Youtube</li>
+<li>Linkedin</li>
 </ul>
 <ul>
 <li>SUPPORT</li>
 <li>Support Center</li>
-<li>Training Videos</li>
-</ul> Promote your business, showcase your art, set up an online shop or just test out new ideas.
-Wix is a website builder that has everything you need to build a fully-personalized, high-quality free website.
-Browse our collection of beautiful website templates.
-You'll find loads of stunning designs, ready to be customized.
-© 2006-2014 Wix.com, Inc   
+</ul> Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide.
+We make it easy for everyone to create a beautiful, professional web presence.
+Promote your business, showcase your art, set up an online shop or just test out new ideas.
+The Wix website builder has everything you need to create a fully personalized, high-quality free website.
+© 2006-2016 Wix.com, Inc <ul>
+<li> Facebook</li>
+<li> Twitter</li>
+<li> Google+</li>
+<li> Youtube</li>
+<li> Pinterest</li>
+<li> Instagram</li>
+<li> Linkedin</li>
+</ul> 

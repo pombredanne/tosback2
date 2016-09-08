@@ -5,7 +5,7 @@ Security <ul>
 <li> Locations </li>
 <li> Contact Us </li>
 <li> Help </li>
-</ul> Search Bank of America <ul>
+</ul> Search Term <ul>
 <li> Overview </li>
 <li> Privacy link and menu.
 Press enter to navigate to this link.
@@ -31,17 +31,12 @@ Press enter to navigate to this link.
 Press control + space to open submenu.
 To move through submenu items press tab and then press up or down arrow.
 Report a Suspicious Email Report a Lost or Stolen Card Resolve Identity Theft Understand Data Compromise Resources FAQs Glossary External Links End of submenu </li>
-</ul> Bank of America Privacy &amp.
-Security Comprehensive protection.
-Confident banking.
-<p>We're committed to keeping your personal and financial information protected and secure.</p>
-<strong>Privacy</strong>Learn how we collect and use information.
-<strong>Card security</strong>Total Security Protection<sup>®</sup> on all cards.
-<strong>Mobile security</strong>Convenience and security <strong>Email fraud</strong>Learn to recognize it in your inbox.
-Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security <p>As an Online Banking customer, you're entitled to a free year of McAfee<sup>®</sup> Internet Security ›› </p> Lost or stolen card? Report a lost or stolen card <p>Be sure to notify us promptly.
-You won't be liable for fraudulent activity ›› </p> Got questions? Protecting Your Information FAQs <p>We have answers.
-Explore our FAQs about privacy and security ›› </p>
-<ul>
+</ul> Bank of America Privacy and Security Get information about privacy and security at Bank of America.
+Learn how we can help you protect your accounts and what you can do to help stay secure.
+bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Privacy and Security Constantly advancing our technology <p>How we help keep your everyday banking secure:</p>
+<p>Protect your privacy</p>
+<p>Prevent card fraud</p>
+<p>Safeguard info across devices</p> Report a lost or stolen card Report a suspicious email What you can do to stay secure: Learn about your Security Center Learn how to set alerts, update Passcode and manage security—all in one place Set your privacy choices Manage marketing and information-sharing settings Help ensure you're on the real Bank of America site Know what to look for before you sign in Get a free online security tool Find out how to get Trusteer Rapport fraud protection <ul>
 <li> U.S.
 Online Privacy Notice </li>
 <li> U.S.
@@ -145,13 +140,15 @@ To learn more about this practice and your choices in connection with it, see th
 <strong>Online Behavioral Advertising:</strong> If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may opt out of online behavioral advertising.</p>
 <p>Opting out also means that the online content and advertising you receive on our non-servicing sites (i.e.
 before sign-in) will be untailored and will not be based on your online behavior or your relationship.</p>
-<p>Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America.  When accessing online account servicing areas (i.e.
-after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.  In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements.
+<p>Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America.
+When accessing online account servicing areas (i.e.
+after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.
+In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements.
 See <strong>Important Reminder</strong> section below.</p>
 <p>
 <strong>Bank managed Direct Marketing:</strong>  If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing choices online  or:</p>
 <ul>
-<li>by telephone at 1.888.341.5000 -our menu will prompt you through the choices,</li>
+<li>by telephone at 888.341.5000 — our menu will prompt you through the choices,</li>
 <li>through your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer) or a representative at a banking center</li>
 </ul>
 <p>
@@ -220,7 +217,7 @@ No
 We don't share To limit our sharing <ul>
 <li>Call 888.341.5000 - our menu will prompt you through your choices </li>
 <li>Visit us online: bankofamerica.com/privacy </li>
-<li>Talk to a banking center associate</li>
+<li>Talk to a financial center associate</li>
 <li>Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)</li>
 </ul>
 <p>
@@ -234,7 +231,7 @@ When you are <strong>
 However, you can contact us at any time to limit our sharing.</p> To limit direct marketing contact <ul>
 <li>Call 888.341.5000 - our menu will prompt you through your choices </li>
 <li>Visit us online: bankofamerica.com/privacy </li>
-<li>Talk to a banking center associate</li>
+<li>Talk to a financial center associate</li>
 <li>Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)</li>
 </ul>
 <p>
@@ -243,8 +240,8 @@ However, you can contact us at any time to limit our sharing.</p> To limit direc
 Your telephone and postal mail opt-out choices will last for five years, subject to applicable law.
 Even if you limit direct marketing, we may still contact you to service your account or as otherwise allowed by law.</p> Questions? <p>Call 888.341.5000 or go to bankofamerica.com/privacy</p> Who we are Who is providing this notice? <p>Bank of America U.S.
 legal entities that utilize the names: Bank of America, Banc of America, U.S.
-Trust, LandSafe or Merrill Lynch, as well as the entities listed in the Bank of America U.S.
-legal entities section.</p> What we do How does Bank of America protect my personal information? <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.
+Trust, LandSafe or Merrill Lynch, as well as the entities listed in the <em>Bank of America U.S.
+legal entities</em> section.</p> What we do How does Bank of America protect my personal information? <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.
 These measures include computer safeguards and secured files and buildings.
 For more information visit bankofamerica.com/security or ml.com/privacy.</p> How does Bank of America collect my personal information? <p>We collect your personal information, for example, when you:</p>
 <ul>
@@ -254,28 +251,25 @@ For more information visit bankofamerica.com/security or ml.com/privacy.</p> How
 </ul>
 <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p> Why can’t I limit all sharing? <p>Federal law gives you the right to limit some but not all sharing related to:</p>
 <ul>
-<li>affiliates' everyday business purposes—information about your creditworthiness </li>
+<li>affiliates’ everyday business purposes—information about your creditworthiness </li>
 <li>affiliates from using your information to market to you </li>
 <li>nonaffiliates to market to you </li>
 </ul>
 <p>State laws and individual Bank of America companies may give you more rights to limit sharing.
 See <em>Other important information</em> section for your rights under state law.</p> What happens when I limit sharing for an account I hold jointly with someone else? <p>Your choices will apply to you alone unless you tell us otherwise.
-However, your choice to limit sharing with nonaffiliates to market to you for credit card accounts or Sponsored Accounts will apply to all joint account holders.</p>
-<p>If you have more than one credit card account or Sponsored Account and you choose to opt out, you will need to do so for each account.</p> Definitions Affiliates <p>Companies related by common ownership or control.
+However, your choice to limit sharing with nonaffiliates to market to you for credit card accounts or Sponsored Accounts will apply to all joint account holders.
+If you have more than one credit card account or Sponsored Account and you choose to opt out, you will need to do so for each account.</p> Definitions Affiliates <p>Companies related by common ownership or control.
 They can be Financial and nonfinancial companies.</p>
 <ul>
-<li>Our affiliates include companies that utilize the names Bank of America.
-Banc of America.
-U.S.
-Trust.
-LandSafe or Merrill Lynch, financial companies such as General Fidelity Life Insurance Company.
+<li>Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S.
+Trust, LandSafe or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
 </li>
 </ul> Nonaffiliates <p>Companies not related by common ownership or control.
-They can be Financial and nonfinancial companies.</p>
+They can be financial and nonfinancial companies.</p>
 <ul>
 <li>Nonaffiliates we share with can include financial services companies such as insurance agencies or mortgage brokers, nonfinancial companies such as retailers, travel companies and membership groups, other companies such as nonprofit groups.
 </li>
-</ul> Joint Marketing <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+</ul> Joint marketing <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
 <ul>
 <li>Our joint marketing partners include financial service companies.
 </li>
@@ -291,7 +285,7 @@ You may be placed on our internal Do Not Call List by following the directions i
 Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E.
 Washington St., Suite 3900, Las Vegas, NV 89101.
 Phone number: 702.486.3132.
-email: BCPINFO@ ag.state.nv.us.
+email: BCPINFO@ag.state.nv.us.
 Bank of America, P.O.
 Box 25118, FL1-300-01-29, Tampa, FL 33633-5118.
 Phone number: 888.341.5000.
@@ -321,15 +315,22 @@ If you do not agree with our actions, you may send us a statement.</p>
 An adverse underwriting decision is where we decline your application for insurance, offer to insure you at a higher than standard rate or terminate your coverage.</p> Bank of America U.S.
 legal entities <p>Bank of America U.S.
 legal entities that utilize the names: Bank of America, Banc of America, U.S.
-Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation, The Princeton Retirement Group, Inc.</p>
+Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.</p>
 <p>Rev.
-01/2015</p> Manage your marketing and information-sharing privacy choices Best overall —<br> for 9 straight years <p>
-<strong>Bank of America held the title of best overall provider of protection against identity fraud</strong> for its ninth consecutive survey year.
+01/2016</p> Browser check <p>Browser in use:<br> </p>
+<p>Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure</p>
+<p>Review requirements</p> Hide More Resources <ul>
+<li>Online and Mobile Banking Security Guarantee</li>
+<li>Watch our video "Keeping Your Financial Info Safe"</li>
+</ul> Hide Protect your PC <ul>
+<li>Get one free year of McAfee<sup>®</sup> Internet Security</li>
+</ul> Hide FAQs <ul>
+<li>Review our FAQs</li>
+</ul>   <p>Best overall</p>
+<p> For 9 years in a row, Bank of America has earned the respected and coveted Best Overall Identity Safety in Banking Award byJavelin Strategy &amp.
+Research, the nation's leading provider of financial institution insights.
 The award is based on strong performance in the categories of fraud prevention, detection and resolution.
-</p> Browser check <p>Browser in use:</p>
-<p> </p>
-<p>Congratulations! Your internet browser meets our security requirements Please update your Internet browser to ensure your information is secure</p>
-<p>Review our browser security requirements.</p>   Home Accessible Banking Privacy &amp.
+</p> Home Accessible Banking Privacy &amp.
 Security Careers Site Map Advertising Practices Advertising Practices <p>We strive to provide you with information about products and services you might find interesting and useful.
 Relationship-based ads and online behavioral advertising help us do that.</p>
 <p>Here's how it works: We gather information about your online activities, such as the searches you conduct on our Sites and the pages you visit.
@@ -342,12 +343,11 @@ These ads are based on your specific account relationships with us.</p>
 <p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.</p>
 <p>Bank of America, N.A.
 Member FDIC.
-Equal Housing Lender <br>© 2015 Bank of America Corporation.
-All rights reserved.</p> Important Notice <p>
-<strong>You're continuing to another website</strong>
+Equal Housing Lender <br>© 2016 Bank of America Corporation.</p> Important Notice <p>
+<strong>You're going to another website</strong>
 </p>
-<p>You're continuing to another website that Bank of America doesn't own or operate.
-Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p> Continue Return to Bank of America Opt out of online behavioral advertising <p>When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America.
+<p>Before you go, we want you to know the site owner is responsible for what's on their site.
+Also, their privacy practices and level of security may be different from ours, so please review their policies.</p> Continue Go back to Bank of America Opt out of online behavioral advertising <p>When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America.
 In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.</p>
 <p>Opting out also means the online content and advertising you receive on our non-servicing sites (before you sign in) will be untailored and will not be based on your online behavior or your relationship with us.</p>
 <p>When accessing online account servicing areas (after you sign in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.</p>

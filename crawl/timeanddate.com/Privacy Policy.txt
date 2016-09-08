@@ -1,14 +1,25 @@
- Register | Log in | Customize Menu<ul>
+ Menutimeanddate.com Search × Site / Articles City / Country Social × Share this page / Follow us on: Facebook TweetFollow Twitter Google+ Visit us on: FacebookTwitterGoogle <ul>
 <li>
-Home<ul>
+My accountBack<ul>
+<li>My Location</li>
+<li>My Units</li>
+<li>My Events</li>
+<li>My World Clock</li>
+<li>Log in</li>
+<li>Register</li>
+</ul>
+</li>
+<li>
+HomeBack<ul>
 <li>Newsletter</li>
 <li>About Us</li>
 <li>Site Map</li>
+<li>Account/Settings</li>
 <li>Article Topics</li>
 </ul>
 </li>
 <li>
-World Clock<ul>
+World ClockBack<ul>
 <li>Main World Clock</li>
 <li>Extended World Clock</li>
 <li>Personal World Clock</li>
@@ -17,7 +28,7 @@ World Clock<ul>
 </ul>
 </li>
 <li>
-Time Zones<ul>
+Time ZonesBack<ul>
 <li>Time Zone Converter</li>
 <li>International Meeting Planner</li>
 <li>Event Time Announcer</li>
@@ -31,34 +42,36 @@ Time Zones<ul>
 </ul>
 </li>
 <li>
-Calendar<ul>
+CalendarBack<ul>
 <li>Calendar Info</li>
-<li>Calendar 2015</li>
 <li>Calendar 2016</li>
+<li>Leap Year</li>
+<li>Calendar 2017</li>
 <li>Monthly Calendar</li>
-<li>Easy-Print PDF Calendar </li>
-<li>Add your own Calendar Events</li>
+<li>Printable PDF Calendar </li>
+<li>Add Your Own Calendar Events</li>
 <li>Calendar Creator</li>
 <li>Advanced Calendar Creator</li>
 <li>Holidays Worldwide</li>
+<li>On This Day in History</li>
 <li>Calendar Articles</li>
 </ul>
 </li>
 <li>
-Weather<ul>
+WeatherBack<ul>
 <li>Worldwide</li>
 <li>Local Weather</li>
-<li>2-week Forecast</li>
-<li>Hour-by-hour</li>
+<li>2-Week Forecast</li>
+<li>Hour-by-Hour</li>
 <li>Past Week</li>
 </ul>
 </li>
 <li>
 Sun &amp.
-Moon<ul>
+MoonBack<ul>
 <li>Sun Calculator</li>
 <li>Moon Calculator</li>
-<li>Moonphases</li>
+<li>Moon Phases</li>
 <li>Eclipses</li>
 <li>Seasons</li>
 <li>Day and Night Map</li>
@@ -67,7 +80,7 @@ Moon<ul>
 </ul>
 </li>
 <li>
-Timers<ul>
+TimersBack<ul>
 <li>Countdown to Any Date</li>
 <li>New Year Countdown</li>
 <li>Timer</li>
@@ -75,7 +88,7 @@ Timers<ul>
 </ul>
 </li>
 <li>
-Calculators<ul>
+CalculatorsBack<ul>
 <li>Date to Date Calculator (duration)</li>
 <li>Business Date to Date (exclude holidays)</li>
 <li>Date Calculator (add / subtract)</li>
@@ -90,47 +103,50 @@ Calculators<ul>
 </li>
 <li>
 Apps &amp.
-API<ul>
-<li>iPad Apps</li>
-<li>iPhone Apps</li>
+APIBack<ul>
+<li>iOS Apps</li>
 <li>Android Apps</li>
-<li>Windows 8 Apps</li>
+<li>Windows App</li>
 <li>Free Clock</li>
 <li>Free Countdown</li>
 <li>API for Developers</li>
 </ul>
 </li>
 <li>
-Free Fun<ul>
-<li>Free Clock for your site</li>
-<li>Free Countdown for your site</li>
+Free FunBack<ul>
+<li>Free Clock for Your Site</li>
+<li>Free Countdown for Your Site</li>
 <li>Word Clock</li>
 <li>Alternative Age Calculator</li>
 <li>Date Pattern Calculator</li>
 <li>Fun Fact Articles</li>
 </ul>
 </li>
-</ul> Newsletter About Us Site Map Article Topics Home &gt.
-Site information &gt.
-Privacy Statement for timeanddate.com +1 this page: Follow us on Google+: Tweet about this page:
-Tweet
-Follow us on twitter:
-Follow @timeanddate Like/share this page: Follow us on facebook: Privacy Statement for timeanddate.com
-<p>timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy.
-This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com.</p>
+</ul> Newsletter About Us Site Map Account/Settings Article Topics Home   Site information   Privacy Statement for timeanddate.com
+Privacy Statement for timeanddate.com
+<p>We have a firm commitment to privacy at timeanddate.com.</p>
+<p>This page discloses our information gathering and dissemination practices for this website: <b>www.timeanddate.com.</b>
+</p>
+IP Address and Cookies
 <p>We use your IP address to help diagnose problems with our server and to administer our website.
 Your IP address is used to gather broad demographic information.
 We use cookies to deliver content specific to your interests.</p>
+Registration and Servers
 <p>If you register with the site, your email address is used as your login name.
-Your email address will not be shared with a third party.
-We will only send an email to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.</p>
+Your email address will not be sold nor distributed to any third party, but for technical purposes, it is shared with vendors working on our behalf.
+We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.</p>
+<p>Our servers are located in USA, Germany, Singapore, and Norway.
+We also rely on third parties to host our services and our infrastructure, and to distribute our content.
+Although we have security measures in place, we cannot guarantee full privacy.</p>
+<p>We recommend that you do not add sensitive information to the calendars.</p>
+External Links
 <p>This site contains links to other sites.
-<b>timeanddate.com</b> is not responsible for the privacy practices or the content of such websites.</p>
+timeanddate.com is not responsible for the privacy practices or the content of such websites.</p>
 <p>Our online surveys may ask visitors for contact information (such as their email address).
 The customer's contact information is used to contact the visitor when necessary.</p>
 <p>We use third-party advertising companies to serve ads when you visit our Web site.
 These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
-If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.</p>
+For more information about this practice and your possibility to opt out, click here.</p>
 Third-party Privacy Policies
 <ul>
 <li>Google, as a third party vendor, uses cookies to serve ads on your site.</li>
@@ -138,8 +154,36 @@ Third-party Privacy Policies
 <li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 </li>
 </ul>Contacting the Website
-<p>If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:</p>
-Time and Date AS<br>PO Box 27 Forus<br>NO-4064 Stavanger<br>Norway<br>webmaster@timeanddate.com<br>Fax: +47 5163 2711 <p>Copyright © Time and Date AS 1995–2015.
+<p>If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:</p>
+Time and Date AS<br>PO Box 27 Forus<br>NO-4064 Stavanger<br>Norway<br>webmaster@timeanddate.com
+timeanddate.com
+<ol>
+<li> About Us </li>
+<li> Contact Us </li>
+<li> Feedback </li>
+<li> Privacy Statement </li>
+<li> Copyright </li>
+<li> Logo Use </li>
+<li> Support Us </li>
+<li> Work Here </li>
+<li> Advertise </li>
+<li> Disclaimer </li>
+</ol>
+<p> Index </p>
+You might also like
+UTC &amp.
+GMT â Same Difference?
+<p>Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC).
+But GMT is a time zone and UTC is a time standard.
+more</p>Add events and times to your own calendar with just 1 click
+<p>Add your results from some of timeanddate.com's services into your own calendar with just a click of one button.
+Services include the Time Zone Converter, Event Time Announcer, and Meeting Planner.
+more</p>Magnetic Declination
+<p>A compass needle doesn't point to the geographical North Pole but to magnetic north.
+Did you know that it usually doesn't point to the magnetic North Pole either? more</p>Time Zones and DST in Europe
+<p>Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia.
+more</p>
+<p>Copyright © Time and Date AS 1995–2016.
 All rights reserved.</p>
 <p>
-</p> Feedback | Linking Policy | About Us | Advertising | Disclaimer | Privacy | Sitemap 
+</p> Feedback | About Us | Advertising | Disclaimer | Privacy | Sitemap 

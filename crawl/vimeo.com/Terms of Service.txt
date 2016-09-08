@@ -1,11 +1,10 @@
- Terms of Service <p>Last Updated: December 8, 2014</p>
-<p>
-<strong>PLEASE READ THIS DOCUMENT CAREFULLY.
-Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com, Cameo.tv, and other Vimeo-operated sites (collectively, the "Vimeo Site") and related mobile and connected TV applications and online services (collectively and including the Vimeo Site, the "Vimeo Service").
+ Terms of Service <p>Last Updated: July 13, 2016</p>
+<p>**PLEASE READ THIS DOCUMENT CAREFULLY.
+Vimeo, Inc.
+("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service").
 By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo.
 If you do not wish to be bound by this Agreement, do not use the Vimeo Service.
-</strong>
-</p> Content <ol>
+**</p> Content <ol>
 <li>Who May Use the Vimeo Service</li>
 <li>License to Use the Vimeo Service</li>
 <li>Privacy</li>
@@ -24,7 +23,7 @@ Account Deletion</li>
 <li>Compliance Notice Pursuant to 18 U.S.C.
 § 2257</li>
 <li>General Provisions</li>
-</ol>1.
+</ol> 1.
 Who May Use the Vimeo Service <p>
 <strong>AGE REQUIREMENT:</strong> You must be at least 13 years old to use the Vimeo Service.
 If you are at least 13, but are still a minor (this depends on where you live), you must have your parent or legal guardian's permission to use the Vimeo Service.
@@ -45,17 +44,14 @@ This license is personal to you and may not be assigned or sublicensed to anyone
 <p>
 <strong>COMMERCIAL USE:</strong> You may not use the Vimeo Service for commercial purposes unless:</p>
 <ul>
-<li>
-<p>You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines.
-or</p>
-</li>
-<li>
-<p>You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.</p>
-</li>
+<li>You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines.
+or</li>
+<li>You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.</li>
 </ul>
+<p>If you sell Vimeo-hosted videos directly to users other than through Vimeo On Demand, such usage will be deemed an "Application" under our API Terms (whether you use our API or not) and will be subject to our API Terms.</p>
 <p>
-<strong>RESTRICTIONS:</strong> Except as expressly permitted by Vimeo in writing, you will not reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service.
-Nor will you take any measures to interfere with or damage the Vimeo Service.
+<strong>RESTRICTIONS:</strong> Except as expressly permitted by Vimeo in writing, you will not scrape, reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service or any source code therein.
+Nor will you attempt to circumvent any of Vimeo's technical measures or take any measures to interfere with or damage the Vimeo Service.
 All rights not expressly granted by Vimeo are reserved.</p>
 <p>
 <strong>MOBILE APP:</strong> Your use of the Vimeo Service through one of our mobile applications is also subject to our Mobile App Addendum.</p> 3.
@@ -66,7 +62,7 @@ Please review the Privacy Policy to learn about:</p>
 <li>What we use that information for.
 and</li>
 <li>With whom we share that information.</li>
-</ul>4.
+</ul> 4.
 Membership <p>
 <strong>REGISTRATION:</strong> To fully use the Vimeo Service, you must register as a member by providing a user name, password, and valid email address.
 You must provide complete and accurate registration information to Vimeo and notify us if your information changes.
@@ -76,18 +72,21 @@ If you are a business, government, or non-profit entity, the person whose email 
 If you are a business, government, or non-profit entity, you must use the actual name of your organization.
 You may not use someone else's name, a name that violates any third party right, or a name that is obscene or otherwise objectionable.</p>
 <p>
-<strong>ACCOUNT SECURITY:</strong> You are responsible for all activity that occurs under your account, including any activity by unauthorized users.
-You must not allow others to use your account.
-You must safeguard the confidentiality of your password.
+<strong>ACCOUNT SECURITY:</strong> You are responsible for all activity that occurs under your account, including any activity by authorized or unauthorized users.
+You must not allow others to use your account credentials and you must safeguard the confidentiality of those credentials.
 If you are using a computer that others have access to, you must log out of your account after using the Vimeo Service.
-If you become aware of an unauthorized access to your account, you must change your password and notify us immediately.</p> 5.
+If you become aware of an unauthorized access to your account, you must change your password and notify us immediately.</p>
+<p>
+<strong>SEAT ACCESS:</strong> If you are a PRO or Business subscriber, you may grant access to your account to other Vimeo members subject to a seat limit.
+You are responsible for the actions of those persons insofar as your account is concerned.
+If you are a Vimeo member who has been granted access to a PRO or Business account, you must comply with the terms of this Agreement in accessing that account.</p> 5.
 Subscriptions and Purchases <p>
 <strong>VIMEO PLUS AND PRO:</strong> In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions.
 Please see our subscription pages for current Plus and PRO features and pricing.
 Features and prices are subject to change.
 Storage limits are calculated based upon source files.
-We may also offer add-on features and packages.
-Vimeo PRO users who wish to obtain additional storage may request a custom account by contacting us here: vimeo.com/help/contact.
+We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps.
+Vimeo PRO users who wish to obtain additional storage capacity, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: vimeo.com/help/contact.
 Additional terms and conditions (to be shown prior to purchase) apply to custom accounts.
 All fees may be subject to taxes.</p>
 <p>
@@ -105,7 +104,7 @@ PRO subscriptions offered beginning on October 15, 2013 may not be available to 
 Unused storage, plays, and other limits do not roll over to subsequent subscription periods.</p>
 <p>
 <strong>END OF SUBSCRIPTION:</strong> When a Vimeo Plus or PRO subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits.
-When a custom subscription ends, the account and its content will be deleted if the subscription is not renewed.</p>
+When a custom or PRO Unlimited subscription ends, the account and its content may be deleted if the subscription is not renewed.</p>
 <p>
 <strong>OTHER PURCHASES:</strong> Purchases of other products and services through the Vimeo Service are subject to our <strong>Payment Addendum</strong> and to other terms and conditions that are presented to you at the time of purchase.</p> 6.
 Term and Termination.
@@ -132,7 +131,7 @@ Content Restrictions <p>You may not upload, post, or transmit (collectively, "su
 <li>Exploits minors;</li>
 <li>Depicts unlawful acts or extreme violence;</li>
 <li>Depicts animal cruelty or extreme violence towards animals;</li>
-<li>Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, gambling, cash gifting, work from home businesses, or any other dubious money-making ventures.
+<li>Promotes fraudulent or dubious business schemes.
 or</li>
 <li>Violates any law.</li>
 </ul>
@@ -232,7 +231,10 @@ No third party shall have any rights hereunder.</p>
 Vimeo may provide all such communications by email or by posting them on the Vimeo Service.
 For support-related inquiries, you may contact us.
 You may send notices of a legal nature to Vimeo at legal[at]vimeo[dot]com or the following address:</p>
-<blockquote> Vimeo, LLC<br> 555 West 18th Street<br> New York, New York 10011<br> Attention: Legal Department </blockquote>
+<blockquote>
+<p>Vimeo, Inc.
+555 West 18th Street New York, New York 10011 Attention: Legal Department</p>
+</blockquote>
 <p>Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or other demands.</p>
 <p>
 <strong>MODIFICATION:</strong> This Agreement may not be modified except by a revised Terms of Service posted by Vimeo on the Vimeo Site or a written amendment signed by an authorized representative of Vimeo.

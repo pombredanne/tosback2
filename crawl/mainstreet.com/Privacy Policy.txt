@@ -21,12 +21,13 @@
 </ul>
 <ul>
 <li>Home</li>
-<li> Credit Cards </li>
 <li> Autos </li>
+<li> Credit Cards </li>
 <li> Retirement </li>
 <li> Mortgages </li>
 <li> Insurance </li>
 <li> Financial Planning </li>
+<li>Video</li>
 <li>Contact Us</li>
 <li>Advertise</li>
 <li>Privacy Policy</li>
@@ -186,5 +187,5 @@ TheStreet reserves the right to modify this policy.</p>
 <li>Privacy Policy</li>
 <li>Terms of Use</li>
 <li>Sitemap</li>
-<li> © 2015 TheStreet Inc.</li>
+<li> © 2016 TheStreet Inc.</li>
 </ul> 

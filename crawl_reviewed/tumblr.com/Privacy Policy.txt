@@ -1,8 +1,11 @@
- Privacy Policy Last Modified: 2014-01-27 <p> Tumblr, Inc.
+ Privacy Policy Last Modified: 2014-01-27 Tumblr is a U.S.
+company and subject only to U.S.
+laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+<p> Tumblr, Inc.
 ("<b>Tumblr</b>," "<b>we</b>," "<b>us</b>," or "<b>our</b>") takes the private nature of your information very seriously.
 Note that Tumblr was acquired by, and is now a wholly-owned subsidiary of, Yahoo! Inc.
 (“<b>Yahoo</b>”) as of June 19, 2013.
-This policy regarding our privacy practices (the "<b>Privacy Policy</b>") describes how we treat the information we collect when you visit and use tumblr.com (the "<b>Site</b>") and/or Tumblr's other domains, products, advertising products, services, and/or content, including our iOS, Android, and Windows Phone mobile applications (collectively with the Site, the "<b>Services</b>").
+This policy regarding our privacy practices (the "<b>Privacy Policy</b>") describes how we treat the information we collect when you visit and use tumblr.com (the "<b>Site</b>") and/or Tumblr's other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "<b>Services</b>").
 When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 please read it carefully.
 </p>
@@ -232,7 +235,7 @@ Like we said before, it can be really, really hard to delete something once it g
 Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 </p>
 Where to Direct Questions or Concerns
-<p> If you have any questions or concerns regarding privacy using the Services, please send us a detailed message.
+<p> If you have any questions or concerns regarding privacy using the Services, send us a detailed message.
 </p>
 Link to Prior Versions
 <p> You will find a link to prior versions of our Privacy Policy below.

@@ -95,10 +95,6 @@ If you make travel reservations with third-party suppliers facilitated by TripAd
 We will securely transmit this information to the supplier of the travel reservation to complete the transaction.
 Please note that the supplier processes your payment, not TripAdvisor, unless otherwise specified.
 You agree to review and be bound by the supplier’s policies and procedures before making a reservation through TripAdvisor.
-</p>
-<p>
-We may offer members the option to save information related to method and choice of payment on our Website.
-If you save such payment details on TripAdvisor, you will be able to add, delete, or modify that information at any time in Account Settings.
 </p> Location Information and Other Information from Devices.
 <p>
 When you use an Application on a Device, we will collect and use information about you in generally similar ways and for similar purposes as when you use the TripAdvisor website.
@@ -238,7 +234,7 @@ You may also be able to modify your privacy settings with these third party soci
 </li>
 <li>
 <u>Companies within our corporate family</u>.
-We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites (including DaoDao.com).
+We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites.
 This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you.
 To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy.
 They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
@@ -360,14 +356,14 @@ If you have questions about this Privacy Policy, please contact us at:
 <p>
 TripAdvisor LLC<br>
 Attn: Legal Department, Privacy Officer<br>
-141 Needham Street<br>
-Newton, MA 02464, USA<br>
+400 1st Avenue<br>
+Needham, MA 02494, USA<br>
 <br>
 </p> Call Recording and Monitoring.
 <p>
 Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
 </p>
-<p>©2015 TripAdvisor LLC.
+<p>©2016 TripAdvisor LLC.
 All rights reserved.<br>
 </p>
 <p>

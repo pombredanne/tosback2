@@ -1,19 +1,12 @@
- Privacybeleid Gegevens die we verzamelen
-Hoe we gegevens gebruiken die we verzamelen
-Duidelijkheid en keuzemogelijkheden
-Gegevens die u deelt
-Uw persoonlijke gegevens openen en bijwerken.
-Gegevens die we delen Beveiliging van gegevens
-Wanneer dit Privacybeleid van toepassing is
-Naleving en samenwerking met toezichthoudende authoriteiten
-Wijzigingen
-Specifieke productbeleidsregels
-Ander nuttig materiaal met betrekking tot privacy en beveiliging Voorbeelden verbergen
+ Welkom bij het Privacybeleid van Google
+<p>Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens.
+Dit Privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en wat we hiermee doen.
+Dit is belangrijk en we hopen dat u de tijd wilt nemen om het beleid zorgvuldig te lezen.
+Vergeet ook niet dat er opties voor het beheren van uw gegevens en het waarborgen van uw privacy en beveiliging beschikbaar zijn in Mijn account.</p> Privacybeleid Voorbeelden verbergen
 Voorbeelden weergeven
 Voorbeelden verbergen
-<p>Laatst aangepast: 19 december 2014 (gearchiveerde versies weergeven)</p>
-<p>Pdf-versie downloaden
-</p>
+<p>Laatst aangepast: 29 augustus 2016 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)</p>
+<p>Pdf-versie downloaden</p>
 <p>U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken.
 Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account aan te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met mensen of het delen van inhoud sneller en gemakkelijker te maken.
 We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
@@ -30,18 +23,20 @@ We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw 
 <p>We hebben geprobeerd het zo eenvoudig mogelijk te houden, maar als u niet bekend bent met termen zoals cookies, IP-adressen, pixeltags en browsers, moet u eerst informatie over deze belangrijke termen lezen.
 Uw privacy is belangrijk voor Google.
 Daarom vragen we u (ongeacht of u een nieuwe of bestaande gebruiker van Google bent) de tijd te nemen ons privacybeleid door te nemen.
-Als u vragen heeft, kunt u deze pagina raadplegen.
+Als u vragen heeft, kunt u contact met ons opnemen.
 </p>
+Bovenkant pagina
 Gegevens die we verzamelen
 <p>We verzamelen gegevens om betere services te kunnen leveren aan al onze gebruikers, van het vaststellen van basisinformatie, zoals de taal die u spreekt, tot meer complexe dingen, zoals welke advertenties u het nuttigst vindt, welke mensen online het belangrijkst zijn voor u of welke YouTube-video's u mogelijk leuk vindt.
 </p>
-<p>We verzamelen gegevens op twee manieren:
+<p>We verzamelen gegevens op de volgende manieren:
 </p>
 <ul>
 <li>
 <p>
 <strong>Gegevens die u aan ons levert.</strong> Voor veel van onze services moet u zich bijvoorbeeld aanmelden voor een Google-account.
 Wanneer u dit doet, vragen we u om persoonlijke gegevens, zoals uw naam, e-mailadres, telefoonnummer of creditcard.
+Deze gegevens worden opgeslagen in uw account.
 Als u optimaal wilt profiteren van de functies voor delen die we aanbieden, kunnen we u ook vragen een openbaar zichtbaar Google-profiel te maken, dat uw naam en foto kan bevatten.
 </p>
 </li>
@@ -104,14 +99,22 @@ Dit nummer en informatie over uw installatie (bijvoorbeeld het type besturingssy
 </li>
 <li>
 <p>
-<strong>Cookies en anonieme id’s</strong>
+<strong>Cookies en vergelijkbare technologieën</strong>
 </p>
-<p>Wij en onze partners gebruiken verschillende technologieën om gegevens te verzamelen en op te slaan wanneer u een Google-service bezoekt, waaronder mogelijk het verzenden van een of meer cookies of anonieme ID's naar uw apparaat.
-We maken ook gebruik van cookies en anonieme ID's wanneer u services gebruikt die we aan onze partners aanbieden, zoals advertentieservices of Google-functies die op andere sites kunnen worden weergegeven.</p>
+<p>Wij en onze partners gebruiken verschillende technologieën om gegevens te verzamelen en op te slaan wanneer u een Google-service bezoekt, waaronder mogelijk het gebruik van cookies of vergelijkbare technologieën om uw browser of apparaat te identificeren.
+We gebruiken deze technologieën ook om gegevens te verzamelen en op te slaan wanneer u services gebruikt die we aanbieden aan onze partners, zoals advertentieservices of Google-functies die op andere sites kunnen worden weergegeven.
+Met ons product Google Analytics kunnen bedrijven en site-eigenaren het verkeer naar hun websites en apps analyseren.
+Wanneer dit product wordt gebruikt in combinatie met advertentieservices, zoals services die de DoubleClick-cookie gebruiken, worden de Google Analytics-gegevens met behulp van Google-technologie gekoppeld (door de Google Analytics-klant of door Google) aan informatie over bezoeken aan meerdere sites.</p>
 </li>
 </ul>
 </li>
-</ul>Hoe we gegevens gebruiken die we verzamelen
+</ul>
+<p>Gegevens die we verzamelen wanneer u bent ingelogd bij Google, evenals gegevens over u die we verkrijgen van partners, kunnen aan uw Google-account zijn gekoppeld.
+Wanneer gegevens zijn gekoppeld aan uw Google-account, behandelen we deze als persoonlijke gegevens.
+Ga naar het gedeelte Duidelijkheid en keuzemogelijkheden van dit beleid voor meer informatie over hoe u gegevens die zijn gekoppeld aan uw Google-account, kunt openen, beheren of verwijderen.
+</p>
+Bovenkant pagina
+Hoe we gegevens gebruiken die we verzamelen
 <p>We gebruiken de gegevens die we uit al onze services verzamelen om de services te leveren, te onderhouden, te beveiligen en te verbeteren, om nieuwe services te ontwikkelen en om Google en onze gebruikers te beschermen.
 We gebruiken deze gegevens ook om gepersonaliseerde inhoud aan u te leveren, zoals relevantere zoekresultaten en advertenties.
 </p>
@@ -128,37 +131,42 @@ We kunnen uw e-mailadres gebruiken om u te informeren over onze services, bijvoo
 <p>We gebruiken gegevens die worden verzameld uit cookies en andere technologieën, zoals pixeltags, om uw gebruikerservaring en de totale kwaliteit van onze services te verbeteren.
 Google Analytics is een van de producten die we gebruiken om dit te doen in onze eigen services.
 Door uw taalvoorkeuren op te slaan, kunnen we onze services bijvoorbeeld weergeven in uw voorkeurstaal.
-Wanneer we u gepersonaliseerde advertenties laten zien, koppelen we geen cookie of anonieme ID aan gevoelige categorieën, zoals categorieën op basis van ras, religie, seksuele geaardheid of gezondheid.
+Wanneer we u gepersonaliseerde advertenties laten zien, koppelen we geen ID uit cookies of vergelijkbare technologieën aan gevoelige categorieën, zoals categorieën op basis van ras, religie, seksuele geaardheid of gezondheid.
 </p>
 <p>Onze geautomatiseerde systemen analyseren uw inhoud (inclusief e-mails) om voor u relevante productfuncties te leveren, zoals aangepaste zoekresultaten, gepersonaliseerde advertenties en spam- en malwaredetectie.
 </p>
-<p>We kunnen persoonlijke gegevens uit een bepaalde service combineren met gegevens, waaronder persoonlijke gegevens, uit andere Google-services, zodat u bijvoorbeeld gemakkelijker dingen kunt delen met mensen die u kent.
-We combineren DoubleClick-cookiegegevens niet met persoonlijke gegevens, tenzij u ons hiervoor uitdrukkelijk toestemming heeft gegeven.
+<p>We kunnen persoonlijke gegevens uit een bepaalde service combineren met gegevens, waaronder persoonlijke informatie, uit andere Google-services, zodat u bijvoorbeeld gemakkelijker dingen kunt delen met mensen die u kent.
+Afhankelijk van uw accountinstellingen kan uw activiteit op andere sites en in andere apps worden gekoppeld aan uw persoonlijke informatie om de services van Google en de door Google geleverde advertenties te verbeteren.
 </p>
 <p>We vragen u om toestemming voordat we gegevens gebruiken voor andere doeleinden dan die in dit Privacybeleid worden beschreven.
 </p>
 <p>Google verwerkt persoonlijke gegevens op onze servers in allerlei verschillende landen over de hele wereld.
 We kunnen uw persoonlijke gegevens verwerken op een server die zich buiten het land bevindt waar u woont.
 </p>
+Bovenkant pagina
 Duidelijkheid en keuzemogelijkheden
 <p>Mensen maken zich op verschillende manieren zorgen over hun privacy.
 Het is ons doel duidelijk te zijn over de gegevens die we verzamelen, zodat u weloverwogen beslissingen kunt nemen over hoe uw gegevens worden gebruikt.
 U kunt bijvoorbeeld:
 </p>
 <ul>
+<li>
+Bekijk en update uw Google-activiteitsopties om te bepalen welke typen gegevens (zoals video's die u heeft bekeken op YouTube of eerdere zoekopdrachten) u wilt opslaan in uw account wanneer u Google-services gebruikt.
+U kan ook deze opties gebruiken om te beheren of een bepaalde activiteit wordt opgeslagen in een cookie of een gelijkaardige technologie op uw apparaat wanneer u onze services gebruikt terwijl u bent uitgelogd van uw account.
+</li>
 <li>Bepaalde soorten gegevens die zijn gekoppeld aan uw Google-account, controleren en beheren via Google Dashboard.
 </li>
-<li>Uw voorkeuren voor de advertenties die u te zien krijgt op Google en op internet, zoals welke categorieën u interesseren, weergeven en bewerkenvia Advertentie-instellingen.
-U kunt zich hier ook afmelden voor bepaalde advertentieservices van Google.
+<li>Uw voorkeuren voor de Google-advertenties die u te zien krijgt op Google en op internet, zoals welke categorieën u interesseren, bekijken en bewerken via Advertentie-instellingen.
+U kunt die pagina ook bezoeken om u af te melden voor bepaalde advertentieservices van Google.
 </li>
 <li>
-Onze editor gebruiken om te bekijken en aan te passen hoe uw Google-profiel wordt weergegeven aan bepaalde mensen.
+Aanpassen hoe het profiel dat is gekoppeld aan uw Google-account wordt weergegeven aan anderen.
 </li>
 <li>
-Beheren met wie u gegevens deelt.
+Beheer met wie u informatie deelt via uw Google-account.
 </li>
 <li>
-Gegevens verwijderen uit veel van onze services.
+Gegevens die aan uw Google-account zijn gekoppeld, meenemen uit veel van onze services.
 </li>
 <li>
 Kiezen of uw Profielnaam en Profielfoto worden weergegeven in gedeelde aanbevelingen die in advertenties worden weergegeven.</li>
@@ -167,11 +175,13 @@ Kiezen of uw Profielnaam en Profielfoto worden weergegeven in gedeelde aanbeveli
 Het is echter belangrijk te onthouden dat veel van onze services mogelijk niet correct functioneren als uw cookies zijn uitgeschakeld.
 We kunnen uw taalvoorkeuren dan bijvoorbeeld niet onthouden.
 </p>
+Bovenkant pagina
 Gegevens die u deelt
 <p>Via veel van onze services kunt u gegevens met anderen delen.
 Vergeet niet dat wanneer u gegevens openbaar deelt, deze kunnen worden geïndexeerd door zoekmachines, waaronder Google.
 Onze services bieden u verschillende opties voor het delen en verwijderen van uw inhoud.
 </p>
+Bovenkant pagina
 Uw persoonlijke gegevens openen en bijwerken.
 <p>Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens.
 Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden.
@@ -183,6 +193,7 @@ Wanneer u uw persoonlijke gegevens bijwerkt, kunnen we u vragen uw identiteit te
 We streven ernaar onze services te handhaven op een manier die gegevens beschermt tegen onopzettelijke of kwaadwillige vernietiging.
 Daarom is het mogelijk dat we, nadat u gegevens uit onze services heeft verwijderd, resterende kopieën niet onmiddellijk van onze actieve servers verwijderen en gegevens niet uit onze back-upsystemen verwijderen.
 </p>
+Bovenkant pagina
 Gegevens die we delen
 <p>We delen persoonlijke gegevens niet met bedrijven, organisaties en individuen buiten Google, behalve in een van de volgende omstandigheden:
 </p>
@@ -232,7 +243,7 @@ Uw domeinbeheerder kan mogelijk het volgende doen:
 <p>We delen persoonlijke gegevens met bedrijven, organisaties of individuen buiten Google als we te goeder trouw van mening zijn dat toegang, gebruik, behoud of openbaarmaking van de gegevens redelijkerwijs nodig is om:
 </p>
 <ul>
-<li>Te voldoen aan van toepassing zijnde wet- en regelgeving, wettelijke procedures of verzoeken van overheidsinstanties.
+<li>Te voldoen aan de van toepassing zijnde wet- en regelgeving, wettelijke procedures of uitvoerbare verzoeken van overheidsinstanties.
 </li>
 <li>De van toepassing zijnde Servicevoorwaarden af te dwingen, waaronder het onderzoeken van mogelijke schendingen.
 </li>
@@ -242,11 +253,12 @@ Uw domeinbeheerder kan mogelijk het volgende doen:
 </ul>
 </li>
 </ul>
-<p>We kunnen verzamelde niet-persoonlijke gegevens openbaar delen en met onze partners, zoals uitgevers, adverteerders of aangesloten sites.
+<p>We kunnen niet-persoonlijk identificeerbare gegevens openbaar en met onze partners (zoals uitgevers, adverteerders of gekoppelde sites) delen.
 We kunnen gegevens bijvoorbeeld openbaar delen om trends te laten zien met betrekking tot het algemene gebruik van onze services.
 </p>
 <p>Als Google betrokken is bij een fusie, overname of verkoop van activa, blijven we de vertrouwelijkheid van persoonlijke gegevens waarborgen en stellen we de betreffende gebruikers op de hoogte voordat persoonlijke gegevens worden overgedragen of onderworpen aan een ander privacybeleid.
 </p>
+Bovenkant pagina
 Beveiliging van gegevens
 <p>We werken er hard aan Google en onze gebruikers te beschermen tegen ongeautoriseerde toegang tot of ongeautoriseerde aanpassing, openbaarmaking of vernietiging van gegevens die in ons bezit zijn.
 In het bijzonder geldt het volgende:
@@ -260,25 +272,29 @@ In het bijzonder geldt het volgende:
 </li>
 <li>We beperken de toegang tot persoonlijke gegevens tot medewerkers van Google, contractanten en agenten die deze gegevens moeten kennen om ze voor ons te verwerken.
 Deze personen zijn onderworpen aan strenge contractuele vertrouwelijkheidsverplichtingen en kunnen worden bestraft of ontslagen als ze niet voldoen aan deze verplichtingen.</li>
-</ul>Wanneer dit Privacybeleid van toepassing is
-<p>Ons Privacybeleid is van toepassing op alle services die worden geleverd door Google Inc.
-en zijn partners, waaronder YouTube en services die worden geleverd op andere sites (zoals onze advertentieservices), maar niet op services met een afzonderlijk privacybeleid waarin dit Privacybeleid niet is opgenomen.
+</ul>Bovenkant pagina
+Wanneer dit Privacybeleid van toepassing is
+<p>Ons Privacybeleid is van toepassing op alle services die worden aangeboden door Google Inc.
+en zijn partners, waaronder YouTube, services die Google levert op Android-apparaten en services die worden aangeboden op andere sites (zoals onze advertentieservices), maar niet op services die een afzonderlijk privacybeleid hebben waarin dit Privacybeleid niet is opgenomen.
 </p>
 <p>Ons Privacybeleid is niet van toepassing op services die worden geleverd door andere bedrijven of individuen, waaronder producten of sites die aan u kunnen worden weergegeven in zoekresultaten, sites die Google-services bevatten of andere sites waarnaar een link is opgenomen in onze services.
 Ons Privacybeleid dekt niet het gegevensbeleid van andere bedrijven en organisaties die adverteren in onze services en die cookies, pixeltags en andere technologieën kunnen gebruiken om relevante advertenties weer te geven en te leveren.
 </p>
+Bovenkant pagina
 Naleving en samenwerking met toezichthoudende authoriteiten
 <p>We controleren regelmatig of we voldoen aan ons Privacybeleid.
-We houden ons ook aan meerdere zelfregulerende richtlijnen.
+We houden ons ook aan meerdere raamwerken van zelfregulering, waaronder het EU-US Privacy Shield Framework.
 Wanneer we formele schriftelijke klachten ontvangen, zullen we contact opnemen met de persoon die de klacht heeft ingediend om vervolgacties te bespreken.
 We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten met betrekking tot de overdracht van persoonlijke gegevens te verhelpen die we niet rechtstreeks met onze gebruikers kunnen oplossen.
 </p>
+Bovenkant pagina
 Wijzigingen
 <p>Ons Privacybeleid kan van tijd tot tijd worden gewijzigd.
 We beperken uw rechten onder dit Privacybeleid niet zonder uw uitdrukkelijke toestemming.
 We zullen alle wijzigingen van het Privacybeleid op deze pagina aangeven en, als de wijzigingen aanzienlijk zijn, zullen we zorgen voor een meer opvallende kennisgeving (inclusief, voor bepaalde services, kennisgevingen via e-mail over de wijzigingen van het Privacybeleid).
 We bewaren ook eerdere versies van dit Privacybeleid in een archief dat u kunt raadplegen.
 </p>
+Bovenkant pagina
 Specifieke productbeleidsregels
 <p>In de volgende kennisgevingen worden specifieke privacybeleidsregels uitgelegd met betrekking tot bepaalde Google-producten en -services die u mogelijk gebruikt:
 </p>
@@ -287,15 +303,22 @@ Specifieke productbeleidsregels
 Chrome en Chrome OS
 </li>
 <li>
-Google Boeken
+Play Boeken
 </li>
 <li>
-Google Wallet
+Payments
 </li>
-<li>Fiber</li>
+<li>
+Fiber
+</li>
+<li>
+Project Fi
+</li>
+<li>Google Apps for Education</li>
 </ul>
 <p>U kunt naar de Privacyhandleiding voor Google-producten gaan voor meer informatie over sommige van onze populairste services.
 </p>
+Bovenkant pagina
 Ander nuttig materiaal met betrekking tot privacy en beveiliging
 <p>U kunt meer nuttig materiaal met betrekking tot privacy en beveiliging vinden op de pagina's met beleid en principes van Google, waaronder:
 </p>
@@ -312,6 +335,8 @@ hoe Google cookies gebruikt.
 </li>
 <li>Een pagina waarop wordt uitgelegd welke gegevens worden gedeeld met Google wanneer u websites bezoekt die onze advertentie-, analyse- en sociale producten gebruiken.
 </li>
+<li>De tool Privacycheck, waarmee u gemakkelijk uw belangrijkste privacy-instellingen kunt controleren.
+</li>
 <li>Het Beveiligingscentrum van Google, dat informatie bevat over hoe u internet veilig kunt gebruiken.</li>
 </ul> Voorbeeld
 'toegang te geven tot uw persoonlijke gegevens'Met Google Dashboard kunt u bijvoorbeeld snel en gemakkelijk sommige van de gegevens bekijken die zijn gekoppeld aan uw Google-account.
@@ -321,6 +346,10 @@ Voorbeeld
 Meer informatie.
 Voorbeeld
 'advertentieservices'Als u bijvoorbeeld regelmatig websites en blogs over tuinieren bezoekt waarop onze advertenties worden weergegeven, kunnen we advertenties met betrekking tot deze interesse aan u laten zien wanneer u browst op internet.
+Meer informatie.
+Voorbeeld
+'en andere sensoren'Uw apparaat is mogelijk uitgerust met sensoren die informatie leveren om te helpen uw locatie beter te begrijpen.
+Zo kan een versnellingsmeter bijvoorbeeld worden gebruikt om dingen zoals snelheid te bepalen en een gyroscoop om de reisrichting te bepalen.
 Meer informatie.
 Voorbeeld
 'gegevens verzamelen'Dit omvat informatie zoals uw gebruiksgegevens en voorkeuren, Gmail-berichten, Google+ profiel, foto's, video's, browsegeschiedenis, zoekopdrachten op Google Maps, docs of andere door Google gehoste inhoud.
@@ -352,9 +381,17 @@ Voorbeeld
 Meer informatie.
 Voorbeeld
 'wettelijke procedures of verzoeken van overheidsinstanties'Net zoals andere technologie- en communicatiebedrijven ontvangt Google regelmatig verzoeken van overheden en rechtbanken over de hele wereld om gebruikersgegevens te overhandigen.
+Ons juridisch team controleert elk verzoek, ongeacht het type, en we verzetten ons regelmatig tegen verzoeken die te breed zijn of niet de correcte procedure volgen.
 Meer informatie.
 Voorbeeld
 'beperk delen of zichtbaarheid instellingen'U kunt bijvoorbeeld instellingen selecteren zodat uw naam en foto niet worden weergegeven in een advertentie.
+Meer informatie.
+Voorbeeld
+'gekoppeld aan informatie over bezoeken aan meerdere sites'Google Analytics is gebaseerd op first-party cookies.
+Gegevens die worden gegenereerd via Google Analytics, kunnen, gebruikmakend van Google technologie, worden gelinked door de Google Analytics-klant of door Google aan cookies van derden, gerelateerd aan bezoeken aan andere websites, bijvoorbeeld wanneer een adverteerder zijn Google Analytics-gegevens wil gebruiken om relevantere advertenties te maken of zijn verkeer verder te analyseren.
+Meer informatie.
+Voorbeeld
+'onderhouden'We houden onze systemen bijvoorbeeld voortdurend in de gaten om te controleren of ze werken zoals bedoeld en om fouten te detecteren en op te lossen.
 Meer informatie.
 Voorbeeld
 'gegevens verzamelen en verwerken over uw daadwerkelijke locatie'Google Maps kan de kaartweergave bijvoorbeeld centreren op uw huidige locatie.
@@ -363,13 +400,19 @@ Voorbeeld
 'mogelijk niet correct functioneren'We gebruiken bijvoorbeeld de cookie 'lbcs' waarmee u veel Google-documenten in één browser kunt openen.
 Meer informatie.
 Voorbeeld
-'en onze partners'We staan toe dat vertrouwde bedrijven cookies of vergelijkbare technologieën voor advertentie- en onderzoeksdoeleinden gebruiken in onze services.
+en onze partnersWe staan toe dat vertrouwde bedrijven cookies of gelijkaardige technologieën voor advertentie- en onderzoeksdoeleinden gebruiken in onze services.
 Meer informatie.
 Voorbeeld
 'telefoonnummer'Als u bijvoorbeeld een telefoonnummer toevoegt als hersteloptie en u uw wachtwoord vergeet, kan Google u een sms sturen met een code waarmee u uw wachtwoord opnieuw kunt instellen.
 Meer informatie.
 Voorbeeld
 'Google en onze gebruikers te beschermen'Als u zich bijvoorbeeld zorgen maakt over ongeautoriseerde toegang tot uw e-mail, kunt u met 'Laatste accountactiviteit' in Gmail informatie bekijken over recente activiteit in uw e-mail, zoals de IP-adressen waarmee toegang is verkregen tot uw e-mail, de bijbehorende locatie en de datum en tijd.
+Meer informatie.
+Voorbeeld
+'beveiligen'Een van de redenen waarom we IP-adressen en cookies verzamelen en analyseren, is bijvoorbeeld om onze services te beschermen tegen geautomatiseerd misbruik.
+Meer informatie.
+Voorbeeld
+'leveren'Het IP-adres dat is toegewezen aan uw apparaat, wordt bijvoorbeeld gebruikt om de gegevens die u heeft aangevraagd, te verzenden naar uw apparaat.
 Meer informatie.
 Voorbeeld
 'delen'Met Google+ beschikt u bijvoorbeeld over veel verschillende opties voor delen.
@@ -393,11 +436,20 @@ Voorbeeld
 'wifi-toegangspunten en mobiele zendmasten'Google kan de locatie van uw apparaat bijvoorbeeld bij benadering bepalen op basis van de bekende locatie van mobiele zendmasten in de buurt.
 Meer informatie.
 Voorbeeld
-'relevantere zoekresultaten'
-<p>We kunnen zoeken bijvoorbeeld relevanter en interessanter voor u maken door foto's, berichten en meer van u en uw vrienden weer te geven.
-</p>
-<p>Meer informatie</p> Voorbeeld
-'verwijderen van uw inhoud'
-<p>U kunt bijvoorbeeld uw webgeschiedenis, uw blog, een Google-site die uw eigendom is, uw YouTube-kanaal, uw Google+ profiel of uw volledige Google-account verwijderen.</p> Voorbeeld
-'trends te laten zien'
-<p>U kunt sommige van deze trends bekijken op Google Trends en YouTube Trends.</p> 
+'relevantere zoekresultaten'We kunnen zoeken bijvoorbeeld relevanter en interessanter voor u maken door foto's, berichten en meer van u en uw vrienden weer te geven.
+Meer informatie.
+Voorbeeld
+'verwijderen van uw inhoud'U kunt bijvoorbeeld uw Web en App Activiteit, uw blog , een Google-site die uw eigendom is, uw YouTube-kanaal, uw Google+ profiel of uw volledige Google-account verwijderen.
+Meer informatie.
+Voorbeeld
+'trends te laten zien'U kunt enkele hiervan bekijken op Google Trends en YouTube Trending video's.
+Meer informatie.
+Voorbeeld
+'uw activiteit op andere sites en in andere apps'Deze activiteit kan afkomstig zijn uit uw gebruik van Google-producten zoals Chrome-synchronisatie of van uw bezoeken aan sites en apps die samenwerken met Google.
+Veel websites en apps werken samen met Google om hun content en services te verbeteren.
+Een website kan bijvoorbeeld gebruikmaken van onze advertentieservices (zoals AdSense) of analysetools (zoals Google Analytics).
+Deze producten delen informatie over uw activiteit met Google.
+Afhankelijk van uw accountinstellingen en de gebruikte producten (bijvoorbeeld wanneer een partner Google Analytics gebruikt in combinatie met onze advertentieservices) kunnen deze gegevens worden gekoppeld aan uw persoonlijke gegevens.
+Meer informatie.
+We houden uw persoonlijke gegevens privé en veilig en geven u volledige controle hierover.
+<p>Meer informatie over hoe Google uw privacy en veiligheid waarborgt.</p> 

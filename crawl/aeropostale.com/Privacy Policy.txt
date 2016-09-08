@@ -1,206 +1,136 @@
- Aéropostale Live Love Dream P.S.
-from Aéropostale <ul>
-<li>
-Email Sign Up Sign Up Sign up for Aéropostale emails Sign up for P.S.
-From Aéropostale emails </li>
-<li>My Account</li>
-<li>ship to:</li>
-<li> My Bag: 0 </li>
-</ul> Aéropostale Go <ul>
-<li>
-Girls <ul>
-<li>
-NEW ARRIVALS </li>
-<li>
-Factory </li>
-<li>
-Bethany Mota </li>
-<li>
-Lookbook </li>
-<li>
-Uniform </li>
-<li>
-Boot Shop </li>
-<li>
-Extended Sizes </li>
-<li>
-Online Exclusives </li>
+ Aéropostale <ul>
+<li> Girls <ul>
+<li> NEW ARRIVALS </li>
+<li> Meet Aly Raisman </li>
+<li> Aly's Picks </li>
+<li> Prince + Fox </li>
+<li> Cape Juby </li>
+<li> T-Neck On Deck </li>
+<li> Uniform </li>
+<li> Online Only </li>
+<li> Plus Sizes </li>
+<li> Clearance </li>
 </ul>
 <ul>
-<li>
-TOPS </li>
-<li>
-Tees </li>
-<li>
-Camis + Tanks </li>
-<li>
-Polos </li>
-<li>
-Shirts </li>
-<li>
-Hoodies + Sweatshirts </li>
-<li>
-Sweaters + Cardigan </li>
+<li> TOPS </li>
+<li> Graphic Tees </li>
+<li> Tees </li>
+<li> Camis + Tanks </li>
+<li> Polos </li>
+<li> Shirts </li>
+<li> Hoodies + Sweatshirts </li>
+<li> Sweaters </li>
+<li> Active Tops </li>
 </ul>
 <ul>
-<li>
-BOTTOMS </li>
-<li>
-Jeans </li>
-<li>
-Leggings </li>
-<li>
-Joggers + Sweats </li>
-<li>
-Pants </li>
-<li>
-Shorts </li>
-<li>
-Skirts </li>
+<li> BOTTOMS </li>
+<li> Jeans </li>
+<li> Leggings + Yoga </li>
+<li> Joggers + Lounge </li>
+<li> Pants </li>
+<li> Shorts </li>
+<li> Skirts </li>
+<li> Active Bottoms </li>
 </ul>
 <ul>
-<li>
-DRESSES </li>
-<li>
-JACKETS + COATS </li>
-<li>
-SLEEPWEAR </li>
-<li>
-BRAS </li>
-<li>
-PANTIES </li>
-<li>
-SHOES </li>
-<li>
-ACCESSORIES </li>
+<li> DRESSES + ROMPERS </li>
+<li> JACKETS + VESTS </li>
+<li> SHOES </li>
+<li> ACCESSORIES </li>
+</ul>
+<ul>
+<li> Live Love Dream </li>
+<li> Active </li>
+<li> Yoga </li>
+<li> Lounge </li>
+<li> Bras </li>
+<li> Panties </li>
+<li> Sleep </li>
+<li> Accessories </li>
 </ul>
 </li>
-<li>
-Guys <ul>
-<li>
-NEW ARRIVALS </li>
-<li>
-Factory </li>
-<li>
-Lookbook </li>
-<li>
-Uniform </li>
-<li>
-Sneaker Shop </li>
-<li>
-Extended Sizes </li>
-<li>
-Online Exclusives </li>
+<li> Guys <ul>
+<li> NEW ARRIVALS </li>
+<li> Meet DeAndre Yedlin </li>
+<li> DeAndre's Picks </li>
+<li> Prince &amp.
+Fox </li>
+<li> Cape Juby </li>
+<li> The Great Outdoors </li>
+<li> Uniform </li>
+<li> Online Only </li>
+<li> Extended Sizes </li>
+<li> Clearance </li>
 </ul>
 <ul>
-<li>
-TOPS </li>
-<li>
-Graphic Tees </li>
-<li>
-Tees </li>
-<li>
-Polos </li>
-<li>
-Shirts </li>
-<li>
-Hoodies </li>
-<li>
-Sweaters </li>
+<li> TOPS </li>
+<li> Graphic Tees </li>
+<li> Polos </li>
+<li> Tees </li>
+<li> Tanks </li>
+<li> Shirts </li>
+<li> Hoodies </li>
+<li> Sweaters </li>
 </ul>
 <ul>
-<li>
-BOTTOMS </li>
-<li>
-Jeans </li>
-<li>
-Joggers + Sweats </li>
-<li>
-Pants </li>
-<li>
-Shorts </li>
+<li> BOTTOMS </li>
+<li> Jeans </li>
+<li> Joggers + Sweats </li>
+<li> Pants </li>
+<li> Shorts </li>
 </ul>
 <ul>
-<li>
-JACKETS + COATS </li>
-<li>
-PAJAMAS </li>
-<li>
-UNDERWEAR </li>
-<li>
-SHOES </li>
-<li>
-ACCESSORIES </li>
+<li> JACKETS </li>
+<li> UNDERWEAR + SOCKS </li>
+<li> ACCESSORIES </li>
 </ul>
 </li>
-<li>
-Room <ul>
-<li>
-Bethany's Room </li>
-<li>
-Bedding </li>
-<li>
-Accessories </li>
+<li> Active <ul>
+<li> Live Love Dream </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Intimates </li>
+<li> Accessories </li>
+<li> Sleep </li>
 </ul>
 </li>
-<li>
-Clearance <ul>
-<li>
-GIRLS </li>
-<li>
-Clearance Tops </li>
-<li>
-Clearance Bottoms </li>
-<li>
-Clearance Accessories </li>
+<li> Trending </li>
+<li> Clearance <ul>
+<li> GIRLS </li>
+<li> Clearance Tops </li>
+<li> Clearance Bottoms </li>
+<li> Clearance Accessories </li>
 </ul>
 <ul>
-<li>
-GUYS </li>
-<li>
-Clearance Tops </li>
-<li>
-Clearance Bottoms </li>
-<li>
-Clearance Accessories </li>
+<li> GUYS </li>
+<li> Clearance Tops </li>
+<li> Clearance Bottoms </li>
+<li> Clearance Accessories </li>
 </ul>
 <ul>
-<li>
-ROOM </li>
+<li> ROOM </li>
 </ul>
 </li>
-<li>
-Brands <ul>
-<li>GIRLS</li>
-<li>BC Footwear</li>
-<li>Bethany Mota</li>
-<li>DV8</li>
-<li>Gola</li>
-<li>Invite Only </li>
-<li>Junie &amp.
-Jade</li>
-<li>Live Love Dream</li>
-<li>Madden Girl</li>
-<li>Map to Mars</li>
-<li>Mia</li>
-<li>Puma</li>
-<li>Report</li>
-<li>Rocket Dog</li>
-<li>Superga</li>
-<li>Tokyo Darling</li>
-</ul>
-<ul>
-<li>GUYS</li>
-<li>Brooklyn Calling</li>
-<li>Free State</li>
-<li>Gola</li>
-<li>Locker Stock </li>
-<li>Radii</li>
-<li>Superga</li>
+<li> P.S.
+KIDS <ul>
+<li> GIRLS </li>
+<li> BOYS </li>
+<li> UNIFORM </li>
+<li> CLEARANCE </li>
 </ul>
 </li>
-<li>Factory</li>
-<li>Aero Now</li>
+</ul>
+<ul>
+<li> Go </li>
+<li>
+</li>
+<li> account <ul>
+<li> My Account </li>
+<li> Email Sign Up </li>
+<li> Track Your Order </li>
+</ul>
+</li>
+<li> 0 </li>
 </ul>
 <dl>
 <dt>Safety, Security and Privacy</dt>

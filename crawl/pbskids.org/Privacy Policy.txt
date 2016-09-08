@@ -1,4 +1,12 @@
- For Families Visiting PBS KIDS: Last modified: July 1, 2013 <p>You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy.
+ Visit Your Profile <em>Not Logged In</em> logout <em>Sign In</em> To PBS KIDS Toggle message bar <ul>
+<li>Apps</li>
+<li>Shop</li>
+<li>
+</li>
+<li>Parents</li>
+<li>TV Times</li>
+<li> Settings </li>
+</ul> For Families Visiting PBS KIDS: Last modified: July 1, 2013 <p>You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy.
 We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy.
 As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission.
 <br>
@@ -99,7 +107,7 @@ By using the Services, you agree to the terms and conditions of this Privacy Pol
 <br>
 <strong>Public Broadcasting Service</strong>
 <br> 2100 Crystal Drive<br> Arlington, VA 22202<br> (703) 739-5127<br>kids@pbs.org</p>
-<p>Please read the Terms of Use for Terms and Conditions for using this site.</p> TV Times | Help<br>PBS KIDS | PBS KIDS GO!<br>
+<p>Please read the Terms of Use for Terms and Conditions for using this site.</p> PBS KIDS | TV Times | Help<br>
 <br>
-Copyright © 1995-2015 Public Broadcasting Service (PBS).
+Copyright © 1995-2016 Public Broadcasting Service (PBS).
 All rights reserved.

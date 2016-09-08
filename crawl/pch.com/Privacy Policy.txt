@@ -1,7 +1,7 @@
- Privacy Policy <p>
+ Privacy Policy X <p>
 <b>Publishers Clearing House Privacy Policy</b>
 </p>
-<p>Last Updated: Dec 22, 2014</p>
+<p>Last Updated: October 23, 2015</p>
 <p>At Publishers Clearing House we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices.
 Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions and do not apply to the off line privacy, data collection and data transfer policies of Publishers Clearing House.</p>
 <p>Publishers Clearing House has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.
@@ -46,7 +46,7 @@ Your California Privacy Rights</p>
 What about Publishers Clearing House's off-line information and privacy practices?</p>
 <p>13.
 U.S.
-– EU Safe Harbor Framework Compliance </p>
+- EU Safe Harbor Framework Compliance</p>
 <p>14.
 Further Questions?</p>
 <p>
@@ -190,6 +190,8 @@ For example, if you have shown a preference for cooking while visiting pch.com, 
 The information collected is only linked to an anonymous cookie ID (alphanumeric number).
 it does not include any information that could be linked back to a particular person, such as their name, address or credit card number.
 The information used for targeted advertising either comes from pch.com or through third party website publishers.
+We may use your personal data to serve you relevant ads based upon your interests through our own and select third party ad partners.
+In such cases, PCH will provide your personal data such as encrypted email address and mobile advertising identifier to such third party service providers so that we may serve you with ads that may be of interest to you.
 If you would like to opt out of targeted advertising from pch.com that occurs when visiting our third party advertising publishers, please click here: Please note that this will opt you out of targeted ads from pch.com and any other participating advertisers.
 If you opt out, you will continue to receive online advertising from Publishers Clearing House.
 however, these ads may not be as relevant to you.</p>
@@ -199,10 +201,11 @@ however, these ads may not be as relevant to you.</p>
 Can I opt-out of pch.com's data collection and/or distribution?</b> Receiving email messages from pch.com, our affiliates and partners is optional.
 As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users.
 While some basic data is necessary to provide certain services, such as entry into the sweepstakes and fulfillment of products and services ordered through pch.com, there are some cases where the submission of information is optional.
-<p>We will not contact you with e-mail offers.
-If you are already receiving pch.com emails and no longer wish to receive such communications, simply follow the “unsubscribe” instructions that appear in every pch.com e-mail, or contact us through our “Ask Us” page found in our Info Center section or by writing directly to Christopher L.
+<p>If you are already receiving pch.com promotional emails and no longer wish to receive such communications, simply follow the “unsubscribe” instructions that appear in every pch.com e-mail, or contact us through our “Ask Us” page found in our Info Center section or by writing directly to Christopher L.
 Irving, Consumer &amp.
-Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.</p>
+Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.
+As soon as we receive your request our systems will process your removal at once and in all cases within the required time frame required by federal law.
+</p>
 <p>If you have provided personal information directly to our third party marketing partners and are receiving email communications directly from these third parties pch.com cannot, in most instances, unsubscribe users from these third parties.
 If you wish to unsubscribe from one of our marketing partner's e-mail programs, please follow their unsubscribe procedures which will be found within their e-mails or in their privacy policy.</p>
 <p>
@@ -262,10 +265,11 @@ You need JavaScript enabled to view it.
 This e-mail address is being protected from spambots.
 You need JavaScript enabled to view it.
 or by writing to Christopher L.
-Irving, Sr.
-Director, Consumer &amp.
+Irving, Consumer &amp.
 Privacy Affairs, Publishers Clearing House, 382 Channel Drive, Port Washington, New York 11050 and we will be pleased to respect your wishes.
 Please make sure to provide both your email address and full name, mailing address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing.
+<p>California Do Not Track: Because there is currently no industry or legal standard for recognizing or honoring DNT, we do not currently respond to DNT signals.
+We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take</p>
 <p>
 </p>
 <b>12.
@@ -285,15 +289,25 @@ Please make sure to provide your full name, address, city, state and zip code in
 </p>
 <b>13.
 U.S.
-– EU Safe Harbor Framework Compliance</b>.
-Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S.
+– EU Safe Harbor Framework Compliance</b>
+<p>Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S.
 Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.
 Publishers Clearing House has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
-To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit http://www.export.gov/safeharbor/ <p>
+To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit http://www.export.gov/safeharbor/.</p>
+<p>Publishers Clearing House participates in the Direct Marketing Association's (DMA) Safe Harbor dispute resolution process.
+If you feel that PCH is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principals, you should first contact us at This e-mail address is being protected from spambots.
+You need JavaScript enabled to view it.
+.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the Direct Marketing Association's (DMA) Safe Harbor Dispute Resolution Program at This e-mail address is being protected from spambots.
+You need JavaScript enabled to view it.
+.
+The Direct Marketing Association (DMA) will act as a liaison to Publishers Clearing House to resolve your concerns.
+</p>
+<p>
 </p>
 <b>14.
 Further Questions?</b> We welcome any questions or comments you may have regarding this privacy policy or the use of personal data.
 To contact us, please visit the Info Center of the site or write directly to Christopher L.
 Irving, Consumer &amp.
 Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.
-© 2015 PCH | About Us | Contact Us | PCH Privacy Policy   
+© 2016 PCH | About Us | Contact Us | PCH Privacy Policy   

@@ -1,5 +1,6 @@
  Search <ul>
 <li>Join</li>
+<li>Sign In</li>
 <li>About Us</li>
 <li>Contact Us</li>
 <li>Expert Authors</li>
@@ -193,4 +194,4 @@ EzineArticles.com encourages you to periodically review our privacy policy to be
 <li>Manage Subscriptions</li>
 <li>EzineArticles RSS</li>
 </ul>
-<p>© 2015 SparkNET<br>All Rights Reserved Worldwide</p> 
+<p>© 2016 EzineArticles<br>All Rights Reserved Worldwide</p> 

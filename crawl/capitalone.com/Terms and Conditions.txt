@@ -1,4 +1,140 @@
- Terms and Conditions <ul>
+ Menu <ul>
+<li> Personal </li>
+<li> Business - Selected </li>
+<li> Commercial - Selected </li>
+</ul>
+<ul>
+<li> Personal <ul>
+<li> Personal Home </li>
+<li> Credit Cards Expand Credit Cards Menu Find a Card <ul>
+<li> Credit Cards Home </li>
+<li> View Top Rewards Cards </li>
+<li> Compare Credit Cards </li>
+<li> See if You're Pre-qualified </li>
+<li> Small Business Credit Cards </li>
+<li> Find the Right Card </li>
+<li> Respond to a Mail Offer </li>
+</ul> Benefits And Services <ul>
+<li> View Cardholder Benefits </li>
+<li> See Credit Card FAQ </li>
+<li> Redeem and Learn About Rewards </li>
+<li> Pay Your Bill </li>
+<li> Learn About CreditWise<sup>®</sup>
+</li>
+<li> Explore Card Topics </li>
+</ul>
+</li>
+<li> Bank Expand Bank Menu Personal Banking <ul>
+<li> Bank Home </li>
+<li> Money Market Account </li>
+<li> Checking Accounts </li>
+<li> Savings Accounts </li>
+<li> CD Accounts </li>
+<li> Online and Mobile Banking Tools </li>
+</ul>
+</li>
+<li> Borrow Expand Borrow Menu Mortgages &amp.
+Home Equity <ul>
+<li> Borrow Home </li>
+<li> Mortgages Overview </li>
+<li> Mortgage Rates </li>
+<li> Refinance Overview </li>
+<li> Refinance Rates </li>
+<li> Home Equity Overview </li>
+<li> Home Equity Rates </li>
+</ul> Auto Financing <ul>
+<li> Auto Finance Overview </li>
+<li> New &amp.
+Used Auto Financing </li>
+<li> Auto Loan Refinancing </li>
+<li> Auto Rates </li>
+<li> Auto Loan Calculators </li>
+<li> Auto Learning Center </li>
+</ul>
+</li>
+<li> Invest Expand Invest Menu Team with an Advisor <ul>
+<li> Invest Home </li>
+<li> Why Choose Our Advisors </li>
+<li> Wealth and Asset Management </li>
+</ul> Do It Yourself Online <ul>
+<li> Why Invest with Us </li>
+<li> Compare Trade Prices </li>
+<li> Plan Your Retirement </li>
+<li> Open an Account </li>
+<li> Sign In to Your Account </li>
+</ul>
+</li>
+<li> Learn </li>
+<li> Contact </li>
+</ul>
+</li>
+<li> Business <ul>
+<li> Business Home </li>
+<li> Bank Expand Bank Menu Banking Accounts <ul>
+<li> Bank Home </li>
+<li> Business Checking </li>
+<li> Business Savings </li>
+</ul> Financing &amp.
+Credit <ul>
+<li> Small Business Credit Cards </li>
+<li> Corporate Card Program </li>
+</ul>
+</li>
+<li> Borrow Expand Borrow Menu Financing &amp.
+Credit <ul>
+<li> Borrow </li>
+<li> Small Business Credit Cards </li>
+<li> Corporate Card Program </li>
+</ul>
+</li>
+<li> Invest Expand Invest Menu Investing Accounts <ul>
+<li> 401(k) Plans </li>
+</ul> Banking Accounts <ul>
+<li> Business Savings </li>
+</ul>
+</li>
+<li> Manage Expand Manage Menu Business Services <ul>
+<li> Merchant Services </li>
+</ul>
+</li>
+<li> Contact </li>
+</ul>
+</li>
+<li> Commercial <ul>
+<li> Commercial Home </li>
+<li> About </li>
+<li> Industry Expertise Expand Industry Expertise Menu <ul>
+<li> Commercial &amp.
+Industrial </li>
+<li> Commercial Real Estate </li>
+<li> Energy </li>
+</ul>
+<ul>
+<li> Healthcare </li>
+<li> Technology </li>
+<li> See All Industries </li>
+</ul>
+</li>
+<li> Solutions Expand Solutions Menu <ul>
+<li> Solutions Home </li>
+<li> Commercial Lending </li>
+<li> Depository Services </li>
+<li> Treasury Management </li>
+</ul>
+<ul>
+<li> Capital Markets </li>
+<li> Private Banking &amp.
+Wealth Management </li>
+<li> Corporate Cards </li>
+</ul>
+</li>
+<li> Insights </li>
+<li> Contact </li>
+</ul>
+</li>
+<li> Locations </li>
+<li> Search </li>
+</ul> Terms and Conditions <ul>
 <li>Print</li>
 <li>Contact Us</li>
 <li> Access your account </li>
@@ -13,7 +149,7 @@ Laws and Regulations
 <p>User access to and use of the Site is subject to all applicable federal, state and local laws and regulations.  Unauthorized use of this system is prohibited and violators can be prosecuted under federal and state laws.
 Virginia law and Federal law will govern the interpretation and enforcement of these Terms and Conditions.</p>
 Copyright and Trademark Information
-<p>The information contained at the Site, including but not limited to text and images herein (other than certain images licensed from third parties) and their arrangement, are copyright ©2015 by Capital One Financial Corporation.
+<p>The information contained at the Site, including but not limited to text and images herein (other than certain images licensed from third parties) and their arrangement, are copyright ©2016 by Capital One Financial Corporation.
 All rights reserved.</p>
 <p>Capital One and its logo are trademarks of Capital One.
 All other trademarks are property of Capital One unless otherwise designated or clearly implied herein as belonging to third parties.

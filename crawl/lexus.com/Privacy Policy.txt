@@ -1,297 +1,366 @@
- MENU <ul>
-<li>Owner's Resources</li>
-<li>Certified Pre-Owned</li>
-<li>
-</li>
-</ul>
-<p>My Lexus</p>
-<p>Owner Benefits</p>
-<p>Pay My Bill</p>
-<p>Lexus Enform</p>
-<p>Scheduled Maintenance</p>
-<p>FAQ</p>
-<p>Lexus Magazine</p>
-<p>Lexus Navigation</p>
-<p>Safety Recalls &amp.
-Service Campaigns</p>
-<p>Vehicle Search </p>
-<p>CPO Overview </p>
-<p>Vehicle Library</p>
-<ul>
-<li>
-<p>ALL VEHICLES</p>
-</li>
-<li>
-<p>Find a dealer</p>
-</li>
-<li>
-<p>Build Your Lexus</p>
-</li>
-<li>
-<p>Certified Pre-Owned</p>
-</li>
-<li>
-<p>Contact us</p>
-</li>
-<li>
-<p>Lexus Drivers</p>
-</li>
-<li>
-<p>Lexus Financial Services</p>
-</li>
+ <ul>
 </ul>
 <ul>
-<li>Sedans</li>
-<li>SUVs</li>
-<li>Coupes</li>
-<li>Hybrids</li>
-<li>F Performance</li>
-<li>Future</li>
-<li>All Vehicles</li>
+<li>
+Sedans </li>
+<li>
+Suvs </li>
+<li>
+Coupes </li>
+<li>
+Hybrids </li>
+<li>
+F Performance </li>
+<li>
+Future </li>
 </ul>
 <ul>
-<li>Shopping Tools</li>
-<li> Build Your Lexus </li>
+<li>
+Owners
+</li>
+<li>
+L/Certified
+</li>
 <li>
 Find a Dealer
 </li>
-</ul>
-Financial Services Explore financing and apply for credit
-Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more <p>
-IS</p>
-<p>
-Starting at $36,550*</p>
+</ul> MENU <strong>IS</strong>
 <ul>
-<li>
-• 19/27 City/Hwy MPG*
+<li>Starting at $37,325*
 </li>
-<li>
-• RWD or AWD</li>
+<li>2.0L I-4 or 3.5L V6</li>
 </ul>
-<p>
-ES</p>
-<p>
-Starting at $37,550*</p>
 <ul>
-<li>
-• 21/31 City/Hwy MPG*
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>ES</strong>
+<ul>
+<li>Starting at $38,900*
 </li>
-<li>
-• FWD</li>
+<li>268-hp 3.5L V6</li>
 </ul>
-<p>
-GS</p>
-<p>
-Starting at $47,700*</p>
 <ul>
-<li>
-• 19/29 City/Hwy MPG*
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>ES HYBRID</strong>
+<ul>
+<li>Starting at $41,820*
 </li>
-<li>
-• RWD or AWD</li>
-</ul>
-<p>
-LS</p>
-<p>
-Starting at $72,520*</p>
-<ul>
-<li>
-• 16/24 City/Hwy MPG*
-</li>
-<li>
-• RWD or AWD</li>
-</ul>
-<p>
-NX</p>
-<p>
-Starting at $34,480*</p>
-<ul>
-<li>
-• ﻿Turbocharged 4-cylinder</li>
-<li>
-• FWD or AWD</li>
-</ul>
-<p>
-RX</p>
-<p>
-Starting at $40,970*</p>
-<ul>
-<li>
-• 3.5-liter V6</li>
-<li>
-• FWD or AWD</li>
-</ul>
-<p>
-GX</p>
-<p>
-Starting at $49,085*</p>
-<ul>
-<li>
-• 4.6-liter V8</li>
-<li>
-• Full-Time 4WD</li>
-</ul>
-<p>
-LX</p>
-<p>
-Starting at $82,930*</p>
-<ul>
-<li>
-• 5.7-liter V8</li>
-<li>
-• Full-Time 4WD</li>
-</ul>
-<p>
-RC</p>
-<p>
-Starting at $42,790*</p>
-<ul>
-<li>
-• 19/28 City/Hwy MPG*
-</li>
-<li>
-• RWD or AWD</li>
-</ul>
-<p>
-RC F</p>
-<p>
-Starting at $62,400*</p>
-<ul>
-<li>
-• 467 hp*
-</li>
-<li>
-• RWD</li>
-</ul>
-<p>
-IS C</p>
-<p>
-Starting at $43,360*</p>
-<ul>
-<li>
-• 19/27 City/Hwy MPG*
-</li>
-<li>
-• RWD</li>
-</ul>
-<p>
-CT HYBRID</p>
-<p>
-Starting at $32,050*</p>
-<ul>
-<li>
-• 43/40 City/Hwy MPG*
-</li>
-<li>
-• FWD</li>
-</ul>
-<p>
-NX HYBRID</p>
-<p>
-Starting at $39,720*</p>
-<ul>
-<li>
-• 35/31 City/Hwy MPG*
-</li>
-<li>
-• FWD or AWD</li>
-</ul>
-<p>
-RX HYBRID</p>
-<p>
-Starting at $47,620*</p>
-<ul>
-<li>
-• 32/28 City/Hwy MPG*
-</li>
-<li>
-• FWD or AWD</li>
-</ul>
-<p>
-ES HYBRID</p>
-<p>
-Starting at $40,430*</p>
-<ul>
-<li>
-• 40/39 City/Hwy MPG*
-</li>
-<li>
-• FWD</li>
-</ul>
-<p>
-GS HYBRID</p>
-<p>
-Starting at $60,430*</p>
-<ul>
-<li>
-• 29/34 City/Hwy MPG*
-</li>
-<li>
-• RWD</li>
-</ul>
-<p>
-LS HYBRID</p>
-<p>
-Starting at $120,440*</p>
-<ul>
-<li>
-• 19/23 City/Hwy MPG*
-</li>
-<li>
-• AWD</li>
-</ul>
-<p>
-RC F</p>
-<p>
-Starting at $62,400*</p>
-<ul>
-<li>
-• 467 hp*
-</li>
-<li>
-• RWD</li>
-</ul>
-<p>
-LFA</p>
-<p>
-</p>
-<ul>
-<li>
-• All 500 units sold</li>
-<li>
-• 552 hp*
+<li>40-MPG combined rating*
 </li>
 </ul>
-<p>
-F/F SPORT</p>
-<p>
-</p>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GS</strong>
+<ul>
+<li>Starting at $45,615*
+</li>
+<li>2.0L I-4 or 3.5L V6</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GS HYBRID</strong>
+<ul>
+<li>Starting at $63,080*
+</li>
+<li>338 TOTAL SYSTEM HP*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GS F</strong>
+<ul>
+<li>Starting at $84,440*
+</li>
+<li>467-HP* 5.0L V8</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>LS</strong>
+<ul>
+<li>Starting at $72,520*
+</li>
+<li>386-HP* 4.6L V8 (RWD)</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>LS HYBRID</strong>
+<ul>
+<li>Starting at $120,440*
+</li>
+<li>438 TOTAL SYSTEM HP*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<p>SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION</p>
+COMPARE <strong>NX</strong>
+<ul>
+<li>Starting at $34,965*
+</li>
+<li>235-hp* 2.0L turbo</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>NX HYBRID</strong>
+<ul>
+<li>Starting at $39,720*
+</li>
+<li>33-MPG combined rating* (FWD)</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>RX</strong>
+<ul>
+<li>Starting at $43,020*
+</li>
+<li>295-hp 3.5L V6</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>RX HYBRID</strong>
+<ul>
+<li>Starting at $53,035*
+</li>
+<li>30-MPG COMBINED RATING*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GX</strong>
+<ul>
+<li>Starting at $51,280*
+</li>
+<li>301-HP* V8, FULL-TIME 4WD</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>LX</strong>
+<ul>
+<li>Starting at $89,380*
+</li>
+<li>383-HP* V8, FULL-TIME 4WD</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<p>SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION</p>
+COMPARE <strong>RC</strong>
+<ul>
+<li>Starting at $39,995*
+</li>
+<li>2.0L I-4 OR 3.5L V6</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>RC F</strong>
+<ul>
+<li>Starting at $62,805*
+</li>
+<li>467-hp* 5.0L V8</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<p>SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION</p>
+COMPARE <strong>CT HYBRID</strong>
+<ul>
+<li>Starting at $31,250*
+</li>
+<li>42-MPG combined rating*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>NX HYBRID</strong>
+<ul>
+<li>Starting at $39,720*
+</li>
+<li>33-MPG combined rating* (FWD)</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>RX HYBRID</strong>
+<ul>
+<li>Starting at $53,035*
+</li>
+<li>30-MPG COMBINED RATING*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>ES HYBRID</strong>
+<ul>
+<li>Starting at $41,820*
+</li>
+<li>40-MPG COMBINED RATING*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GS HYBRID</strong>
+<ul>
+<li>Starting at $63,080*
+</li>
+<li>338 TOTAL SYSTEM HP*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>LS HYBRID</strong>
+<ul>
+<li>Starting at $120,440*
+</li>
+<li>438 TOTAL SYSTEM HP*
+</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<p>SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION</p>
+COMPARE <strong>RC F</strong>
+<ul>
+<li>Starting at $62,805*
+</li>
+<li>467-HP* 5.0L V8</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>GS F</strong>
+<ul>
+<li>Starting at $84,440*
+</li>
+<li>467-HP* 5.0L V8</li>
+</ul>
+<ul>
+<li>Build</li>
+<li>Current Offers</li>
+</ul>
+<strong>LFA</strong>
+<ul>
+<li>ALL 500 UNITS SOLD</li>
+<li>552 HP*
+</li>
+</ul>
+<strong>F / F SPORT</strong>
+<ul>
+<li>F / F SPORT VEHICLES AND<br>F SPORT ACCESSORIES</li>
+</ul>
+<p>SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION</p>
+COMPARE <strong>LC</strong>
+<ul>
+<li>FUTURE VEHICLE</li>
+</ul>
+<strong>LC HYBRID</strong>
+<ul>
+<li>FUTURE VEHICLE</li>
+</ul>
+<strong>LF-C2</strong>
+<ul>
+<li>CONCEPT CONVERTIBLE</li>
+</ul>
+<strong>LF-SA</strong>
+<ul>
+<li>CONCEPT VEHICLE</li>
+</ul>
+<strong>LF-FC</strong>
+<ul>
+<li>Concept Vehicle</li>
+</ul>
 <ul>
 <li>
-• F Vehicles</li>
-<li>
-• F SPORT Vehicles</li>
-<li>
-• F SPORT Accessories</li>
+<ul>
 </ul>
-<p>
-LF-LC</p>
-<p>
-Concept Vehicle</p>
-<p>
-LF-C2</p>
-<p>
-Concept Convertible</p>
-<p>
-GS F</p>
-<p>
-ARRIVING LATE 2015</p>
+</li>
+<li>
+<p>sedans</p>
+</li>
+<li>
+<p>suvs</p>
+</li>
+<li>
+<p>coupes</p>
+</li>
+<li>
+<p>hybrids</p>
+</li>
+<li>
+<p>f performance</p>
+</li>
+<li>
+<p>future</p>
+</li>
+<li>
+<p>Owners</p>
+</li>
+<li>
+<p>L/Certified</p>
+</li>
+<li>
+<p>Find a Dealer</p>
+</li>
+</ul> YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2015 <p>During 2015, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.</p>
+LEARN MORE
+<p> </p>
+Connected Vehicle Services Privacy and Protection Notice
+<p>Your vehicle may be equipped with Connected Services technology that electronically transmits Vehicle Data to Toyota.
+Toyota may use your Vehicle Data to respond to vehicle emergencies, find destinations you request, activate remote services, help you manage your vehicle service and maintenance, improve vehicle safety, develop new and better vehicles, confirm vehicle quality and analyze vehicle trends.
+We also collect and use your Personal Information to facilitate your usage of Connected Vehicle Services technology, fulfill your requests, and manage our relationship with you.</p>
+LEARN MORE <p> </p>
+Lexus Online Privacy Statement
 <p>This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc.
-(Lexus) online.</p> Lexus Personal Information Sharing Practices - 2014 <p>During 2014, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.</p> Information Collected <ul>
+(Lexus) online.</p> READ THE COMPLETE ONLINE PRIVACY STATEMENT Information Collected
+CLICK HERE FOR MORE INFORMATION
+<ul>
 <li>We collect personal information you choose to provide which may include your name, mailing address, e-mail address, and phone number together with certain demographic information from you in connection with surveys or from commercially available services.</li>
 <li>We collect and store "usage information" about how you use our Sites, such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the website that referred you to us and the pages you visit to help manage the Sites.</li>
 <li>We and our advertising service providers use cookies and web beacons to manage the Sites, tailor our communications with you, and personalize your experience on the Sites.</li>
-</ul> Uses and Sharing <ul>
+</ul>
+<p> </p>
+Uses and Sharing
+CLICK HERE FOR MORE INFORMATION
+<ul>
 <li>We use personal information to provide you with services or information you request, such as new–vehicle information alerts, promotions and mailed brochures.</li>
 <li>We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.</li>
 <li>We share personal information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Sites.</li>
@@ -300,82 +369,230 @@ ARRIVING LATE 2015</p>
 <li>We, web publishers and other websites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other websites.</li>
 <li>We may use third-party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content.
 We do not share Personal Information with these providers (unless, of course, you give us permission).</li>
-</ul> Your Privacy Rights, Choice and Access <ul>
+</ul>
+<p> </p>
+Your Privacy Rights, Choice and Access
+CLICK HERE FOR MORE INFORMATION
+<ul>
 <li>You have the right to have a copy of the personal information you provide.</li>
 <li>You have the right to correct or update your personal information.</li>
 <li>You may instruct Lexus to remove you from our programs you have subscribed to by using the unsubscribe link provided in our e-mail programs or by contacting us.</li>
-</ul> Important Information <ul>
+</ul>
+<p> </p>
+Important Information
+<ul>
 <li>
-<strong>Children</strong>.
-Lexus does not seek information from children under the age of 13.</li>
+<strong>CHILDREN.</strong> Lexus does not seek information from children under the age of 13.</li>
 <li>
-<strong>Acceptance</strong>.
-By using the Sites, you signify your acceptance of this Privacy Policy.</li>
-</ul> How to Contact Us <p>To contact us with a question, call us at<br>1-800-25-LEXUS or mail your inquiry to:</p>
-<blockquote> Lexus<br> P.O.
-Box 2991 – Mail Drop L201<br> Torrance, CA 90509-2991 </blockquote>
-<p>To read more about contact information<br>
-<strong>click here</strong>.</p> Information
+<strong>ACCEPTANCE.</strong> By using the Sites, you signify your acceptance of this Privacy Policy.</li>
+</ul> HOW TO CONTACT US
+<p>To contact us with a question, call us at 1-800-25-LEXUS or mail your inquiry to:</p>
+Lexus<br> P.O.
+Box 2991 – Mail Drop L201<br> Torrance, CA 90509-2991
+<p>To read more about contact information</p>
+click here Important Info
+Important Info Leasing &amp.
+Finance <ul>
+<li> Financing Options </li>
+<li> Financing Options </li>
+<li> End of Lease Options </li>
+<li> Financial Services Website </li>
+</ul>
+Owners <ul>
+<li> Accessories &amp.
+Parts
+</li>
+<li> Enform Subscription
+</li>
+<li> Owner Benefits
+</li>
+<li> Mobile Phone Apps
+</li>
+<li> Navigation Updates </li>
+<li> Pay My Bill </li>
+<li> Drivers Website </li>
+</ul>
+Service &amp.
+Warranty <ul>
+<li> Maintenance Schedule </li>
+<li> Find a Dealer
+</li>
+<li> Warranty Coverage
+</li>
+<li> SERVICE EXPERIENCE
+</li>
+<li> Lexus Tire Center </li>
+</ul>
+Help &amp.
+Support <ul>
+<li> Roadside Assistance
+</li>
+<li> Bluetooth </li>
+<li> Navigation </li>
+<li> Maintenance </li>
+<li> Safety </li>
+<li> Warranty </li>
+<li> More Topics </li>
+</ul>
+Brand &amp.
+Lifestyle <ul>
+<li> Lexus Plus </li>
+<li> L Studio Films </li>
+<li> F/F SPORT Performance
+</li>
+<li> LFA Supercar
+</li>
+<li> Lexus Hybrids
+</li>
+<li> Lexus Merchandise </li>
+<li> Lexus Magazine </li>
+<li> Luxury Awaits </li>
+<li> Vida Lexus </li>
+<li> Lexus International </li>
+<li> Sponsored Athletes
+</li>
+</ul>
 <ul>
 <li>About</li>
-<li>Contact</li>
+<li>Contact Us</li>
 <li>Careers</li>
-<li>Your Privacy Rights</li>
-<li>Legal Terms</li>
-<li>Safety Recalls &amp.
-Service Campaigns</li>
-</ul> Shopping Tools
-<ul>
-<li>Special Offers</li>
-<li>Accessories</li>
-<li>Financial Services</li>
-</ul>Services
-<ul>
-<li>Warranty &amp.
-Protection</li>
-<li>Service &amp.
-Maintenance</li>
-<li>Owner's Resources</li>
-</ul> Additional Sites
-<ul>
-<li>Certified Pre-Owned</li>
-<li>Luxury Awaits</li>
-<li>Vida Lexus</li>
-<li>L Studio</li>
-<li>Lexus Merchandise</li>
-<li>Lexus International</li>
+<li>Request Brochure</li>
+<li>Newsletter Signup</li>
+<li>Press Releases</li>
+<li>Ad choices</li>
+<li>Privacy</li>
+<li>Legal</li>
 </ul>
 <ul>
-<li>Find Us On Facebook</li>
-<li>Follow Us On Twitter</li>
-<li>Watch Us On Youtube</li>
-<li>Follow Us On Instagram</li>
-<li>Follow Us On Google+</li>
-<li>Follow Us On Google+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
 </ul>
 <ul>
-<li>Request a Printed Brochure</li>
-<li>Sign Up For Information</li>
-</ul>
+<li>
+Leasing &amp.
+Finance
 <ul>
-<li>Ad Choices</li>
+<li> Financing Options
+</li>
+<li> Financing Options
+</li>
+<li> End of Lease Options
+</li>
+<li> Financial Services Website
+</li>
 </ul>
+</li>
+<li>
+Owners
 <ul>
-<li>Privacy Rights</li>
-<li>Legal Terms</li>
-<li>Safety Recalls &amp.
-Service Campaigns</li>
+<li> Accessories &amp.
+Parts
+</li>
+<li> Enform Subscription
+</li>
+<li> Owner Benefits
+</li>
+<li> Mobile Phone Apps
+</li>
+<li> Navigation Updates
+</li>
+<li> Pay My Bill
+</li>
+<li> Drivers Website
+</li>
 </ul>
+</li>
+<li>
+Service &amp.
+Warranty
 <ul>
-<li>Sign up for Lexus News</li>
+<li> Maintenance Schedule
+</li>
+<li> Find a Dealer
+</li>
+<li> Warranty Coverage
+</li>
+<li> SERVICE EXPERIENCE
+</li>
+<li> Lexus Tire Center
+</li>
 </ul>
-<p>©2006-2015 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc.
+</li>
+<li>
+Help &amp.
+Support
+<ul>
+<li> Roadside Assistance
+</li>
+<li> Bluetooth
+</li>
+<li> Navigation
+</li>
+<li> Maintenance
+</li>
+<li> Safety
+</li>
+<li> Warranty
+</li>
+<li> More Topics
+</li>
+</ul>
+</li>
+<li>
+Brand &amp.
+Lifestyle
+<ul>
+<li> Lexus Plus
+</li>
+<li> L Studio Films
+</li>
+<li> F/F SPORT Performance
+</li>
+<li> LFA Supercar
+</li>
+<li> Lexus Hybrids
+</li>
+<li> Lexus Merchandise
+</li>
+<li> Lexus Magazine
+</li>
+<li> Luxury Awaits
+</li>
+<li> Vida Lexus
+</li>
+<li> Lexus International
+</li>
+<li> Sponsored Athletes
+</li>
+</ul>
+</li>
+</ul> Safety Recalls &amp.
+Service Campaigns<br>
+<p>©2006-2016 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc.
 All information contained herein applies to U.S.
-vehicles only.</p> You are now <br>leaving Lexus.com
-Are you sure you want to leave? <br>If not, simply click "Cancel".
-<ul>
-<li> Cancel
-</li>
-<li> Continue
-</li>
-</ul> 
+vehicles only.</p> Notice for Internet Explorer<sup>®</sup> Users
+<p>To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support Internet Explorer<sup>®</sup> Version 10 and older.
+We do, however, support Version 11 and other browsers.
+Click here to upgrade your current browser or, to install a new one, select a link below.</p> Firefox
+<sup>®</sup> Google <br>Chrome
+<sup>™</sup> Notice for Safari<sup>®</sup> Users
+<p>To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari<sup>®</sup> 8 and older.
+We do, however, support version 9.0+ and other browsers.
+to upgrade your current browser, click here.
+or to install a new one, select a link below.</p> Firefox
+<sup>®</sup> Google <br>Chrome
+<sup>™</sup> 

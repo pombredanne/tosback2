@@ -5,6 +5,7 @@ Conditions</li>
 Conditions</li>
 <li>Go to Club Pickup Terms &amp.
 Conditions</li>
+<li>Membership Terms and Conditions</li>
 </ul>
 <p>
 <strong>Welcome to SamsClub.com.</strong> This site is provided as a service to our Members.
@@ -138,8 +139,6 @@ Members are encouraged to check the site often.</li>
 <li>Current and upcoming Instant Savings offers </li>
 <li>Number and dollar amount of Instant Savings currently available </li>
 <li>Number and dollar amount of Instant Savings redeemed over the last 12 months</li>
-<li>
-</li>
 <li>If an item is returned for a refund and that product had an Instant Savings associated with it, the return will be subject to the Sam's Club Refund Policy, except that the member will only be credited the net amount of the purchase (retail price minus the Instant Savings amount).
 Please Note: Notwithstanding the terms of the Sam's Club Refund Policy, all Instant Savings refunds require the sales receipt.</li>
 <li>All items, services, prices and Instant Savings offers communicated via SamsClub.com, on the Sam's Club mobile application, in any digital or printed materials, by a Sam's Club associate, or via any other means are subject to change without notice and are subject to conditions, restrictions, limitations, availability and qualifications as dictated by Sam's Club.</li>
@@ -216,54 +215,62 @@ Any suit, cause of action, or legal proceeding arising under or relating to the 
 <p>
 <strong>These terms and conditions are subject to change without notice.
 </strong>
-</p> CLUB PICKUP (FORMERLY CLICK N PULL) TERMS &amp.
-CONDITIONS <p>Club Pickup is a free service for Sam's Club members that lets you order online and pick up at any Sam's Club in the US and Puerto Rico.
-Simply place your order online, then pick up your items from the designated Sam's Club at a time that fits your schedule.
-</p>
-<p>Sam's Club reserves the right to change the terms and conditions or cancel Club Pickup at any time.
-Participation in Club Pickup is subject to these terms and conditions, as well as the terms and conditions of Sam's Club Membership, SamsClub.com, Instant Savings, and other Sam's Club programs, all of which are incorporated herein by reference.</p> Club Pickup Pricing <p>
-</p>
-<ul>
-<li>All prices are shown in US dollars.
-Prices may vary by club and dates.
-For this reason, the price of an item you order online may be different the day you pay for it in the Club.
-To ensure you pay the price you see online, you can pay online at the time of ordering.
-</li>
-<li>Prices for fresh produce items will vary by club and by weight and therefore must be paid for in the Club and not online.</li>
-<li>Pricing errors may occur on the SamClub.com site .We always attempt to correct all pricing errors as soon as they are discovered, or as soon as Samsclub.com receives notice of an error.
-SamsClub.com reserves the right to cancel any orders containing pricing errors, with no further obligations to you, even after your receipt of an order confirmation notice from SamsClub.com.</li>
-</ul>Club Pick up Weighted Items: <p>
-</p>
-<ul>
-<li>The weight of some items may vary from what you order .
-When this occurs, the price will also reflect that change.
-.
-For example, if you have ordered 5 lbs of ground chuck and if we only have 6lbs ground chuck in stock, you will be charged for 6lbs.
-**Prices in 'the cart' for weighted items are estimates only.</li>
-</ul>Club Pickup Payment <p>Members can pay by any MasterCardÂ® DiscoverÂ® and other forms of payment types that are currently accepted in club.
-We do not currently accept Visa Credit and American Express cards for orders paid for in Club.
-(You may use Visa and American Express for online orders paid for on SamsClub.com).
-</p>
-<p>Current In-Club payment options:</p>
+</p> CLUB PICKUP, LOCAL DELIVERY AND ADDITIONAL PICKUP LOCATIONS <p>In a continuing effort to provide legendary member service and experience, Sam’s Club offers Club Pickup, local delivery and additional pickup locations for certain members shopping on SamsClub.com.
+Participation in these services is subject to these terms and conditions, as well as the terms and conditions of Sam's Club Membership, SamsClub.com, Instant Savings, and other Sam's Club programs, all of which are incorporated herein by reference, and all of which may be changed from time-to-time without notice.
+Club Pickup (Formerly known as Click ‘n’ Pull)</p>
+<p>Club Pickup is a free service for Sam’s Club members that lets you order online at SamsClub.com and pick up your goods at any Sam’s Club in the US and Puerto Rico.
+Simply place your order online at SamsClub.com, select a day and time that fits your schedule and then pick up your items from the designated Sam’s Club.</p>
+<p>We aim to have your goods ready at the pickup time you selected when placing your order, but we do not guarantee that goods will be ready on or by a certain date and time.  Sam’s Club will not be liable for having the goods ready outside of the requested pickup slot or failing to provide all or any of the goods in your order.</p> Local Delivery <p>Local delivery is a service for Sam’s Club Business members that lets you order online at SamsClub.com and have your goods delivered to your business location.
+Local delivery is currently only offered in select clubs to select Business members and for select merchandise.
+To find out if local delivery is available in your area contact your local club.
+Simply place your order online using Easy Reorder, select the local delivery option, select a day and time that fits your schedule and your items will be delivered to the designated address.
+We can only deliver to an address stored in your address book in your account.
+Local delivery requires that your order be paid on-line at the time of order placement.</p>
+<p>A delivery fee based on your location will be incurred for use of the local delivery service, and that fee will be shown at the time of order placement.
+Unless the order is later returned to the club in its entirety, this fee is non-refundable once the order is delivered to the member.
+If the order is unable to be delivered for any reason, no delivery fee will be charged.
+You may cancel your order by calling the club where the order was placed no later than close of business on the day prior to the requested delivery date.</p>
+<p>We aim to deliver your goods within the delivery window you selected when placing your order, but we do not guarantee that goods will be delivered on or by a certain date and time.  Sam’s Club will not be liable for delivering the goods outside of the requested delivery slot or failing to deliver all or any of the goods in your order.</p> Additional Pickup Locations <p>Additional pickup locations is a service for Sam’s Club members that lets you order online at SamsClub.com and pick up your goods at a local location outside of the Club.
+Additional pickup locations are currently only offered in select clubs to select members and for select merchandise.
+If additional pickup locations are available in your area they will show up as an option at time of checkout.
+Simply place your order online using Easy Reorder, select the most convenient additional pickup location, select the day and time that fits your schedule and your items will be shipped to that location.
+Use of the additional pickup locations service requires that your order be paid on-line at the time of order placement.</p>
+<p>A flat fee, based on the location selected, will be incurred for use of the additional pickup locations service, and that fee will be shown at the time of order placement.
+Unless the order is later returned to the club in its entirety, this fee is non-refundable once the order is picked up at the additional pickup location.
+If the order is not picked up for any reason, no delivery fee will be charged.
+You may cancel your order by calling the club where the order was placed no later than close of business on the day prior to the requested pickup date</p>
+<p>We aim to deliver your goods within the pickup window you selected when placing your order, but we do not guarantee that goods will be available on or by a certain date and time.  Sam’s Club will not be liable for delivering the goods outside of the requested pickup slot or failing to deliver all or any of the goods in your order.</p> Pricing and Weighted Items <p>All prices on SamsClub.com are shown in US dollars.
+Prices may vary by club and date.
+For this reason, if you choose to pay for a Club Pickup order in-club at the time of pickup (option not available for local delivery or additional pickup locations which must be paid on-line at the time of order placement), the price may be different from the on-line price at the time of order placement.
+If you pay in advance on SamsClub.com at the time of order placement, subject to the note immediately below for fresh weighted items, then that price will not change.</p>
 <p>
-</p>
+<strong>NOTE on weighted items:</strong> Unit prices and available quantities for items sold by weight, including fresh meat, home meal solutions, and some bakery and cheese products, will vary by club and date.
+At the time of on-line order placement, you will select the desired quantity of an item and authorize a maximum price for the items.
+The final price will be determined based on the item’s availability and payment choice.
+If you choose to pay for a Club Pickup order in-club at the time of pickup (option not available for local delivery or additional pickup locations which must be paid on-line at the time of order placement), then the final price for the items will be based on the weight of the items actually available at time of pickup and the current in-club unit price, which may differ from the unit price shown on-line at the time of order placement.
+If you choose to pay in advance on SamsClub.com at the time of order placement, then the final price for the items will be based on the weight of the items actually available at time of pickup (whether in-club or at pickup location) or delivery and the on-line unit price at the time of order placement.
+<strong>In no event will the final price exceed the maximum price that was authorized at the time of order placement.</strong>
+</p> Payment <p>Members can pay for these services by any form of payment currently accepted in club.</p>
 <ul>
-<li>Sam's Club credit account</li>
-<li>DiscoverÂ®</li>
-<li>MasterCardÂ®</li>
-<li>Debit card</li>
+<li>Visa</li>
+<li>American Express</li>
+<li>Sam’s Club credit account</li>
+<li>Discover®</li>
+<li>MasterCard®</li>
+<li>Debit Card</li>
 <li>Gift Cards</li>
-<li>Visa (Debit only)</li>
 <li>Cash</li>
 </ul>Authorization Process: <p>When you place an order, SamsClub.com authorizes your credit card to make sure sufficient credit is available.
 Also note that all credit/debit card holders are subject to validation checks by third parties and authorization by the card issuer.
 If the issuer of the card refuses to authorize payment or any other validation checks return adverse results, we will not accept your order.
-We will not be liable for non-processing of your Club Pickup order.
+We will not be liable for non-processing of your order.
 Please contact your card issuer or your bank for the reason of refusal.</p> Taxes <p>We are required by law to collect all taxes based on where your order is being processed.
 When you review your order total during the checkout process, you'll see the estimated sales tax.
-The actual charge to your credit card will reflect the applicable state and local taxes.
-Taxes may be applied to pre-discounted prices depending on state and local laws.</p> Order Cancellation <p>Orders that are not picked up within the Club two days after the selected Club pickup date will automatically be cancelled and items returned to inventory.
-If the Club Pickup order was prepaid, you will not be charged if the order is cancelled.</p> DMCA Notice <p>Procedure for Making and Responding to Claims of Copyright Infringement</p>
+Actual taxes will be charged based on your delivery or pick up destination or the address from where the order is sourced, depending upon state and local laws.
+Taxes may be applied to pre-discounted prices depending on state and local laws.</p> Order Cancellation <p>For Club Pickup, orders that are not picked up within the Club two days after the selected pickup date will automatically be cancelled and items returned to inventory.
+If the Club Pickup order was prepaid, you will not be charged if the order is cancelled.
+For local delivery and additional pickup locations orders, those orders will be cancelled after the delivery vehicle returns to the facility after selected time window has passed and items will be returned to inventory.
+You will not be charged for the product or any fees if the order is cancelled.</p> DMCA Notice <p>Procedure for Making and Responding to Claims of Copyright Infringement</p>
 <p>It is the policy of SamsClub.com to respond to claims of copyright infringement.
 We will promptly process and investigate notices of alleged infringement by third parties and will take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) ("DMCA"), where applicable.</p>
 <p>Pursuant to the DMCA, notifications of claimed copyright infringement by third parties should be sent to SamsClub.com's Designated Agent.
@@ -280,8 +287,7 @@ Even if you believe that the alleged infringing work was not posted by a third p
 and</li>
 <li>A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
 </ol>
-<p>SamsClub.com's Designated Agent for notice of claims of copyright infringement can be reached as follows:</p> By mail: <p>Jon Pierce<br>Wal-Mart Stores, Inc.<br>702 S.W.
-8th Street<br>Bentonville, Arkansas 72716-0520</p> By Telephone: <p>479.273.4505</p> By e-mail: <p>iplegal@walmart.com</p>
+<p>SamsClub.com's Designated Agent for notice of claims of copyright infringement can be reached as follows:</p> By mail: <p>Legal<br>Wal-Mart Stores, Inc.<br>850 Cherry Ave.<br>San Bruno, California 94066</p> By Telephone: <p>650.837.5000</p> By e-mail: <p>DMCA@walmart.com</p>
 <p>
 <strong>This contact information is only for reporting claims of copyright infringement.
 Contact information for other matters is provided elsewhere on this Site.</strong>
@@ -299,4 +305,95 @@ and</li>
 </ol>
 <p>If SamsClub.com receives a valid counter notification, it shall provide the complainant with a copy of the counter notification, inform the complainant that it will replace the removed material or cease disabling access to it in 10 to 14 days from receipt of the counter notification, and replace the removed material or cease disabling access to it in 10 to 14 business days, provided that SamsClub.com has not received notice from the complainant that an action has been filed seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the material on SamsClub.com's system.</p>
 <p>You should be aware that the DMCA provides substantial penalties for a false counter notice filed in response to a notice of copyright infringement.
-Claimants who make misrepresentations in their the counter notification statement may be liable for any damages, including costs and attorneys' fees, incurred by any copyright owner or copyright owner's authorized licensee, or by SamsClub.com, if injured by relying upon such misrepresentation in replacing the removed material or ceasing to disable access to it.</p> 
+Claimants who make misrepresentations in their the counter notification statement may be liable for any damages, including costs and attorneys' fees, incurred by any copyright owner or copyright owner's authorized licensee, or by SamsClub.com, if injured by relying upon such misrepresentation in replacing the removed material or ceasing to disable access to it.</p> Membership Terms and Conditions <p>Published 11/04/2008 10:21 AM | Updated 07/02/2014 10:51 AM<br>Please note: Membership Terms and Conditions are subject to change without notice.</p> Satisfaction Guaranteed <p>Membership: We offer a 100% satisfaction guarantee on your Membership or your money back.</p>
+<p>Merchandise: If you are not pleased with any product you buy at the Club, we will replace it or refund your money, or provide you with the equivalent amount on a Sam’s Club gift card.
+Please retain your original receipt to assist us with your refund.</p>
+<strong>Please Note:</strong>
+<p>Special return instructions for computers, tobacco, refrigerants, and fresh products apply.
+If you have questions, please contact your Club manager.</p>
+<p>Please visit our Return / Refund Policy and our Return / Refund Exceptions for further information about return your products back to Sam's Club.</p> General Policies: <ul>
+<li>
+<strong>Children and Guests:</strong> Our Members are welcome to bring their children and up to two guests to Sam’s Club.
+A Member must accompany children and guests at all times.
+<ul>
+<li>Only a Member may purchase items.
+Children may not be left unsupervised.</li>
+<li>Parents are responsible for their children.</li>
+<li>Members are responsible for any items opened or damaged by their guests, children or themselves.</li>
+</ul>
+</li>
+<li>Dress Code: Shoes and shirts are required.</li>
+<li>Smoking: Not allowed in the Club.</li>
+<li>Tobacco and Liquor: No sales to minors.</li>
+<li>Receipts: To ensure that you are charged correctly for the merchandise you have selected, you will be requested to show your receipt when exiting.</li>
+<li>Sam’s Club reserves the right to inspect any container, backpack, briefcase and so forth upon entering or leaving the Club and to refuse entry to anyone at our discretion.</li>
+</ul>
+<strong>Renew Membership:</strong>
+<ul>
+<li>The primary member or Complimentary card holder may authorize renewal or cardholder changes (including add-ons for Business Members and Plus Members who operate a business), unless the membership is paid by automatic billing to a credit card, deduct from a bank account, or Payroll deduct from earnings, in which case, only a primary member can make such changes.
+Sam’s Club reserves the right to not allow Complimentary card holders to make any changes to a membership at its sole discretion at any time.</li>
+<li>The primary member of an account is solely responsible for Membership account maintenance, and is responsible for the account.</li>
+<li>Members receive a renewal notice by mail (unless you are set up with automatic billing on Sam's Club Credit or enrolled in the Auto Renew program).</li>
+<li> Member may renew by mail, at the Club, mobile or on SamsClub.com.
+<ul>
+<li>Business Membership and Plus Members who operate a business can renew over the phone if they do not have any add-ons.</li>
+<li>Plus and Sam's Savings renewals can be done over the phone.</li>
+</ul>
+</li>
+<li>Members with Sam's Club Credit will be automatically billed for renewal unless otherwise specified.
+You will not receive a new card each year.</li>
+<li>Renewal within 60 days of your expiration date extends your Membership for 12 months from the expiration date.
+Renewals after that point is at the discretion of Sam's Club to extend your Membership for 12 months from the renewal.</li>
+</ul>
+<strong>Membership:</strong>
+<ul>
+<li>All Memberships are subject to Sam's Club rules that are amended from time to time and may change without notice.</li>
+<li>Sam's Club reserves the right to accept, refuse or revoke Membership without cause.</li>
+<li> Sam's Business Memberships are available to all qualifying owners/operators of businesses or licensed professionals - 18 years of age or older.
+To learn about documentation requirements, click here.
+<ul>
+<li>Plus Members who own or operate a business are able to obtain a "business" distinction on the back of their card if they provide the necessary documentation.</li>
+</ul>
+</li>
+</ul>Membership Cards and Fees <strong>For all Members:</strong>
+<ul>
+<li>Membership fee is for one 12-month period from the date of enrollment of the primary cardholder.</li>
+<li>The household card is for the primary cardholder's spouse, domestic partner or household member living in the same household who is 18 years of age or older.</li>
+<li>Membership cards require a card number and a photo to be valid.
+Membership cards are non-transferable and are valid at all Sam's Club locations worldwide.</li>
+<li>Membership may be terminated and card revoked at Sam's Club discretion.</li>
+<li>Members are requested to show their cards when entering Sam's Club and when checking out.</li>
+<li>Report a lost or stolen card immediately at any Sam's Club Member Services Desk or by calling 888-746-7726.</li>
+<li>To learn about our Partner Membership Program, please click here.</li>
+<li>Specific to Sam's Business Members and Plus Members who own or operate a business:</li>
+<li>A primary Business Membership includes a card for you, a card for your household cardholder and a company card.</li>
+<li> Primary Business cardholders may add add-on cards for an additional fee.
+<ul>
+<li>Plus Members who own or operate a business may add 16 additional add-on cardholders</li>
+<li>Sam's Business Members may add 8 additional add-on cardholders</li>
+</ul>
+</li>
+<li>The company card is transferable to any Member of the organization.</li>
+</ul>Payment <strong>For all Members:</strong>
+<ul>
+<li>We accept checks, cash, Sam's Club Credit, Wal-Mart® Credit, MasterCard®, Discover®, EBT and ATM debit cards.</li>
+<li>Personal Checks: Preprinted from Member's personal checking account with Member's name, address and phone number written in the exact amount of the purchase.
+Photo ID (such as a driver's license or passport) may be required.</li>
+</ul>
+<strong>Specific to Sam's Business Members and Plus Members who operate a business:</strong>
+<ul>
+<li>Business Checks: Preprinted from company's business checking account with company name, address and phone number written in the exact amount of the purchase and signed by an authorized company representative.
+Photo ID may be required.
+The company guarantees payment on all purchases made with a company business check.</li>
+<li>All company purchases must be made with authorized company (business) checks.</li>
+<li>The Primary Business Member is not responsible for personal checks written by add-on cardholders.</li>
+</ul>
+<strong>Sam's Business Members and Plus Members who operate a business: Use of Resale Permit or Transaction of Privilege Tax License (Tax-Exempt)</strong>
+<ul>
+<li>Business Member must declare to the cashier any merchandise being purchased for resale or otherwise tax-exempt.</li>
+<li>A tax-exempt organization may purchase tax-free.
+All items purchased must be used exclusively by the tax-exempt organization for tax-exempt purposes only.</li>
+<li>To obtain tax-exempt purchasing privileges, Members must present a valid state tax-exempt number or Sales and Use tax license (or photo copy) with a Membership application and renew it once every three years at Sam's Club.</li>
+<li>If the Member buys any property for resale and uses that property for anything other than retention, demonstration or display while holding it for sale, the law requires the Member to report and pay tax, measured by the purchase price or other authorized amount.</li>
+<li>Member will hold Sam's Club harmless from and will indemnify Sam's Club against any claim, loss or expense occurring from any failure to comply with resale permits or tax-exempt requirements, and Membership will be subject to immediate forfeiture.</li>
+</ul>
